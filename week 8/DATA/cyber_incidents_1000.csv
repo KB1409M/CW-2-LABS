@@ -1,0 +1,1001 @@
+id,date,incident_type,severity,status,description,reported_by,created_at
+1,2023-05-05,Phishing,Medium,Closed,Incident 5d1kAmNCDW3gAnTaIS4l,Security Team,2025-12-10 13:43:19
+2,2024-06-13,DDoS,Medium,Resolved,Incident 6zPQ5DV9UYhwuWKXpMZO,System,2025-12-10 13:43:19
+3,2023-05-10,Ransomware,High,Closed,Incident RYYS1mPyYP5Pz647Vi5J,User,2025-12-10 13:43:19
+4,2023-03-23,Unauthorized Access,Critical,Resolved,Incident RS2TptM84o8dC06slSe9,Security Team,2025-12-10 13:43:19
+5,2024-02-29,Data Breach,Critical,Investigating,Incident L5z26rPfUckxgQMt01rP,Admin,2025-12-10 13:43:19
+6,2023-10-21,Malware,Low,Open,Incident rxQGHRSytET4N9TvOX97,Admin,2025-12-10 13:43:19
+7,2023-08-20,Data Breach,Critical,Investigating,Incident dDZWZhg75jRfJg0wZ0Jz,Security Team,2025-12-10 13:43:19
+8,2023-09-13,Phishing,Critical,Investigating,Incident 7zRTcDIZkXEaE8WHYWLT,System,2025-12-10 13:43:19
+9,2023-02-25,Malware,Medium,Resolved,Incident iOdETSKuiknHIiRC8QCp,System,2025-12-10 13:43:19
+10,2024-02-01,Data Breach,Low,Closed,Incident gMWuPEaX8MEaaAqiWTK1,Admin,2025-12-10 13:43:19
+11,2024-06-18,Malware,Critical,Open,Incident I4OelqLLLqiY8Xoag7XX,System,2025-12-10 13:43:19
+12,2023-07-31,Data Breach,High,Closed,Incident 3kEJDnQ689DgQhyPDVOx,Admin,2025-12-10 13:43:19
+13,2023-08-13,Phishing,Critical,Resolved,Incident 8iIbSg0Ws7a2TFOOUFWd,System,2025-12-10 13:43:19
+14,2024-08-12,Data Breach,Medium,Investigating,Incident jUcgsGEWvYYpHKxlV9bE,Security Team,2025-12-10 13:43:19
+15,2024-06-10,Phishing,Critical,Resolved,Incident DuTWDy5FZv6AlR2c588N,System,2025-12-10 13:43:19
+16,2024-07-03,Phishing,Low,Closed,Incident 9EuNio3MsDH4pEtFwxZP,User,2025-12-10 13:43:19
+17,2023-02-21,Unauthorized Access,Medium,Open,Incident N921gRVfJnXwdL7F0MLD,User,2025-12-10 13:43:19
+18,2023-10-09,DDoS,Low,Investigating,Incident d0YqnsjwGe0G6CwEUITp,Security Team,2025-12-10 13:43:19
+19,2023-07-24,Phishing,Low,Resolved,Incident MAw9nCl5sar1LquDoCd9,User,2025-12-10 13:43:19
+20,2023-05-16,Data Breach,High,Resolved,Incident hy1FDp93vUWKDoBV5U5S,User,2025-12-10 13:43:19
+21,2024-07-14,Ransomware,Low,Investigating,Incident FfrVsSvVP9lGctdSY1K3,User,2025-12-10 13:43:19
+22,2023-03-10,Phishing,Low,Open,Incident uhC0FtcwxX94FfyXLlD5,Security Team,2025-12-10 13:43:19
+23,2023-04-26,Ransomware,Critical,Open,Incident R6BkQoBN9LUvrFHLqDSu,User,2025-12-10 13:43:19
+24,2023-01-04,DDoS,Critical,Closed,Incident Y6KO3hccNRwEYGHkSkXV,Security Team,2025-12-10 13:43:19
+25,2023-06-07,Phishing,Critical,Investigating,Incident 07R7dvKS30Jbqd8oRdTO,Security Team,2025-12-10 13:43:19
+26,2024-09-08,DDoS,Medium,Investigating,Incident 1pzYwgjoHkmVcdwajalN,System,2025-12-10 13:43:19
+27,2024-08-04,Unauthorized Access,Low,Closed,Incident 7yJt2cAkGA0V0Y3ROcnM,System,2025-12-10 13:43:19
+28,2023-03-17,Data Breach,Medium,Open,Incident Z94sEAoztiICno6KqWl7,System,2025-12-10 13:43:19
+29,2023-04-01,Unauthorized Access,High,Resolved,Incident dkq9HsLMRaqyw9F4j7lY,Security Team,2025-12-10 13:43:19
+30,2023-11-01,Malware,Critical,Resolved,Incident wN9sdocVxL0m4dY64VKh,System,2025-12-10 13:43:19
+31,2023-02-04,Ransomware,High,Open,Incident ztuY1hK5inVdXOadDUWn,System,2025-12-10 13:43:19
+32,2024-07-15,Phishing,Low,Closed,Incident GBhPKu5bq5Jk8FusyKxH,User,2025-12-10 13:43:19
+33,2024-07-14,DDoS,Critical,Investigating,Incident mT97Zp5FY9TueFtHGSPJ,Admin,2025-12-10 13:43:19
+34,2024-11-07,Unauthorized Access,Critical,Resolved,Incident D7TuXpds8P6vKT924UEg,Security Team,2025-12-10 13:43:19
+35,2024-03-02,Unauthorized Access,Medium,Investigating,Incident ow2OISXxo4DgDG02lSga,Security Team,2025-12-10 13:43:19
+36,2023-02-03,Unauthorized Access,Critical,Open,Incident uzxZre89H9hUuzriANyo,Admin,2025-12-10 13:43:19
+37,2024-03-31,Unauthorized Access,Medium,Investigating,Incident RSieDwzjdEe8TubN5BCn,Security Team,2025-12-10 13:43:19
+38,2024-07-04,Ransomware,Critical,Open,Incident A3dT2lRJ5tAYYXhMW60O,System,2025-12-10 13:43:19
+39,2023-03-11,Data Breach,Critical,Investigating,Incident w8cDkJwVeRTlLiN6IxQg,User,2025-12-10 13:43:19
+40,2024-10-04,DDoS,High,Closed,Incident hC4yWqKeHzjpWU4ay98A,User,2025-12-10 13:43:19
+41,2024-11-05,Unauthorized Access,Medium,Closed,Incident fRUGzvHQqEpbCrWlx8jL,User,2025-12-10 13:43:19
+42,2023-03-26,Ransomware,High,Closed,Incident bw4NNTlt6JHPqYB5cYcx,Security Team,2025-12-10 13:43:19
+43,2024-10-25,Ransomware,Medium,Resolved,Incident yyoOsoL9TVP9khQRpHOH,Admin,2025-12-10 13:43:19
+44,2023-07-11,Data Breach,Low,Resolved,Incident lC1LkbCSCkuZBr0AvimE,System,2025-12-10 13:43:19
+45,2023-06-17,Malware,Critical,Resolved,Incident W6y5cxWX2bi6iRXMDgjL,Security Team,2025-12-10 13:43:19
+46,2024-02-25,Phishing,Low,Closed,Incident DJ0caZb0wXbx9KP1VewI,Security Team,2025-12-10 13:43:19
+47,2023-05-07,Ransomware,High,Closed,Incident SfxmHTaVQiIhrSja6Mp2,User,2025-12-10 13:43:19
+48,2024-03-06,Unauthorized Access,Critical,Closed,Incident 8mTIYDei5dybFj0X3d7w,User,2025-12-10 13:43:19
+49,2024-10-27,Ransomware,Low,Investigating,Incident 6gd0EhcitjNO22yOSkvV,Admin,2025-12-10 13:43:19
+50,2023-05-04,Ransomware,Medium,Resolved,Incident w9tWTbms9WtnN0Inmq3f,Admin,2025-12-10 13:43:19
+51,2023-05-19,Data Breach,Low,Closed,Incident N7PQqgdPxJJ41julHb3b,Admin,2025-12-10 13:43:19
+52,2024-04-15,Malware,Low,Resolved,Incident Gdj2VXFYDW5bSVQbGQn2,System,2025-12-10 13:43:19
+53,2023-10-14,Unauthorized Access,Low,Closed,Incident XKsPqEKbTjm52GYMtwvN,Admin,2025-12-10 13:43:19
+54,2023-11-16,Unauthorized Access,Low,Open,Incident fomtH56SIsB2HIRDvG0A,Security Team,2025-12-10 13:43:19
+55,2023-07-16,Data Breach,Critical,Resolved,Incident VdFMoGHhcQrlFNudB8do,Admin,2025-12-10 13:43:19
+56,2024-10-28,Phishing,Critical,Open,Incident UkpMd95N0p5F8RwBlCf0,Admin,2025-12-10 13:43:19
+57,2023-06-02,Ransomware,Critical,Investigating,Incident LE4AMssrs45WfKwjhTYb,Admin,2025-12-10 13:43:19
+58,2024-11-04,Ransomware,Medium,Resolved,Incident vhD4dVDfAAoBK5czJpcG,System,2025-12-10 13:43:19
+59,2023-03-22,Malware,Critical,Open,Incident IVdNZovFqhQjKMVVF2UO,System,2025-12-10 13:43:19
+60,2024-09-22,DDoS,Medium,Resolved,Incident uHmfPesuNhs1U7hUbq69,Admin,2025-12-10 13:43:19
+61,2024-07-08,Phishing,High,Closed,Incident cr75bLAcm98XaEhJIIGm,Security Team,2025-12-10 13:43:19
+62,2024-03-18,Malware,Critical,Open,Incident 66FxFACnZCaLxVO2jVBt,Admin,2025-12-10 13:43:19
+63,2024-03-07,DDoS,High,Investigating,Incident hXqNYahJ9zjgp7DPrOqD,Admin,2025-12-10 13:43:19
+64,2024-02-18,Unauthorized Access,Medium,Investigating,Incident FKYb7UR05tKo1x1XhpBg,System,2025-12-10 13:43:19
+65,2024-03-28,DDoS,Medium,Investigating,Incident kqik6eG8WsCVaVg18Ghs,System,2025-12-10 13:43:19
+66,2023-12-06,DDoS,Low,Resolved,Incident yfcHYBft29z0mGFiHHcJ,User,2025-12-10 13:43:19
+67,2023-11-29,Phishing,Medium,Investigating,Incident 1EBltp3N1pJiiybkIjF0,System,2025-12-10 13:43:19
+68,2023-11-08,Ransomware,Medium,Open,Incident XvEtf0v2LAW60aQ2ybGk,Security Team,2025-12-10 13:43:19
+69,2023-02-06,Unauthorized Access,Medium,Investigating,Incident W17iTpiOMzv1AAr8Tncu,User,2025-12-10 13:43:19
+70,2023-12-20,Ransomware,Low,Open,Incident BK5NLP3t9ssh1qEtVPMh,Admin,2025-12-10 13:43:19
+71,2024-09-03,Phishing,Medium,Investigating,Incident 6dAs4EpOCIpv6fMo3fJi,Security Team,2025-12-10 13:43:19
+72,2023-03-22,Phishing,High,Resolved,Incident fZaMQtggU70scEI48QYp,User,2025-12-10 13:43:19
+73,2024-10-30,DDoS,High,Investigating,Incident cXiOIqdc70toAbgoH8af,User,2025-12-10 13:43:19
+74,2024-08-23,Malware,Critical,Investigating,Incident Sm5oJZW8r3tru9NXFuGz,System,2025-12-10 13:43:19
+75,2024-02-28,Malware,Critical,Open,Incident HNTfnV3lBNDqok8L8WiB,Security Team,2025-12-10 13:43:19
+76,2023-09-28,Unauthorized Access,Medium,Closed,Incident Nt07In0R5grMArpKL4NW,Admin,2025-12-10 13:43:19
+77,2023-10-11,Unauthorized Access,Critical,Resolved,Incident mX7kFm1jIh0wICPXYYJx,System,2025-12-10 13:43:19
+78,2023-01-14,Unauthorized Access,Critical,Investigating,Incident ozrER1ydndWYarbecySY,Admin,2025-12-10 13:43:19
+79,2024-05-28,Data Breach,Medium,Closed,Incident v2ZU16JnjjY34wshlZIV,User,2025-12-10 13:43:19
+80,2023-10-29,Unauthorized Access,Low,Closed,Incident vnkV78u6OXz2gZH9VmHW,System,2025-12-10 13:43:19
+81,2023-04-05,Unauthorized Access,Low,Open,Incident IPc9kZ8maS7DTqoIFSU6,Security Team,2025-12-10 13:43:19
+82,2024-04-05,DDoS,Critical,Investigating,Incident zpIDrJ2eGUNzMzetgyJ9,Security Team,2025-12-10 13:43:19
+83,2023-05-17,DDoS,High,Investigating,Incident vyC1qzHnR9gYvcSalWVh,Admin,2025-12-10 13:43:19
+84,2023-10-07,Ransomware,Low,Resolved,Incident nTLdbUKnvtpOIqFSd2qm,Admin,2025-12-10 13:43:19
+85,2024-01-08,Ransomware,Medium,Closed,Incident IuqW6mNwgRSjv9zaqBC4,Admin,2025-12-10 13:43:19
+86,2024-09-10,Unauthorized Access,Low,Resolved,Incident I1yNpNv8pp13zELDjr2U,Security Team,2025-12-10 13:43:19
+87,2023-08-26,Ransomware,Critical,Closed,Incident cGYSuqOJqVo8yosmQbFi,System,2025-12-10 13:43:19
+88,2024-11-09,Unauthorized Access,High,Open,Incident REoqIf8K5T4PQKagSkRf,Admin,2025-12-10 13:43:19
+89,2024-07-01,Malware,Low,Investigating,Incident hp98ibovQ82sL1fUPcZI,User,2025-12-10 13:43:19
+90,2024-08-22,Malware,Critical,Investigating,Incident mPaLvtffbDTGm7HJQ1mQ,User,2025-12-10 13:43:19
+91,2023-04-27,Unauthorized Access,Critical,Resolved,Incident UmfkHvpbTDwIELwkkxPL,Admin,2025-12-10 13:43:19
+92,2024-07-05,DDoS,Critical,Resolved,Incident 4lMp89QH31xWHHDtPx4s,Security Team,2025-12-10 13:43:19
+93,2023-04-13,Data Breach,Low,Resolved,Incident 77F2vqLpM13ZOECy57xa,System,2025-12-10 13:43:19
+94,2023-06-13,Malware,High,Investigating,Incident 227IMMaqxcJCg5kXc2zM,Security Team,2025-12-10 13:43:19
+95,2023-01-24,DDoS,Critical,Investigating,Incident eTbdZeodVjnkVXF5Gzv7,Security Team,2025-12-10 13:43:19
+96,2023-06-13,Data Breach,Medium,Open,Incident 9Nu6gn0qmyTUtWtM6WSE,System,2025-12-10 13:43:19
+97,2024-06-27,Data Breach,Medium,Resolved,Incident LEgVc0apcfwbfWPBBRaq,Admin,2025-12-10 13:43:19
+98,2024-07-26,DDoS,Critical,Resolved,Incident 8dmOTVPKglaTiNXnIi0C,System,2025-12-10 13:43:19
+99,2023-02-11,Phishing,Medium,Open,Incident uZsVq4aADR1lcYrrAlD9,User,2025-12-10 13:43:19
+100,2024-09-15,Data Breach,Medium,Closed,Incident 2wI3qxuKxpTwHEejYQvB,Admin,2025-12-10 13:43:19
+101,2023-10-22,Ransomware,Medium,Investigating,Incident vj2yAWxIH1vCtSpoHqzU,User,2025-12-10 13:43:19
+102,2024-08-11,Malware,Critical,Open,Incident J6DRxOVzbjiodHQLzTMp,System,2025-12-10 13:43:19
+103,2024-11-24,Ransomware,Medium,Closed,Incident PDDdpgIeFEdX2I01ecBd,User,2025-12-10 13:43:19
+104,2024-03-16,Unauthorized Access,High,Resolved,Incident aiaDrHipjPe0TzEXjvp1,System,2025-12-10 13:43:19
+105,2024-05-02,Ransomware,High,Investigating,Incident IqB7FlcoOftItbIaAnzH,Security Team,2025-12-10 13:43:19
+106,2023-11-23,DDoS,Critical,Investigating,Incident 8qkbv8MWBOj618moKp6t,System,2025-12-10 13:43:19
+107,2024-10-21,Data Breach,Low,Closed,Incident VdgDMayQJJwaB6kROUzX,System,2025-12-10 13:43:19
+108,2024-09-26,Malware,Critical,Resolved,Incident 30IVmqDETC024LwkjdOf,User,2025-12-10 13:43:19
+109,2023-04-29,DDoS,Low,Open,Incident NuZuBIxsTCsgvQ32c1iw,Security Team,2025-12-10 13:43:19
+110,2023-09-11,Ransomware,Medium,Investigating,Incident 5baUyUycG9LvwbZy2irK,Security Team,2025-12-10 13:43:19
+111,2024-01-31,DDoS,High,Closed,Incident h6L9ynOPEfi0Fg7nXP2K,System,2025-12-10 13:43:19
+112,2024-07-16,Unauthorized Access,High,Resolved,Incident NQcaxtC6yXp9KUP6N5Nf,Admin,2025-12-10 13:43:19
+113,2024-08-26,Unauthorized Access,High,Resolved,Incident tVK23ws2nr5Sooq2UlrT,Admin,2025-12-10 13:43:19
+114,2023-04-28,Malware,Critical,Closed,Incident l91tscCg7Gkx0W50yo87,User,2025-12-10 13:43:19
+115,2024-05-31,Phishing,Critical,Closed,Incident IgYxdjnqMrd9VIf9O9nV,User,2025-12-10 13:43:19
+116,2024-09-25,Ransomware,Low,Closed,Incident AfQxrxDzqBDGlTVoOlee,Admin,2025-12-10 13:43:19
+117,2023-12-08,Ransomware,Medium,Closed,Incident Mruir360PAtX2GKEO2I4,System,2025-12-10 13:43:19
+118,2024-09-26,Phishing,Critical,Open,Incident jEgo9OrJzCFVlWO6V0Ud,Security Team,2025-12-10 13:43:19
+119,2023-08-08,Phishing,Low,Investigating,Incident noJGXOwmfUnaFB53pKBz,Admin,2025-12-10 13:43:19
+120,2023-11-27,Phishing,High,Resolved,Incident 07EZzwnRXeTEPZdgLEhb,System,2025-12-10 13:43:19
+121,2024-03-16,Phishing,Low,Closed,Incident iQnaeL1iR7ACx5q2ZuwN,Admin,2025-12-10 13:43:19
+122,2023-11-03,Malware,Medium,Resolved,Incident xoIlqXoKcSIihCh3MAfM,User,2025-12-10 13:43:19
+123,2023-04-20,Data Breach,Critical,Investigating,Incident xbCDtAoj2G5f3bE4PkVn,Security Team,2025-12-10 13:43:19
+124,2023-02-11,Data Breach,Low,Resolved,Incident 6SHVhRnrgZG7v6jaE9TY,Admin,2025-12-10 13:43:19
+125,2023-10-20,Malware,Low,Closed,Incident 5LYYGrf00gBqLBvz4AZV,Security Team,2025-12-10 13:43:19
+126,2024-06-01,Data Breach,Medium,Investigating,Incident s8WFF9CcJSRNEnFD4xGW,System,2025-12-10 13:43:19
+127,2024-06-29,Malware,Medium,Resolved,Incident ox3UrDO1m1uXacOKZDHV,System,2025-12-10 13:43:19
+128,2024-04-16,Data Breach,Low,Investigating,Incident Xw0iiviGBTfOgMCVA7Ni,Security Team,2025-12-10 13:43:19
+129,2023-12-06,Unauthorized Access,Low,Closed,Incident XI5qN4tx5EtLQhft9ExA,Security Team,2025-12-10 13:43:19
+130,2023-12-24,Ransomware,Medium,Open,Incident KrQ7vpDClI6cT7agr3XV,Security Team,2025-12-10 13:43:19
+131,2024-01-13,Phishing,Medium,Investigating,Incident 8zYKfltVxrSeDBo9gbmx,System,2025-12-10 13:43:19
+132,2023-11-21,Ransomware,High,Investigating,Incident 35Y1rbodJmldqwpE4QU7,Admin,2025-12-10 13:43:19
+133,2024-04-19,Ransomware,Low,Open,Incident JbYUsk39s33pEvAqkFjn,User,2025-12-10 13:43:19
+134,2023-03-14,Unauthorized Access,Low,Investigating,Incident fNijG6eBMyTECjB42J6Z,User,2025-12-10 13:43:19
+135,2023-07-17,Unauthorized Access,Low,Open,Incident 66w73F7t1mGGzahbAllZ,Admin,2025-12-10 13:43:19
+136,2023-10-01,DDoS,Critical,Open,Incident pxxvAZNf4ntGQ2MtdsvC,Security Team,2025-12-10 13:43:19
+137,2024-04-15,DDoS,High,Investigating,Incident FX2vWeBRrj3YpG86pYch,System,2025-12-10 13:43:19
+138,2024-02-06,Ransomware,Critical,Open,Incident E0qZ4dWMGE3t0S38AeMz,Admin,2025-12-10 13:43:19
+139,2023-02-05,Phishing,Medium,Resolved,Incident 4uwUERz7BqZHDpn5LUhY,Admin,2025-12-10 13:43:19
+140,2023-05-03,Data Breach,Medium,Investigating,Incident JuXA3j2UFvJg9X2oPGub,User,2025-12-10 13:43:19
+141,2023-05-27,Malware,High,Open,Incident axHBzXJllkngGMccdKHf,System,2025-12-10 13:43:19
+142,2024-04-18,Unauthorized Access,High,Closed,Incident NXgSFd5dlcEmIpGZgU1z,Admin,2025-12-10 13:43:19
+143,2024-11-08,Unauthorized Access,Medium,Closed,Incident Q9NKkGozCbfB59OiBf2q,Admin,2025-12-10 13:43:19
+144,2023-05-03,Data Breach,Critical,Resolved,Incident GUOdoFmMmPhybskhbK2Q,Security Team,2025-12-10 13:43:19
+145,2024-05-28,Data Breach,Medium,Resolved,Incident uXoYwkj8MWBexyUuubYP,System,2025-12-10 13:43:19
+146,2024-06-12,Ransomware,Critical,Investigating,Incident 9wkMgMoqcYagGvq4PVej,Security Team,2025-12-10 13:43:19
+147,2023-04-04,Unauthorized Access,Low,Open,Incident bMZTC40GAXyLMSLzY42f,Admin,2025-12-10 13:43:19
+148,2024-09-07,Phishing,Critical,Investigating,Incident FJWxLhENWGQjhC5cxv2q,Security Team,2025-12-10 13:43:19
+149,2023-11-21,Malware,Medium,Resolved,Incident PVbl8mGCPkaQYgGkoRA9,Security Team,2025-12-10 13:43:19
+150,2024-01-26,Malware,Critical,Investigating,Incident XZx8lDEytbFsPN6HE6zH,System,2025-12-10 13:43:19
+151,2024-05-23,Malware,High,Resolved,Incident i1wrupuwrYskodDR7maZ,System,2025-12-10 13:43:19
+152,2023-06-15,DDoS,High,Resolved,Incident cn0jckaQr8aQGokJfT8A,User,2025-12-10 13:43:19
+153,2024-11-28,Phishing,Low,Resolved,Incident mod8QNhTSL48bzbgEISU,Admin,2025-12-10 13:43:19
+154,2023-12-22,Ransomware,Critical,Investigating,Incident nWodpPRAuyRYz4YisbJK,User,2025-12-10 13:43:19
+155,2024-02-16,Malware,High,Closed,Incident fhDRLwobssbb4w823ZF1,User,2025-12-10 13:43:19
+156,2023-08-01,Data Breach,Low,Investigating,Incident ZhfZUUMye2N7OWPbdPWi,Security Team,2025-12-10 13:43:19
+157,2024-11-22,Ransomware,Critical,Investigating,Incident dAU0EQVJY75WeSDLUN3d,Security Team,2025-12-10 13:43:19
+158,2024-08-16,Malware,High,Resolved,Incident wgdEbpyeud2DAUek4Zf0,User,2025-12-10 13:43:19
+159,2023-11-29,Phishing,Low,Resolved,Incident kbdarindQqOqQkP2DP0S,System,2025-12-10 13:43:19
+160,2023-12-29,DDoS,High,Resolved,Incident JhzAq8RSfkvSGXAd8pi2,Security Team,2025-12-10 13:43:19
+161,2023-06-25,Phishing,Critical,Investigating,Incident nhtecxO5TGhPPGKaUkC2,Admin,2025-12-10 13:43:19
+162,2023-09-13,Phishing,Medium,Closed,Incident pepE8tnNR6n8XOWXKvJ9,System,2025-12-10 13:43:19
+163,2024-10-24,Malware,Critical,Open,Incident qECKc8f6WEs4hngvkoIW,Security Team,2025-12-10 13:43:19
+164,2024-03-15,Malware,Critical,Closed,Incident cvcpohe5MtoBov0sBzWS,User,2025-12-10 13:43:19
+165,2023-06-22,Data Breach,Critical,Open,Incident bvdHsmn0SUhwHZkg694E,System,2025-12-10 13:43:19
+166,2023-06-30,Data Breach,Medium,Closed,Incident 79tVJi0RfaZWkDQOoplk,User,2025-12-10 13:43:19
+167,2023-08-08,Data Breach,Critical,Open,Incident TNECgW4MzKZ4xaYzt2bK,User,2025-12-10 13:43:19
+168,2024-04-13,Unauthorized Access,High,Open,Incident 9pFKYRMhaYhQ036wXzuz,Admin,2025-12-10 13:43:19
+169,2023-06-23,Data Breach,High,Open,Incident fUq2tFGjMitgErYfn6n2,System,2025-12-10 13:43:19
+170,2023-07-30,Unauthorized Access,Critical,Resolved,Incident 2uSyZgzEZtQ8NeoMMlJm,Admin,2025-12-10 13:43:19
+171,2024-07-10,Malware,High,Closed,Incident pqrGQXsRHzl281vFakKE,System,2025-12-10 13:43:19
+172,2024-02-13,Malware,Medium,Closed,Incident ga1HtJrRrBaRUqC1ncYc,System,2025-12-10 13:43:19
+173,2023-08-23,Data Breach,Low,Investigating,Incident Q0AQFcqRygxy8SIdp3LT,Security Team,2025-12-10 13:43:19
+174,2024-01-01,Phishing,Low,Resolved,Incident BLhCTTSWx7HrSHdBM5Lp,Security Team,2025-12-10 13:43:19
+175,2024-03-11,Data Breach,Low,Closed,Incident jHryGOHbdqEXkRJV9AKg,User,2025-12-10 13:43:19
+176,2023-02-13,Ransomware,Medium,Open,Incident EGWfwvCQXjLjX5J2L1oQ,User,2025-12-10 13:43:19
+177,2024-08-30,Ransomware,Critical,Closed,Incident 05piLhYopogrXCnTSm92,User,2025-12-10 13:43:19
+178,2023-06-13,Phishing,Critical,Resolved,Incident WGTHtK51TguuWpLV7nXV,System,2025-12-10 13:43:19
+179,2023-06-14,DDoS,High,Resolved,Incident lOGiqN6CSm6oHNwanXuu,Security Team,2025-12-10 13:43:19
+180,2024-11-15,Ransomware,Medium,Investigating,Incident ebkZmswDFncD6smP4G6z,User,2025-12-10 13:43:19
+181,2023-06-27,DDoS,Low,Closed,Incident fe7FMggATUF1yav6GnkZ,System,2025-12-10 13:43:19
+182,2023-08-17,Phishing,Medium,Open,Incident 5UMJ6iStcgcDPqxBON8F,Security Team,2025-12-10 13:43:19
+183,2023-05-17,Ransomware,Low,Resolved,Incident vrhJTGWyeBygyGLMDFS5,Admin,2025-12-10 13:43:19
+184,2024-08-04,Phishing,High,Investigating,Incident lh6h9V4ZbJVbdE8lYTSo,System,2025-12-10 13:43:19
+185,2023-04-26,Data Breach,Low,Closed,Incident tbBAEn7JI17OTNn9SVVS,System,2025-12-10 13:43:19
+186,2023-10-19,Data Breach,Critical,Resolved,Incident qWeyhKRQGDPdfuoOeC6m,User,2025-12-10 13:43:19
+187,2024-09-08,Ransomware,Critical,Resolved,Incident 3yD68BHxyEd5lx5uIrbw,Admin,2025-12-10 13:43:19
+188,2024-07-30,Malware,Medium,Resolved,Incident CXRWKaN17fwHGqAGZ45L,User,2025-12-10 13:43:19
+189,2024-04-22,Data Breach,Low,Closed,Incident QdpienhV5tSPXBOWy5xI,System,2025-12-10 13:43:19
+190,2023-03-04,Ransomware,Medium,Closed,Incident JNdBevEMCQxJoCSkxkav,User,2025-12-10 13:43:19
+191,2024-05-14,Phishing,Low,Investigating,Incident eYcAwmrOZrfCdAMpDqRp,System,2025-12-10 13:43:19
+192,2023-08-27,Phishing,Medium,Investigating,Incident Wj8mMzNz8PRpciHN5wVv,Security Team,2025-12-10 13:43:19
+193,2023-03-31,Data Breach,Medium,Closed,Incident UsRtpyrePXycM23XR0j5,User,2025-12-10 13:43:19
+194,2024-07-06,Malware,High,Resolved,Incident hhpYldHiOh53xd4mAxpI,System,2025-12-10 13:43:19
+195,2024-10-10,Data Breach,High,Investigating,Incident PdrBS9iyNAt1TZU0GkyI,System,2025-12-10 13:43:19
+196,2024-08-17,Phishing,Medium,Resolved,Incident pdSicZtJmo9H7JD8721X,User,2025-12-10 13:43:19
+197,2023-11-04,Data Breach,Medium,Closed,Incident LeQKcV4AqJ4xOuXoAQSy,Admin,2025-12-10 13:43:19
+198,2024-03-20,Unauthorized Access,Critical,Resolved,Incident Z0cQhkAFv2PeZD4Xsu4Z,User,2025-12-10 13:43:19
+199,2024-09-25,DDoS,Low,Investigating,Incident xfycbrdo4dYNVLoXkjHb,Admin,2025-12-10 13:43:19
+200,2024-02-23,Unauthorized Access,High,Open,Incident Ui27iTOm4qR8mY2JoRbS,Security Team,2025-12-10 13:43:19
+201,2024-06-04,Malware,Low,Resolved,Incident jZ9SzQC9u7Fra0NTwQWA,User,2025-12-10 13:43:19
+202,2024-06-04,Data Breach,Critical,Closed,Incident TWkQyn8AhX3Mm0HhhORb,Admin,2025-12-10 13:43:19
+203,2023-05-13,Ransomware,Low,Open,Incident Frz9DOFrcXzmZpTl95eP,System,2025-12-10 13:43:19
+204,2024-04-16,Unauthorized Access,Low,Open,Incident pWMZunX8iqVCLLOODAjY,User,2025-12-10 13:43:19
+205,2024-09-02,DDoS,High,Open,Incident iZIjk7V9XPPIiElobf4u,Security Team,2025-12-10 13:43:19
+206,2023-08-28,Ransomware,High,Resolved,Incident l5j24Yg1wc2pcEgjN2qo,System,2025-12-10 13:43:19
+207,2024-10-17,Unauthorized Access,Medium,Resolved,Incident Il7wHQsj1E56uz7jOAdK,System,2025-12-10 13:43:19
+208,2024-07-12,Ransomware,Medium,Investigating,Incident MThs40CAxpxlysKgRpUE,Security Team,2025-12-10 13:43:19
+209,2023-06-18,Ransomware,High,Open,Incident 8Yq8E5NIDEEDUNxIocHO,Admin,2025-12-10 13:43:19
+210,2023-04-01,Malware,Low,Investigating,Incident 3ejBnVicScdNZEAqNkzP,System,2025-12-10 13:43:19
+211,2024-11-10,Malware,Low,Investigating,Incident CYj1JHjKNxHP8Zr0YO4K,User,2025-12-10 13:43:19
+212,2023-03-13,Unauthorized Access,High,Investigating,Incident XZ2rNoqWisNAOOdTJqw9,System,2025-12-10 13:43:19
+213,2024-08-20,Ransomware,Low,Closed,Incident 6oorChCuynSEIxHd8SKz,Admin,2025-12-10 13:43:19
+214,2024-05-21,Unauthorized Access,Medium,Open,Incident DRmiqjsa24xI2PCrkuZB,Admin,2025-12-10 13:43:19
+215,2023-12-08,Unauthorized Access,Medium,Investigating,Incident u12slotszfbkuuemVEMv,User,2025-12-10 13:43:19
+216,2023-05-15,DDoS,Low,Closed,Incident i4IxFR8dn60FHiWncCPw,System,2025-12-10 13:43:19
+217,2024-10-07,Phishing,Critical,Resolved,Incident I6RzKXUpLnPlecBz770j,User,2025-12-10 13:43:19
+218,2023-06-18,Ransomware,Low,Resolved,Incident G0Js0zZSmxzmoy34IZ3Z,User,2025-12-10 13:43:19
+219,2023-08-07,Data Breach,Medium,Open,Incident 709pugEi2ij6MPtn2WSw,User,2025-12-10 13:43:19
+220,2024-06-05,Phishing,Medium,Open,Incident xDthjQM1IARWm0hSqESa,Admin,2025-12-10 13:43:19
+221,2023-02-09,DDoS,Medium,Investigating,Incident yDmSGYfHtt2sbyjsnFcY,User,2025-12-10 13:43:19
+222,2024-07-06,Ransomware,High,Closed,Incident KDeRhMqmi1Y01tTJbTfL,Security Team,2025-12-10 13:43:19
+223,2023-07-10,DDoS,Medium,Resolved,Incident 7qlEBWfa4xKdmtTYd8hz,Security Team,2025-12-10 13:43:19
+224,2023-08-03,DDoS,Critical,Open,Incident fnrARoPTCwlc4vsJ7LwD,Admin,2025-12-10 13:43:19
+225,2024-03-27,DDoS,High,Investigating,Incident j2z3iDDD8WG79I2Fu9qz,User,2025-12-10 13:43:19
+226,2023-10-22,Malware,Low,Investigating,Incident 2JuYLbrKKL8v0cej2UTV,Security Team,2025-12-10 13:43:19
+227,2023-02-27,Malware,Medium,Closed,Incident TXrDfpsyXZdsvmvTol97,User,2025-12-10 13:43:19
+228,2023-01-23,DDoS,Critical,Open,Incident YhOBkO9CUSUeBdMmEu8q,Security Team,2025-12-10 13:43:19
+229,2023-06-18,DDoS,Low,Resolved,Incident sUfNRvEB9JYimGBuCBXu,Security Team,2025-12-10 13:43:19
+230,2024-02-23,Unauthorized Access,High,Open,Incident mjefZTiBa91haqSLXNDm,System,2025-12-10 13:43:19
+231,2024-09-04,Phishing,Medium,Resolved,Incident BtsN303LE2QAc4H5qA2P,Security Team,2025-12-10 13:43:19
+232,2023-10-06,Data Breach,Critical,Closed,Incident jOmBu10Wq2RarvgNOJAA,System,2025-12-10 13:43:19
+233,2024-04-09,Data Breach,Critical,Closed,Incident 7xiBlcaqycdwqODZYbQ3,Admin,2025-12-10 13:43:19
+234,2024-04-26,Phishing,High,Investigating,Incident 6cLuXZXLLtMaFFppQ7xN,User,2025-12-10 13:43:19
+235,2023-12-15,Data Breach,High,Investigating,Incident TXFtss3PKcA9O1h7BfIK,Admin,2025-12-10 13:43:19
+236,2023-12-04,Phishing,Critical,Investigating,Incident 3afFsKXkAhWUKS00uxjy,Security Team,2025-12-10 13:43:19
+237,2023-06-07,Unauthorized Access,Low,Closed,Incident PwES61y26i8CkMCRUjKR,User,2025-12-10 13:43:19
+238,2024-03-31,Ransomware,Medium,Resolved,Incident xFmByUfUh3q4BINHq2tW,Admin,2025-12-10 13:43:19
+239,2023-06-01,Phishing,Medium,Closed,Incident U1Nlcfr3qJJDZIwttyi8,Admin,2025-12-10 13:43:19
+240,2024-07-20,Ransomware,High,Closed,Incident nKt9EIAtd7BCPTEA78nw,Security Team,2025-12-10 13:43:19
+241,2024-02-24,Data Breach,Low,Open,Incident zUIXx5Agz806mZ6rMmk3,User,2025-12-10 13:43:19
+242,2023-03-06,Phishing,High,Open,Incident u3YcVLZKaw4APwCC99H4,System,2025-12-10 13:43:19
+243,2024-06-08,Ransomware,Low,Resolved,Incident qCsJE0ykdUI8HH54JMny,Security Team,2025-12-10 13:43:19
+244,2023-11-29,Phishing,High,Open,Incident IFX9gOSAQvwXJTVJaQqe,Admin,2025-12-10 13:43:19
+245,2024-01-03,Data Breach,Low,Resolved,Incident 2xHBPBVOBjyjXMd5ppIv,User,2025-12-10 13:43:19
+246,2024-07-31,Malware,Critical,Resolved,Incident yzGv9vAeIH5MhUdRGMF7,System,2025-12-10 13:43:19
+247,2024-02-01,Malware,Medium,Open,Incident hCa2HsCszhTLLcfvUpuj,Admin,2025-12-10 13:43:19
+248,2024-08-01,Ransomware,High,Closed,Incident Ta4w83M43BW2vK5MfdpC,System,2025-12-10 13:43:19
+249,2023-12-04,Phishing,Medium,Investigating,Incident mSL0zvCHHf5AJxtlBjN3,System,2025-12-10 13:43:19
+250,2023-05-23,Malware,Medium,Closed,Incident iiz8Y4numHco5uFX4SRg,User,2025-12-10 13:43:19
+251,2023-09-27,DDoS,Medium,Open,Incident IUEqNAMYrzgIZMzWwGhm,User,2025-12-10 13:43:19
+252,2024-08-13,DDoS,High,Resolved,Incident 7gliAE9F9RG2UtcNeIvb,User,2025-12-10 13:43:19
+253,2024-08-01,Unauthorized Access,Critical,Closed,Incident WxVYZsHg4cDZMxuw2fRf,System,2025-12-10 13:43:19
+254,2023-09-09,Ransomware,Critical,Resolved,Incident HWIEyTqSzo2p2Qhp35Ze,System,2025-12-10 13:43:19
+255,2023-12-29,Unauthorized Access,Critical,Investigating,Incident aaC5oZ7ozKB9vUq5AlOD,User,2025-12-10 13:43:19
+256,2023-08-07,DDoS,Critical,Open,Incident N6gcMyOS2O6L1pYPMeH6,Admin,2025-12-10 13:43:19
+257,2024-03-24,Data Breach,Critical,Resolved,Incident F7hrz4jh0hpyk1urYFqh,Security Team,2025-12-10 13:43:19
+258,2023-07-09,Phishing,High,Open,Incident WjeDP9yTH6XG0v55qGl4,Admin,2025-12-10 13:43:19
+259,2024-01-12,DDoS,Medium,Resolved,Incident cyGwtCjlBeHtDHpWL8D0,Admin,2025-12-10 13:43:19
+260,2023-04-23,Unauthorized Access,Low,Investigating,Incident 6PAadZcDP7nNv2RJn1pQ,System,2025-12-10 13:43:19
+261,2024-01-22,Ransomware,Low,Closed,Incident EnaC5lnFpuij8xzhGMyy,Admin,2025-12-10 13:43:19
+262,2024-07-31,Data Breach,Critical,Investigating,Incident U9JNxMwwpvQp51E0qFSN,System,2025-12-10 13:43:19
+263,2024-08-30,Phishing,High,Resolved,Incident 6akOMg803BSAFjkYlJen,Admin,2025-12-10 13:43:19
+264,2023-04-08,Malware,Critical,Resolved,Incident n4rLMUmlAUrhgrIaPLTH,Security Team,2025-12-10 13:43:19
+265,2023-06-10,Ransomware,High,Closed,Incident D6ISa5IVDpDoIV6t7oD9,User,2025-12-10 13:43:19
+266,2023-05-28,Ransomware,High,Closed,Incident fb6SV2W0qAhCCNV1Buq2,Admin,2025-12-10 13:43:19
+267,2023-05-19,DDoS,Critical,Resolved,Incident wWe3CirXnuV6txxINo2l,Admin,2025-12-10 13:43:19
+268,2023-11-15,Ransomware,Medium,Resolved,Incident l4LyrWNt1zxZbiZ3Rmao,Security Team,2025-12-10 13:43:19
+269,2024-11-05,DDoS,High,Closed,Incident q5CZwj8TaeaXavTDBvpu,System,2025-12-10 13:43:19
+270,2023-07-14,DDoS,Critical,Investigating,Incident Rcfj7YwpEazH3jb7NJNz,Security Team,2025-12-10 13:43:19
+271,2024-01-14,Ransomware,Medium,Closed,Incident K48YVnxpa1reVjMM9sLT,System,2025-12-10 13:43:19
+272,2023-12-29,DDoS,High,Closed,Incident gwJnaFoXZnEvfRMbvbwi,Admin,2025-12-10 13:43:19
+273,2023-10-03,Ransomware,High,Open,Incident khD6Tiq9NSXtCPHhrhzh,Security Team,2025-12-10 13:43:19
+274,2023-11-10,Malware,Low,Closed,Incident uxNHNUstyxxeg5AgEit8,Security Team,2025-12-10 13:43:19
+275,2023-04-15,Ransomware,Critical,Closed,Incident vD1HBtPRBwxqegyaHWw8,User,2025-12-10 13:43:19
+276,2023-08-18,Ransomware,Critical,Closed,Incident WfrC1lK7sxusc8wUpFUz,System,2025-12-10 13:43:19
+277,2024-02-12,Ransomware,Medium,Closed,Incident no0J1KGUiqMi76T8L0Wz,User,2025-12-10 13:43:19
+278,2023-06-21,Malware,High,Investigating,Incident N9VfEYZF3saACgQ8XWIx,User,2025-12-10 13:43:19
+279,2024-04-17,DDoS,Low,Open,Incident zRHC9aEfksjjS9DjQSEN,Admin,2025-12-10 13:43:19
+280,2023-11-11,Ransomware,High,Closed,Incident OJNjbcn58een4d4PcLUh,System,2025-12-10 13:43:19
+281,2023-09-21,Phishing,Low,Investigating,Incident 72ztuJl8J7YuQfPnNP4h,Admin,2025-12-10 13:43:19
+282,2023-06-07,Malware,High,Open,Incident ATr3RMJ64HOEeeqoWedt,Security Team,2025-12-10 13:43:19
+283,2023-11-16,Unauthorized Access,Medium,Investigating,Incident 3Nm8ndEpcZzAK4L5Xkc0,System,2025-12-10 13:43:19
+284,2024-11-21,Unauthorized Access,Low,Resolved,Incident aD4zok1dHKcuSqR0xVKp,Admin,2025-12-10 13:43:19
+285,2024-04-19,Phishing,High,Open,Incident U5TW2xaeWWiIBBj7v913,User,2025-12-10 13:43:19
+286,2023-11-03,DDoS,Medium,Closed,Incident p9qm9ekZPopBhBVaFfID,User,2025-12-10 13:43:19
+287,2024-02-03,DDoS,Low,Open,Incident luKHPG8G25ahYcQIh4cr,User,2025-12-10 13:43:19
+288,2023-10-16,Phishing,Critical,Resolved,Incident QgoqXW3OehxLx2Uv0LA4,Security Team,2025-12-10 13:43:19
+289,2023-10-22,DDoS,Critical,Investigating,Incident NElLe3L6GkBoxLY3K8GN,System,2025-12-10 13:43:19
+290,2024-08-19,Phishing,Critical,Closed,Incident P5e1NJq3s47wuPF93b5D,Security Team,2025-12-10 13:43:19
+291,2023-11-19,Data Breach,Critical,Closed,Incident ETiTxAhtjM9qGAlG4vDT,Security Team,2025-12-10 13:43:19
+292,2023-10-01,Data Breach,Low,Resolved,Incident p0YGracKR2Ojqbr77T01,Admin,2025-12-10 13:43:19
+293,2024-06-16,DDoS,Medium,Investigating,Incident TZpML0DIKjvHRD5FdeGM,Security Team,2025-12-10 13:43:19
+294,2024-07-11,Phishing,Critical,Open,Incident 0KFs9tYLzN2uiPYV7Oh9,Admin,2025-12-10 13:43:19
+295,2023-12-21,Phishing,Medium,Resolved,Incident nAZpOvwGgPI6qBZeUVSB,Admin,2025-12-10 13:43:19
+296,2024-08-21,Ransomware,Medium,Open,Incident le6aX5GipojcLft3UHWC,System,2025-12-10 13:43:19
+297,2024-04-09,DDoS,Critical,Open,Incident mLyLn0SUsfV397pU6FwU,System,2025-12-10 13:43:19
+298,2023-05-12,Ransomware,Critical,Open,Incident CNXGn0afZVi1oL4VBde0,Security Team,2025-12-10 13:43:19
+299,2023-07-15,Phishing,Medium,Open,Incident 9LbV039KOOSJZWJORlzk,Security Team,2025-12-10 13:43:19
+300,2024-02-01,Data Breach,Critical,Open,Incident yS7UmymFUNRldhg2VC0B,Security Team,2025-12-10 13:43:19
+301,2024-05-25,Ransomware,Critical,Resolved,Incident bRThDgX9VSDpxrKkpAWn,System,2025-12-10 13:43:19
+302,2023-02-16,Ransomware,Low,Closed,Incident yya6730iHHRQqA2ILLF1,Security Team,2025-12-10 13:43:19
+303,2024-02-17,DDoS,Critical,Closed,Incident qro5sfM4mAfdtV80xSon,Security Team,2025-12-10 13:43:19
+304,2024-02-18,DDoS,High,Open,Incident gtXNFppg6wL1cmAW38pe,User,2025-12-10 13:43:19
+305,2023-06-10,DDoS,Medium,Closed,Incident MkZudF9cOFpHY3wymTBJ,Admin,2025-12-10 13:43:19
+306,2023-04-28,Malware,Critical,Open,Incident 9KxIA8hoVxqEgwEsxdsm,User,2025-12-10 13:43:19
+307,2023-02-27,Data Breach,Low,Closed,Incident wceLqBMzysnou4Su5c3c,User,2025-12-10 13:43:19
+308,2023-05-11,Data Breach,Medium,Open,Incident lUyEx10zgieG2VLQ5TqQ,Security Team,2025-12-10 13:43:19
+309,2024-01-22,Ransomware,High,Open,Incident yypewUhBR5UuFvh0J2j6,System,2025-12-10 13:43:19
+310,2024-04-03,Unauthorized Access,Critical,Closed,Incident kKVNBnx3tASlUUeBXHnX,User,2025-12-10 13:43:19
+311,2023-02-26,Malware,High,Closed,Incident APSaGXdSKLdX7WUx1lJY,System,2025-12-10 13:43:19
+312,2023-08-05,Phishing,Low,Closed,Incident o3QjujpZ7Yb8RnFSfOKW,User,2025-12-10 13:43:19
+313,2023-08-12,DDoS,High,Resolved,Incident U9t3iiu2GsRPWXrIJCPD,System,2025-12-10 13:43:19
+314,2024-06-11,Phishing,Critical,Resolved,Incident IPdzZ1kdE18gnEYV7uwK,System,2025-12-10 13:43:19
+315,2023-08-06,Malware,High,Investigating,Incident bSHxzlaGuCFbA3WtaYiC,Admin,2025-12-10 13:43:19
+316,2024-07-11,Malware,Medium,Open,Incident I3sLijQvWUjYnYQK0RZR,Admin,2025-12-10 13:43:19
+317,2023-12-14,Phishing,Medium,Open,Incident 7x5jrcSnLlkCtNnuYLA0,Admin,2025-12-10 13:43:19
+318,2023-03-14,DDoS,High,Resolved,Incident w9GLcpMrsBHqn0TfJDTo,Admin,2025-12-10 13:43:19
+319,2023-01-14,Ransomware,Low,Resolved,Incident DThLKJyG53EAuYQ0RsDG,User,2025-12-10 13:43:19
+320,2024-01-03,Phishing,Low,Closed,Incident DEhIw5zHlCyC8tLDINBg,User,2025-12-10 13:43:19
+321,2024-05-20,Data Breach,Medium,Closed,Incident RT2poDInT3D6hN3SY8nl,User,2025-12-10 13:43:19
+322,2023-03-19,Phishing,Low,Open,Incident DhGLPX6sM0YiakVK7QVh,Admin,2025-12-10 13:43:19
+323,2024-01-19,DDoS,Low,Closed,Incident dmHYYGjSGeXWXOl5tMhJ,Admin,2025-12-10 13:43:19
+324,2023-06-27,Malware,Critical,Investigating,Incident LiYClVpVbcj2mKSo2Q66,Security Team,2025-12-10 13:43:19
+325,2023-08-28,Unauthorized Access,High,Open,Incident HTKQCQJIRI1HcE1n5Ktq,User,2025-12-10 13:43:19
+326,2023-06-17,Ransomware,Medium,Open,Incident L3WOxw3jKG6f4QpYOlbH,Security Team,2025-12-10 13:43:19
+327,2023-09-25,Data Breach,High,Resolved,Incident f3eBio1uXkw8oIfk8Q8c,Admin,2025-12-10 13:43:19
+328,2023-05-17,Data Breach,Low,Investigating,Incident NXzNa3rpFub0kFgs7fp7,Admin,2025-12-10 13:43:19
+329,2024-09-23,Phishing,High,Closed,Incident r6Cx34Ty8unL8YmOEEit,Security Team,2025-12-10 13:43:19
+330,2023-11-27,Malware,Critical,Closed,Incident RObxMcXwnQHjNZYGKPEt,System,2025-12-10 13:43:19
+331,2024-05-05,DDoS,Low,Investigating,Incident eJfdFf3bYpRQfCHD21tJ,System,2025-12-10 13:43:19
+332,2023-02-02,Data Breach,Medium,Closed,Incident osdnAcBv8GAyJsbdQopc,Admin,2025-12-10 13:43:19
+333,2024-04-19,Phishing,High,Investigating,Incident hGuKoC2W76RwNbEn6jsx,Security Team,2025-12-10 13:43:19
+334,2024-03-19,Phishing,Medium,Open,Incident 6VLxAO4L6dUgXp65CrW1,Security Team,2025-12-10 13:43:19
+335,2024-01-13,Malware,Low,Open,Incident yxT2yC0XDpWDWHEzyEaT,Admin,2025-12-10 13:43:19
+336,2024-11-18,DDoS,Critical,Open,Incident zWkIwgxaq55j9hJIUXre,System,2025-12-10 13:43:19
+337,2023-05-03,Malware,High,Closed,Incident eLcwjPTvK90dUxs8He14,System,2025-12-10 13:43:19
+338,2024-09-24,Malware,Critical,Resolved,Incident reMD3UfNEdwxPcoqLxDH,User,2025-12-10 13:43:19
+339,2024-06-23,Unauthorized Access,Low,Closed,Incident 7ASDHRBVC8oBCTlDEU48,User,2025-12-10 13:43:19
+340,2024-09-25,Unauthorized Access,Critical,Open,Incident 0rv2lH7RpaDdCuvXZi3N,Admin,2025-12-10 13:43:19
+341,2024-10-03,Data Breach,Medium,Open,Incident qBwlXLSqLEtbKDyGruHp,Security Team,2025-12-10 13:43:19
+342,2024-09-13,Ransomware,Low,Investigating,Incident TeIcyVO4KSCSgJJV594V,System,2025-12-10 13:43:19
+343,2024-10-08,Malware,Critical,Investigating,Incident BcqiTmgJ9slbencpl3s5,System,2025-12-10 13:43:19
+344,2024-05-14,Ransomware,Critical,Resolved,Incident nqqC1tIMsnwDdDsdLSqZ,Security Team,2025-12-10 13:43:19
+345,2023-11-30,DDoS,High,Closed,Incident wSfp7X8ENhjJjtCAsof5,Admin,2025-12-10 13:43:19
+346,2024-06-09,Data Breach,Medium,Open,Incident CMQ3nO7JiR4YhNTSlj0u,System,2025-12-10 13:43:19
+347,2023-03-25,Unauthorized Access,Medium,Investigating,Incident GIvF7vChhu8Wh9HLMQ50,User,2025-12-10 13:43:19
+348,2023-11-14,Phishing,Medium,Closed,Incident FIFY4RaNbh31FqcjKO1r,System,2025-12-10 13:43:19
+349,2024-11-29,Malware,High,Resolved,Incident Q5b8UN7vtgDiF3jFqleV,User,2025-12-10 13:43:19
+350,2023-12-03,DDoS,Low,Investigating,Incident q6xhP8IzeF6Kr7atV8Pc,Security Team,2025-12-10 13:43:19
+351,2023-12-16,Phishing,High,Closed,Incident hKDDoAxDKV8XDDpxLVC4,System,2025-12-10 13:43:19
+352,2024-02-02,DDoS,Low,Investigating,Incident YrKMOXBwNvDTmlJlxba0,Admin,2025-12-10 13:43:19
+353,2024-08-09,Data Breach,Critical,Closed,Incident B5AKh7Hc9dNXixhAXuTD,System,2025-12-10 13:43:19
+354,2023-04-18,Unauthorized Access,Low,Resolved,Incident Ysurc2XKHz0EgpwghaVU,Admin,2025-12-10 13:43:19
+355,2023-11-05,Data Breach,High,Closed,Incident DF0ZcHV4QbgNgT17bEZ5,User,2025-12-10 13:43:19
+356,2024-03-25,DDoS,High,Open,Incident cxT494Mry3maBVznwISZ,User,2025-12-10 13:43:19
+357,2023-02-08,Malware,Medium,Closed,Incident wg2XyjCGngqhg2ohuqnh,Admin,2025-12-10 13:43:19
+358,2024-02-07,Unauthorized Access,Medium,Open,Incident 3oXwXHr0hXQ7QAu4AZEI,User,2025-12-10 13:43:19
+359,2023-02-12,DDoS,Critical,Open,Incident AZAWfQxwrfXxF9iJscuC,Admin,2025-12-10 13:43:19
+360,2023-07-18,Ransomware,Low,Closed,Incident MLtw0DXIXSO1VibvbV5U,User,2025-12-10 13:43:19
+361,2024-04-06,Malware,Critical,Open,Incident JBLTWMNYfaz6LisynWG6,System,2025-12-10 13:43:19
+362,2024-08-18,Malware,High,Open,Incident KlPB4LPmzkexWtSRegJN,System,2025-12-10 13:43:19
+363,2023-03-09,Data Breach,Critical,Investigating,Incident qY7eMuHdud89zRpg5pD1,Admin,2025-12-10 13:43:19
+364,2024-07-12,Data Breach,Critical,Closed,Incident 1FcDw4NiApy8aAOmmJRk,Security Team,2025-12-10 13:43:19
+365,2023-07-10,Ransomware,Medium,Resolved,Incident kk3fGDcS6JdKDINvRCXn,System,2025-12-10 13:43:19
+366,2023-03-30,Unauthorized Access,Critical,Open,Incident QPZZbNHvmXjK7tG0cUD2,Admin,2025-12-10 13:43:19
+367,2023-04-28,Phishing,Low,Resolved,Incident EWXzqXr5kUpUNkII6pZx,Security Team,2025-12-10 13:43:19
+368,2023-10-13,Phishing,High,Closed,Incident dUnZZybqmVYTUmAHgnh8,Admin,2025-12-10 13:43:19
+369,2024-11-14,Phishing,Critical,Resolved,Incident tof82Un0yJ3CSZOpRF82,Security Team,2025-12-10 13:43:19
+370,2023-06-15,Phishing,Medium,Open,Incident BdhpBfwEiDCYNPnC2Xfo,System,2025-12-10 13:43:19
+371,2023-03-03,DDoS,High,Closed,Incident 8iufZfabTEafhXsYPAxJ,Security Team,2025-12-10 13:43:19
+372,2024-01-07,Phishing,High,Resolved,Incident L2ZmKKfDk3ii337uZNl0,Admin,2025-12-10 13:43:19
+373,2023-05-02,DDoS,Medium,Resolved,Incident q6XO5RsAcyDK5qL33Liv,Security Team,2025-12-10 13:43:19
+374,2024-10-24,Unauthorized Access,Critical,Investigating,Incident WLCbf28IFbDQi5ebNqAT,User,2025-12-10 13:43:19
+375,2023-05-29,DDoS,Low,Resolved,Incident fowvif9T7o14JkTpmmT2,Admin,2025-12-10 13:43:19
+376,2023-02-25,Ransomware,Low,Open,Incident 2xXEIA1oosKjijZTC9Ul,System,2025-12-10 13:43:19
+377,2024-06-19,Phishing,Low,Open,Incident kiFizo5RxGtfoL2NeleY,System,2025-12-10 13:43:19
+378,2024-06-30,Phishing,Medium,Resolved,Incident Qs2EI28E3b5Evuk4pWlv,Security Team,2025-12-10 13:43:19
+379,2024-01-22,Phishing,High,Closed,Incident aRKqAQ3wI1SDzsFnK2TY,System,2025-12-10 13:43:19
+380,2023-08-31,Phishing,Low,Investigating,Incident a9oTF7LDFHb3ljqqFyvB,Security Team,2025-12-10 13:43:19
+381,2023-05-22,Unauthorized Access,Medium,Resolved,Incident fa7yfdUzSDfu9xo8lk8y,Security Team,2025-12-10 13:43:19
+382,2023-09-22,Phishing,High,Open,Incident 3ttt87eQ0QKqWBc0Gmrb,Admin,2025-12-10 13:43:19
+383,2023-07-31,Data Breach,Critical,Investigating,Incident 0GB4K7ocY3lVT9wqSUkj,System,2025-12-10 13:43:19
+384,2023-01-25,DDoS,Medium,Investigating,Incident NHS9Hri1hWnOQHLrw9bf,User,2025-12-10 13:43:19
+385,2024-07-11,Unauthorized Access,Critical,Resolved,Incident 28GidKrm93HZgB7WtCqn,User,2025-12-10 13:43:19
+386,2024-04-02,DDoS,High,Open,Incident A1o9Jr8ffDS0DJQZIfwh,Admin,2025-12-10 13:43:19
+387,2023-03-15,Ransomware,High,Open,Incident ZnrxfjHVBAjpioJZFLtC,Admin,2025-12-10 13:43:19
+388,2023-06-21,Malware,High,Investigating,Incident XMjzOPW01gH3PmvhczcB,Admin,2025-12-10 13:43:19
+389,2023-08-28,Phishing,Critical,Resolved,Incident SlWito0e26ZHf6mop3K1,System,2025-12-10 13:43:19
+390,2024-08-12,Phishing,Critical,Resolved,Incident FR7q2lGVbkuTeitaR27q,User,2025-12-10 13:43:19
+391,2024-06-01,Unauthorized Access,High,Resolved,Incident 3ulJPf4vJDkVceaNpd3m,Admin,2025-12-10 13:43:19
+392,2024-05-29,Malware,Medium,Resolved,Incident 7h5SSD6yAMO77ZUdTSsG,User,2025-12-10 13:43:19
+393,2024-11-01,Phishing,High,Resolved,Incident NOhaYPBqW7xi9rmiaEka,Admin,2025-12-10 13:43:19
+394,2024-06-01,Ransomware,Medium,Open,Incident gVZaZcKvT5FzPPLvMLFA,System,2025-12-10 13:43:19
+395,2024-08-21,Unauthorized Access,High,Resolved,Incident THFXvblAr76soBCPrwT9,Admin,2025-12-10 13:43:19
+396,2024-06-06,Ransomware,Critical,Investigating,Incident L5v8JE2z8rmRe1J6Mnoq,Security Team,2025-12-10 13:43:19
+397,2024-05-30,Phishing,Critical,Closed,Incident 6Zhq3joHFAFY3D7NAWOW,User,2025-12-10 13:43:19
+398,2024-11-27,Unauthorized Access,High,Open,Incident gMftFzHR8JnAGoZC8Wmr,Security Team,2025-12-10 13:43:19
+399,2024-01-19,Unauthorized Access,Medium,Closed,Incident cSoQV0Q8HBLMCoOVMdRB,System,2025-12-10 13:43:19
+400,2023-06-20,Ransomware,Critical,Resolved,Incident BrnmsshglIp1HZzlfBGF,Admin,2025-12-10 13:43:19
+401,2023-05-06,Unauthorized Access,High,Resolved,Incident FdbmE4316JWkjkWM3JUM,System,2025-12-10 13:43:19
+402,2023-02-28,Ransomware,Medium,Investigating,Incident dWCnrSaXOCMlJdtihJY5,User,2025-12-10 13:43:19
+403,2023-03-05,Malware,Low,Investigating,Incident bz7eknOmxnlLSLbdlXe2,System,2025-12-10 13:43:19
+404,2024-07-07,Malware,High,Resolved,Incident vHsoYe8Q9hVROmaJowCQ,System,2025-12-10 13:43:19
+405,2023-11-20,Unauthorized Access,Low,Investigating,Incident W9dq2KePrNyHEBLA9gJg,System,2025-12-10 13:43:19
+406,2024-04-02,DDoS,Low,Closed,Incident YRpnK1sKXI7Lb490fi2e,User,2025-12-10 13:43:19
+407,2023-06-19,Ransomware,Low,Resolved,Incident u5XSAXiO2Hmcmxegkc19,User,2025-12-10 13:43:19
+408,2023-05-19,Unauthorized Access,Critical,Open,Incident gTrFTUL2MzEwh8j2bwSV,Security Team,2025-12-10 13:43:19
+409,2024-05-04,Unauthorized Access,Critical,Resolved,Incident UXXi4BKgXx0uQ4Tmufkc,System,2025-12-10 13:43:19
+410,2024-05-01,DDoS,Low,Closed,Incident xMwiTzkbG1n17Dfd16VL,Security Team,2025-12-10 13:43:19
+411,2024-08-29,DDoS,High,Investigating,Incident cFoMcTOKPoT7ycFtAdTv,System,2025-12-10 13:43:19
+412,2023-02-23,DDoS,Critical,Resolved,Incident bTWp549knOmpMCuabKIV,Security Team,2025-12-10 13:43:19
+413,2024-10-25,DDoS,Critical,Open,Incident NIALOZKs1iVJ1ySambjv,System,2025-12-10 13:43:19
+414,2024-04-20,Malware,Critical,Closed,Incident UVT2RkYQI8rrl8WcdEhq,Admin,2025-12-10 13:43:19
+415,2024-08-26,Malware,Critical,Closed,Incident OzlRU0iqiAwC6utWtiNq,Security Team,2025-12-10 13:43:19
+416,2023-11-01,Unauthorized Access,Critical,Open,Incident Saw9hmiu0oNciUxChcZS,User,2025-12-10 13:43:19
+417,2024-09-28,Malware,Low,Open,Incident 9tGE3TylsI9GQVMaV69R,System,2025-12-10 13:43:19
+418,2024-05-31,Phishing,Medium,Closed,Incident iRpyN5suBiwUini8DRXQ,User,2025-12-10 13:43:19
+419,2024-05-01,Malware,Low,Open,Incident FiWohAp8vxrcZvOW7Kjw,User,2025-12-10 13:43:19
+420,2023-10-16,DDoS,High,Investigating,Incident 8orHjOX0N7ysgRkJ4ybF,Security Team,2025-12-10 13:43:19
+421,2023-09-13,DDoS,Medium,Resolved,Incident 9TeDPAXsiVNrTHBH1FAJ,System,2025-12-10 13:43:19
+422,2023-01-16,Malware,Medium,Resolved,Incident Smrrj70hVmnzcnXwADIK,User,2025-12-10 13:43:19
+423,2024-01-23,Phishing,High,Resolved,Incident vhntctZ5tFaIxQkfDUTl,Admin,2025-12-10 13:43:19
+424,2023-10-20,Data Breach,Critical,Resolved,Incident wtFAH0voJxIm7p6h6yLH,Security Team,2025-12-10 13:43:19
+425,2023-11-18,Phishing,Medium,Closed,Incident IfQbLV0yZ4kIwqZpiCgo,User,2025-12-10 13:43:19
+426,2024-07-30,Ransomware,Critical,Investigating,Incident kCDB2sxlGxPl56tg5dA5,User,2025-12-10 13:43:19
+427,2024-03-29,Phishing,Medium,Resolved,Incident vkV4ifcrpEfzTEip6Uum,System,2025-12-10 13:43:19
+428,2023-10-25,DDoS,Medium,Closed,Incident fCfn3wJGEf5daBbi56wa,User,2025-12-10 13:43:19
+429,2023-02-28,DDoS,Low,Resolved,Incident ozU2OFmlHJRldqYEHzse,Admin,2025-12-10 13:43:19
+430,2024-09-23,Phishing,High,Open,Incident whHgHdCc35sNDwj9m57o,System,2025-12-10 13:43:19
+431,2023-06-13,Data Breach,Low,Resolved,Incident X5GgmB49f1la5wJ4RuwQ,User,2025-12-10 13:43:19
+432,2024-06-17,Malware,Low,Investigating,Incident uZzm0r3UjUfdugdH0o3k,User,2025-12-10 13:43:19
+433,2023-03-27,Data Breach,Medium,Closed,Incident 24Ml9pTVywSQTs0bPwcu,Admin,2025-12-10 13:43:19
+434,2023-08-17,Data Breach,High,Investigating,Incident ug7vjGrXxjYmx9Wm9Qgw,Security Team,2025-12-10 13:43:19
+435,2024-07-30,Phishing,High,Open,Incident RsbC7CiHwgRUF4q7WZGV,Security Team,2025-12-10 13:43:19
+436,2023-09-22,DDoS,Low,Open,Incident YmTDDvjEYJ37cyDv6BDs,User,2025-12-10 13:43:19
+437,2023-07-03,Unauthorized Access,Critical,Investigating,Incident mGJ0JlXruhWGRaWqX0ph,User,2025-12-10 13:43:19
+438,2023-02-17,DDoS,Critical,Open,Incident KLtE7Eoqb0OgqGLrwPJp,Security Team,2025-12-10 13:43:19
+439,2023-12-22,Unauthorized Access,Critical,Closed,Incident hECGd9HA4slALDMVErml,User,2025-12-10 13:43:19
+440,2024-05-06,Phishing,Critical,Investigating,Incident 965nHmW1kQOoNj63xEtA,Security Team,2025-12-10 13:43:19
+441,2023-01-10,Malware,Critical,Investigating,Incident cBqcglhrbvb0XSLJDdN8,Admin,2025-12-10 13:43:19
+442,2024-06-11,Unauthorized Access,Low,Closed,Incident z2LyIqUxKzG3ZSrcDlx0,User,2025-12-10 13:43:19
+443,2023-08-25,Phishing,Low,Closed,Incident xYp5JAlc02THadzl9nPn,System,2025-12-10 13:43:19
+444,2023-06-26,Ransomware,High,Open,Incident 7BCXf2get7TtsdiG5Grg,Security Team,2025-12-10 13:43:19
+445,2023-03-22,DDoS,High,Closed,Incident Dcrqj1O2FZiPcFrrOixw,User,2025-12-10 13:43:19
+446,2023-10-26,DDoS,Medium,Open,Incident N0G09eR5uXUhBggfGcfx,System,2025-12-10 13:43:19
+447,2024-02-04,Malware,High,Closed,Incident wXunxxgPBnrNNAOGEJER,System,2025-12-10 13:43:19
+448,2024-05-09,DDoS,High,Open,Incident XKqAHBZ7eC1b5aWxuwfI,User,2025-12-10 13:43:19
+449,2024-08-31,Data Breach,Low,Investigating,Incident FnA4FecZdOdd3nRR66c6,Security Team,2025-12-10 13:43:19
+450,2023-12-23,Data Breach,Medium,Closed,Incident jTBNMVewd0ZlcsI2yRX3,Admin,2025-12-10 13:43:19
+451,2023-02-14,Malware,High,Closed,Incident 4haOUknHFtojVd48Yau9,User,2025-12-10 13:43:19
+452,2023-03-30,Unauthorized Access,Low,Open,Incident oTPTUvyGdu6lsd86qcUS,User,2025-12-10 13:43:19
+453,2024-01-08,DDoS,High,Open,Incident 1SbLJjHVJBLnqjlrLOdD,Admin,2025-12-10 13:43:19
+454,2023-02-05,DDoS,High,Investigating,Incident F8A3V300XYydsHNmC9Eg,User,2025-12-10 13:43:19
+455,2023-06-07,Unauthorized Access,Medium,Resolved,Incident zpUJUPsNcsrlZlvhCo4P,User,2025-12-10 13:43:19
+456,2024-02-29,Unauthorized Access,Critical,Resolved,Incident IoqxrxXsBoQ5w0YoE132,System,2025-12-10 13:43:19
+457,2024-11-19,Data Breach,Critical,Resolved,Incident GlpOfzvUlAEyx7A5Bh5U,Admin,2025-12-10 13:43:19
+458,2024-09-15,Malware,Medium,Open,Incident neGfVJbn4Zqz3WpNVa0n,User,2025-12-10 13:43:19
+459,2023-10-30,Phishing,Medium,Resolved,Incident qx1GPkEjUsioWpsygu2V,User,2025-12-10 13:43:19
+460,2024-07-24,DDoS,Low,Closed,Incident DNcdybA631MhL6uJVyqI,Security Team,2025-12-10 13:43:19
+461,2024-05-07,Data Breach,High,Closed,Incident 5aimAepkejeageeopvvG,Admin,2025-12-10 13:43:19
+462,2024-01-23,Ransomware,Medium,Investigating,Incident aLcL01LXbj7riMmOgpLk,User,2025-12-10 13:43:19
+463,2023-03-09,Malware,Low,Closed,Incident G1RNTZh6dPdBGbKSPWCK,User,2025-12-10 13:43:19
+464,2023-07-31,Data Breach,Critical,Investigating,Incident lYmzbDYhrctsDsL1uRJk,Security Team,2025-12-10 13:43:19
+465,2024-01-27,Malware,Medium,Resolved,Incident kcRUTm6bSoPFnSMbu0fm,Admin,2025-12-10 13:43:19
+466,2024-02-14,Data Breach,Low,Resolved,Incident sNnGpQNkxKiYjp46o4vu,Security Team,2025-12-10 13:43:19
+467,2024-03-24,DDoS,High,Investigating,Incident oKnNjCqEPhqhOdDd63A1,Security Team,2025-12-10 13:43:19
+468,2024-07-11,Data Breach,Medium,Investigating,Incident av3jN2nUgDrwxCNj70Rd,System,2025-12-10 13:43:19
+469,2023-02-14,Ransomware,Critical,Resolved,Incident iKfREozQb20RfJRqC0br,User,2025-12-10 13:43:19
+470,2023-07-08,Unauthorized Access,Low,Resolved,Incident wKODNQvNrGoIj2VGlj6Y,User,2025-12-10 13:43:19
+471,2023-07-30,Ransomware,Medium,Open,Incident EYR2zYYW0lssrMZzywOk,Security Team,2025-12-10 13:43:19
+472,2024-09-15,DDoS,Low,Closed,Incident g6FTXG04mAzDVwUpFYKz,System,2025-12-10 13:43:19
+473,2023-05-24,Malware,Critical,Closed,Incident gNARZ4Aa6rHtokvAvNyD,User,2025-12-10 13:43:19
+474,2024-01-24,Ransomware,Medium,Open,Incident YvN10ineMVzrsQXfzbD9,Admin,2025-12-10 13:43:19
+475,2023-11-22,DDoS,Critical,Investigating,Incident 5GycE5aokrldhsZAHbmz,Security Team,2025-12-10 13:43:19
+476,2024-08-25,Unauthorized Access,Low,Open,Incident ZRJc5euAyYhvHdRldFsA,System,2025-12-10 13:43:19
+477,2023-02-03,Phishing,Critical,Resolved,Incident YIBXfE2hvdbfYwIlbXog,Admin,2025-12-10 13:43:19
+478,2024-08-28,Malware,Medium,Closed,Incident IZ3mnbWh8NoYAU7cizz7,Security Team,2025-12-10 13:43:19
+479,2024-10-23,DDoS,Medium,Open,Incident iOjEa8VAbjJTMPHD5XCl,User,2025-12-10 13:43:19
+480,2024-03-31,Malware,Critical,Resolved,Incident hB4WUyoepDiLg1tybGi8,Security Team,2025-12-10 13:43:19
+481,2024-02-23,Unauthorized Access,High,Open,Incident 0zUBCVK2lVIEZ8CXzEPC,Admin,2025-12-10 13:43:19
+482,2024-09-09,Ransomware,High,Closed,Incident Vk80BPPBG995bBtUcYOz,Security Team,2025-12-10 13:43:19
+483,2024-03-07,Unauthorized Access,High,Closed,Incident uCOcHoLayHhAlPyaGkXf,Security Team,2025-12-10 13:43:19
+484,2023-04-18,Unauthorized Access,Medium,Closed,Incident XaLc7sGcdTt1OAnDg71u,User,2025-12-10 13:43:19
+485,2024-10-07,DDoS,Medium,Resolved,Incident c96KDRxFUjTRKz22BZ8X,User,2025-12-10 13:43:19
+486,2023-02-04,Unauthorized Access,Low,Closed,Incident 4UJLLuDt9o13T005WVkC,Security Team,2025-12-10 13:43:19
+487,2024-09-16,Malware,Medium,Resolved,Incident a66aMLr2nZaY9NKwpdU9,Security Team,2025-12-10 13:43:19
+488,2023-12-27,Unauthorized Access,Low,Investigating,Incident Qckuy4FwMXAAfYUIfIrU,Security Team,2025-12-10 13:43:19
+489,2023-01-03,Phishing,Low,Closed,Incident oX3PINJeubNZfjOgLOxd,Security Team,2025-12-10 13:43:19
+490,2024-08-09,Ransomware,Medium,Open,Incident SxDzKY1D0YBYDlwsRm5p,System,2025-12-10 13:43:19
+491,2023-09-17,DDoS,High,Closed,Incident NuxlzjLZDrF3kjX48pNG,Security Team,2025-12-10 13:43:19
+492,2024-03-18,Malware,Low,Open,Incident ZtglrJNOQibJN0Yebbix,User,2025-12-10 13:43:19
+493,2023-07-12,Phishing,Low,Resolved,Incident S7mWNveYtct5GZC21dIj,System,2025-12-10 13:43:19
+494,2024-04-29,DDoS,Critical,Open,Incident T3tulJ7SOKCeHkLcRrXA,System,2025-12-10 13:43:19
+495,2023-03-27,Ransomware,Low,Investigating,Incident S6xEO3ZiFkEYmRyEl4Pm,User,2025-12-10 13:43:19
+496,2023-06-02,DDoS,Low,Closed,Incident FK2Kv2tog5UhiiRttc9C,User,2025-12-10 13:43:19
+497,2024-09-29,Malware,Critical,Resolved,Incident gddXnuc9G2qu9yJhxmUr,Security Team,2025-12-10 13:43:19
+498,2024-01-07,Phishing,Low,Investigating,Incident 0831R39DU3qwv03oyP7y,System,2025-12-10 13:43:19
+499,2023-09-19,Data Breach,Medium,Closed,Incident UFRa3beaIbJ2RurNyoBp,System,2025-12-10 13:43:19
+500,2024-03-20,Unauthorized Access,Medium,Open,Incident qCavDyWLr5rLc905w6u1,Admin,2025-12-10 13:43:19
+501,2023-03-21,Unauthorized Access,Low,Resolved,Incident qAqQiHcNPtnVZNNfoSrT,Admin,2025-12-10 13:43:19
+502,2024-07-18,Ransomware,Critical,Open,Incident iZUvvihuBzhKEym1SsWp,System,2025-12-10 13:43:19
+503,2023-07-26,Data Breach,Low,Resolved,Incident PGkOK3SqERkfDlptauXb,Admin,2025-12-10 13:43:19
+504,2024-02-14,DDoS,High,Open,Incident OfhdQyeZnRQ6KXOzedWv,Security Team,2025-12-10 13:43:19
+505,2024-05-23,Data Breach,High,Open,Incident wvU57BGX1dL5eKf4is2g,Security Team,2025-12-10 13:43:19
+506,2023-11-27,Ransomware,Medium,Investigating,Incident a4RbO8JF1OwcozFVVwaq,System,2025-12-10 13:43:19
+507,2024-04-02,DDoS,Low,Open,Incident 6zxJpYPQqaol6Z34iEoc,User,2025-12-10 13:43:19
+508,2023-07-26,Data Breach,Critical,Resolved,Incident AZNuv4m8voEbQ7ffRQp4,Admin,2025-12-10 13:43:19
+509,2024-04-03,Unauthorized Access,Critical,Resolved,Incident YfpV7SO4E4gx632DttHf,System,2025-12-10 13:43:19
+510,2023-03-12,Malware,Medium,Open,Incident kDkxcDYq125cMJvoTD0F,Admin,2025-12-10 13:43:19
+511,2023-12-25,Data Breach,Low,Open,Incident yeJQ2h36FjDaHjuSoiSW,User,2025-12-10 13:43:19
+512,2023-11-22,Phishing,High,Open,Incident yqW0jfmmIXYLNc1fYerE,Security Team,2025-12-10 13:43:19
+513,2024-09-27,Data Breach,Medium,Open,Incident 2fFHfB0EqBh0ROpLIQCM,User,2025-12-10 13:43:19
+514,2024-09-09,Malware,Medium,Open,Incident HhSuhpIKgZyPN0JoiTwj,System,2025-12-10 13:43:19
+515,2023-08-31,Ransomware,Low,Investigating,Incident jqs1uFVu7qCFVnCv2AVa,Security Team,2025-12-10 13:43:19
+516,2024-05-17,Data Breach,Medium,Open,Incident EyZ2rOSUI3XpWBJmKu6q,Security Team,2025-12-10 13:43:19
+517,2024-05-05,DDoS,Medium,Resolved,Incident ItJWc1PCSYJ5PECUfBXe,Admin,2025-12-10 13:43:19
+518,2024-06-17,Unauthorized Access,Low,Resolved,Incident 7TprnFEUKtHyQJzm6pGC,Security Team,2025-12-10 13:43:19
+519,2024-03-30,Malware,Medium,Resolved,Incident bVohM15JPxk07Caw5gs3,User,2025-12-10 13:43:19
+520,2023-10-20,Phishing,High,Closed,Incident KOTABQe8NsLKqYbn46hA,User,2025-12-10 13:43:19
+521,2023-02-24,DDoS,High,Investigating,Incident 9hZRcyfy1DEL33PnN0OE,User,2025-12-10 13:43:19
+522,2024-05-26,DDoS,High,Open,Incident vuPTNMii1dAiJnhDnxVs,Security Team,2025-12-10 13:43:19
+523,2023-08-17,Phishing,Low,Resolved,Incident go1or0ffJfSq2r7vuXtf,Security Team,2025-12-10 13:43:19
+524,2024-03-03,Data Breach,High,Investigating,Incident EP0raSUhK3c4YAaD9jk7,User,2025-12-10 13:43:19
+525,2024-01-07,Phishing,Low,Investigating,Incident DaSUEogei6vOOT6X9lCj,System,2025-12-10 13:43:19
+526,2024-02-06,Ransomware,Low,Open,Incident 9OVSJU8gwIB0WdpPXKCq,User,2025-12-10 13:43:19
+527,2023-07-24,Data Breach,Critical,Investigating,Incident 6BcWBz1t3nCtRZXoPvah,User,2025-12-10 13:43:19
+528,2023-08-17,Data Breach,Low,Investigating,Incident ooX5AC1h7uJWSjVXCSxn,User,2025-12-10 13:43:19
+529,2024-11-20,Unauthorized Access,Low,Open,Incident CijkO6a6SAbpdvzpUNcr,User,2025-12-10 13:43:19
+530,2024-10-15,Ransomware,Medium,Closed,Incident JMUQTS59cbWROAwxGZL9,Admin,2025-12-10 13:43:19
+531,2023-04-03,DDoS,Medium,Resolved,Incident JYz1KvqPmuH5lJaM95h4,System,2025-12-10 13:43:19
+532,2023-01-09,Unauthorized Access,High,Open,Incident hVNhjGYnZVsDypEj4QSw,Security Team,2025-12-10 13:43:19
+533,2023-06-09,DDoS,Low,Resolved,Incident uRU18dijW7LCIeSQjDwv,Admin,2025-12-10 13:43:19
+534,2023-06-24,Ransomware,Critical,Investigating,Incident zMgZWiWhw2QgmxuWPntY,System,2025-12-10 13:43:19
+535,2024-06-29,Malware,Medium,Open,Incident 0LtKHQ9LXtucOy3Q0NEd,User,2025-12-10 13:43:19
+536,2023-01-27,Data Breach,Medium,Open,Incident qgOrIw5EAjgFsQ2NZYgw,Security Team,2025-12-10 13:43:19
+537,2023-10-16,Unauthorized Access,Critical,Resolved,Incident nYGIpI3rKvCEepsnzDFM,Security Team,2025-12-10 13:43:19
+538,2023-12-31,Data Breach,Medium,Resolved,Incident LUsc328C2wLpoKwUBX6v,User,2025-12-10 13:43:19
+539,2023-12-27,Data Breach,Medium,Open,Incident Ev9keZkW11ux8LW8Qpej,Security Team,2025-12-10 13:43:19
+540,2024-05-19,Malware,Medium,Investigating,Incident RG3ExbYQ70r0gsPpv5ae,User,2025-12-10 13:43:19
+541,2023-05-14,Unauthorized Access,Medium,Investigating,Incident cDvH3DmLSbJbob31KIO7,Admin,2025-12-10 13:43:19
+542,2024-01-28,Malware,Critical,Open,Incident vJyNp00AGiIPS3H4SbXm,System,2025-12-10 13:43:19
+543,2024-03-05,Phishing,Medium,Investigating,Incident xcga3uu8bW3TXUc1bM5n,System,2025-12-10 13:43:19
+544,2023-01-04,Data Breach,Low,Resolved,Incident nrUyMQejfzy02oZ0kxc4,Admin,2025-12-10 13:43:19
+545,2024-01-18,Unauthorized Access,Medium,Open,Incident RyKlrEbkBNY2aPhzImGa,User,2025-12-10 13:43:19
+546,2023-08-14,Ransomware,Low,Investigating,Incident ZLvxd00j3JVTAukovD5N,System,2025-12-10 13:43:19
+547,2023-12-22,Phishing,Medium,Open,Incident gEL4qFxMOLhy0cV9J5xY,Security Team,2025-12-10 13:43:19
+548,2023-04-04,Data Breach,High,Resolved,Incident pWIARtou7ekezfa6pmee,Security Team,2025-12-10 13:43:19
+549,2024-03-21,Phishing,Critical,Investigating,Incident lH46UBT6W2PVsu45Pe58,Admin,2025-12-10 13:43:19
+550,2023-02-05,Unauthorized Access,Critical,Closed,Incident qxCkFp2nhtLjsc94kYnl,System,2025-12-10 13:43:19
+551,2023-05-14,Unauthorized Access,Medium,Investigating,Incident CjxmbPWmmTOjwbqU0gv1,System,2025-12-10 13:43:19
+552,2024-11-23,DDoS,Low,Investigating,Incident GvQhpgLA5ByzRbK3ywpY,Admin,2025-12-10 13:43:19
+553,2024-03-28,Data Breach,High,Investigating,Incident ujbdxfrV15XX2UdDj4QY,Security Team,2025-12-10 13:43:19
+554,2024-10-01,Phishing,High,Open,Incident Zqbr8Qq0gRpyKe3juzk4,System,2025-12-10 13:43:19
+555,2024-03-16,Malware,Critical,Investigating,Incident GbAmgoZTserbwTSEcOFZ,Admin,2025-12-10 13:43:19
+556,2024-08-17,Ransomware,High,Open,Incident 8mqkzy0gUfafyxrdZUpX,User,2025-12-10 13:43:19
+557,2023-09-01,Data Breach,High,Closed,Incident dPyuiipAUHS9fLlHTnXf,Security Team,2025-12-10 13:43:19
+558,2024-01-24,Malware,Low,Investigating,Incident PDXLtLU3QFo0jQCq0yZE,Security Team,2025-12-10 13:43:19
+559,2023-04-13,Malware,High,Closed,Incident fS1MsCdzllFKxc347BV4,User,2025-12-10 13:43:19
+560,2024-07-28,DDoS,Low,Resolved,Incident 5ovxqUd05e2tpIDs3OUu,Admin,2025-12-10 13:43:19
+561,2024-08-14,Unauthorized Access,Low,Resolved,Incident Vsdh9FefFRdlipkBQTln,Security Team,2025-12-10 13:43:19
+562,2024-04-30,Phishing,Medium,Resolved,Incident 2TqzTy59B6J7yVY7RImu,System,2025-12-10 13:43:19
+563,2023-06-02,Unauthorized Access,Critical,Resolved,Incident fXNIPhRrGD5wkhWiaKzE,User,2025-12-10 13:43:19
+564,2023-08-29,Data Breach,Critical,Investigating,Incident DBNqMgMihrI9EuT8bgfi,Security Team,2025-12-10 13:43:19
+565,2024-02-19,Ransomware,Critical,Resolved,Incident tOr4i90xy6Mr7HsbUf1o,System,2025-12-10 13:43:19
+566,2023-02-01,Ransomware,Critical,Closed,Incident j1RUFUPJYlbQLVAcCORY,System,2025-12-10 13:43:19
+567,2024-07-02,Phishing,High,Resolved,Incident UVTWVhuNolTy9pkVvjKb,Security Team,2025-12-10 13:43:19
+568,2024-03-12,DDoS,Critical,Resolved,Incident NQF65tPu3jtVc3Vlz8nk,User,2025-12-10 13:43:19
+569,2024-01-27,Unauthorized Access,Low,Investigating,Incident kekbCDlhwPzUWman14Yq,Admin,2025-12-10 13:43:19
+570,2023-12-11,Unauthorized Access,Low,Resolved,Incident o4nvo1P7cfHDSyXLwVRc,Admin,2025-12-10 13:43:19
+571,2023-05-19,Malware,High,Closed,Incident Uz3odsISE9oqGBSUVASb,System,2025-12-10 13:43:19
+572,2024-09-17,Unauthorized Access,Low,Resolved,Incident 15gYaOqe1NsqK3PwNQ70,Admin,2025-12-10 13:43:19
+573,2024-04-09,Unauthorized Access,Medium,Resolved,Incident QCwitYPeh0YstshFa5Vp,Admin,2025-12-10 13:43:19
+574,2023-10-07,Phishing,Medium,Open,Incident 8M5plRa6Vl4KTjtxPcLn,User,2025-12-10 13:43:19
+575,2023-06-17,Malware,Low,Open,Incident buxByYIwKZNa4rZCiQfP,System,2025-12-10 13:43:19
+576,2024-07-23,Phishing,High,Open,Incident uzdKFxUfGVaLR46hFmhY,Security Team,2025-12-10 13:43:19
+577,2024-11-01,Phishing,Critical,Investigating,Incident 6XWcpMqKZ8jPS4coJvNC,Admin,2025-12-10 13:43:19
+578,2023-09-13,Unauthorized Access,High,Closed,Incident a2Yr40AtcPIXWlQAyso7,User,2025-12-10 13:43:19
+579,2023-09-04,Phishing,High,Open,Incident GAHorDnJXa6SDRL03ijx,User,2025-12-10 13:43:19
+580,2023-08-08,DDoS,High,Resolved,Incident YgHUnSGHx9DXm471VNV4,System,2025-12-10 13:43:19
+581,2024-07-26,DDoS,High,Closed,Incident gaB8f4Ik17dbIDXlBSCp,User,2025-12-10 13:43:19
+582,2024-11-13,Unauthorized Access,Critical,Open,Incident PAA3EIIndvllY3T1XtDP,Admin,2025-12-10 13:43:19
+583,2023-06-19,Data Breach,Critical,Investigating,Incident jXnnHB4cf027U2V85YA2,System,2025-12-10 13:43:19
+584,2023-11-19,Ransomware,Low,Investigating,Incident OgBWetq2ULL9892fMULT,User,2025-12-10 13:43:19
+585,2024-01-24,Unauthorized Access,High,Open,Incident H7OzgIHunaw0FUxOLwiw,System,2025-12-10 13:43:19
+586,2023-10-26,Phishing,Critical,Resolved,Incident UjX2zXdjYRlp34e8hmce,Admin,2025-12-10 13:43:19
+587,2023-10-09,Phishing,High,Closed,Incident cGDNhANgLuWPtK0Fkhzo,Admin,2025-12-10 13:43:19
+588,2023-05-21,DDoS,Critical,Resolved,Incident kfkOtffMou5TQWlOD8u5,Admin,2025-12-10 13:43:19
+589,2024-04-29,Data Breach,Medium,Closed,Incident HkfPtp1kCqL47Qoujibu,Security Team,2025-12-10 13:43:19
+590,2023-12-18,Ransomware,Critical,Investigating,Incident RUakQgHbkhdGebzmiUao,User,2025-12-10 13:43:19
+591,2023-11-06,Phishing,Low,Resolved,Incident s9TDwYvFRSuXNzX0tg8Y,System,2025-12-10 13:43:19
+592,2023-04-10,Phishing,Medium,Open,Incident xtSrxzqJRwdOKCwG7pQX,User,2025-12-10 13:43:19
+593,2024-06-09,Malware,High,Closed,Incident fS28A08K5vf4V2Vt16p4,Admin,2025-12-10 13:43:19
+594,2024-09-25,Ransomware,Low,Open,Incident JjCpuhWegT4FSOaSWoQy,Admin,2025-12-10 13:43:19
+595,2023-11-26,Malware,Medium,Investigating,Incident Dgh1em77HIAMgFHncyXF,System,2025-12-10 13:43:19
+596,2023-09-10,Ransomware,High,Investigating,Incident JwdrXImUZo7FqMmFPOT8,Security Team,2025-12-10 13:43:19
+597,2024-05-30,DDoS,High,Resolved,Incident 1l1K9qOD6n4vVEh67J8B,Admin,2025-12-10 13:43:19
+598,2023-03-30,Phishing,High,Investigating,Incident RaFLk7OAMpvukZuvERT9,Security Team,2025-12-10 13:43:19
+599,2023-04-13,Malware,Low,Closed,Incident 5RTqCiQYosGlWcCSfS3L,System,2025-12-10 13:43:19
+600,2024-08-05,Phishing,Critical,Investigating,Incident qJY6Vomms5hxB5QestYe,Admin,2025-12-10 13:43:19
+601,2023-12-14,Phishing,High,Resolved,Incident V76LNH07fbDUKvP0QAUG,User,2025-12-10 13:43:19
+602,2023-03-11,Ransomware,Low,Investigating,Incident 2yYO2UgBt7Bndb9pXfvu,System,2025-12-10 13:43:19
+603,2023-10-24,Data Breach,High,Resolved,Incident ZRPTAAOcLGohdxQa27lb,Admin,2025-12-10 13:43:19
+604,2023-05-04,Unauthorized Access,High,Closed,Incident Xqw4Frj7BqruwbfHShvw,Security Team,2025-12-10 13:43:19
+605,2023-05-29,Malware,Low,Closed,Incident NsrtAtiPVkWooF2mVjUk,Admin,2025-12-10 13:43:19
+606,2024-10-11,Phishing,Critical,Investigating,Incident ue322VR5EWXkkf1Ui1bR,System,2025-12-10 13:43:19
+607,2023-08-19,Unauthorized Access,Critical,Resolved,Incident gCyEYr4j1eiQCkCLfZeE,User,2025-12-10 13:43:19
+608,2024-02-24,Malware,Critical,Investigating,Incident wYKlCXp3vL6twKoK6Oms,Security Team,2025-12-10 13:43:19
+609,2024-06-06,DDoS,High,Closed,Incident HK8qqIiENvvFVrQHsFve,Admin,2025-12-10 13:43:19
+610,2023-09-13,Data Breach,Low,Investigating,Incident VRFdhw34C9wCV0eWQSlL,Admin,2025-12-10 13:43:19
+611,2024-11-27,Data Breach,High,Resolved,Incident Q5bU6IqYNZZH9Z5vY6sX,Admin,2025-12-10 13:43:19
+612,2023-08-26,Data Breach,High,Closed,Incident LQx22MoiIvH1DIESqJHA,User,2025-12-10 13:43:19
+613,2023-12-15,Malware,Medium,Open,Incident C2WZTVd0svko2B6XMh5w,Security Team,2025-12-10 13:43:19
+614,2023-01-20,Data Breach,Medium,Resolved,Incident v8R8rh0tcUbxx8TwULVM,Security Team,2025-12-10 13:43:19
+615,2023-08-04,Ransomware,Low,Closed,Incident sR3h23m92MtzfNYm3yiD,System,2025-12-10 13:43:19
+616,2024-03-25,DDoS,Medium,Open,Incident uwhgWZ8XBkY4ZtMUKlRg,Admin,2025-12-10 13:43:19
+617,2024-04-13,Unauthorized Access,Critical,Closed,Incident jLPa7VK8MXzLq3TUErjE,System,2025-12-10 13:43:19
+618,2023-07-11,Malware,High,Open,Incident PzJmBqlfR5S8uvjlyZqx,System,2025-12-10 13:43:19
+619,2024-02-26,Unauthorized Access,Low,Investigating,Incident bCs4O9PbxfNze4Oa5b1E,Security Team,2025-12-10 13:43:19
+620,2023-05-31,Unauthorized Access,Medium,Open,Incident CUZ11kFXBFd0CmXRQZHz,Security Team,2025-12-10 13:43:19
+621,2023-03-25,DDoS,High,Investigating,Incident HQO84SkYvpdq5AysLQAE,Security Team,2025-12-10 13:43:19
+622,2023-04-23,Malware,Low,Closed,Incident XKOjyI7JzktYpbBFx9Mb,Security Team,2025-12-10 13:43:19
+623,2023-08-31,Data Breach,Critical,Investigating,Incident zStSD8d5AFhwNqN7dBnL,Security Team,2025-12-10 13:43:19
+624,2023-09-27,Ransomware,Low,Closed,Incident 9iP9RdMWYGRC7IpPtXQf,Security Team,2025-12-10 13:43:19
+625,2023-12-11,Phishing,Critical,Closed,Incident fuU7dQIW0RiDKcpGAand,System,2025-12-10 13:43:19
+626,2023-02-12,Ransomware,High,Closed,Incident 1hSnj0iKP9jfDXSDk2nP,Admin,2025-12-10 13:43:19
+627,2023-08-30,Malware,Low,Resolved,Incident 2Jo3DCDj96aMmi4kz4bB,System,2025-12-10 13:43:19
+628,2023-08-28,Unauthorized Access,Critical,Investigating,Incident Tx4PLUdqpTGIY9WuOuEg,Admin,2025-12-10 13:43:19
+629,2024-02-08,Unauthorized Access,High,Investigating,Incident 1joYm5dqr0wCUkmnXsjQ,Admin,2025-12-10 13:43:19
+630,2024-09-21,Ransomware,Medium,Investigating,Incident eoSwvyBsX2tu53f22zYR,Admin,2025-12-10 13:43:19
+631,2023-12-27,Malware,Critical,Resolved,Incident pa8IiYtBSOyVdFdAkW97,Admin,2025-12-10 13:43:19
+632,2024-06-18,Unauthorized Access,Medium,Resolved,Incident U6agecD3gIPSOGKbbbOm,User,2025-12-10 13:43:19
+633,2023-01-27,DDoS,Critical,Investigating,Incident okkdCs4dbQEJBBEJLW24,Admin,2025-12-10 13:43:19
+634,2023-06-16,Phishing,Critical,Resolved,Incident EhDgw6JobjMs531Y3BLN,Admin,2025-12-10 13:43:19
+635,2024-11-27,Ransomware,Low,Closed,Incident PLHo9sBFRTf7yi3hCzUw,System,2025-12-10 13:43:19
+636,2023-10-06,Phishing,Critical,Resolved,Incident WndsHENI83wEg2LOZSUk,System,2025-12-10 13:43:19
+637,2024-09-25,Unauthorized Access,Critical,Investigating,Incident N3nR7wkZrBLwLVFFknEE,System,2025-12-10 13:43:19
+638,2024-07-21,Ransomware,Low,Investigating,Incident SXcjsot4tlb2lx8pCvEl,System,2025-12-10 13:43:19
+639,2024-07-30,Malware,Medium,Closed,Incident M2Kg0AUNupNwkTWkCMKY,Security Team,2025-12-10 13:43:19
+640,2023-11-09,Data Breach,Low,Resolved,Incident hp1tTaXcI6jRrXlIwnVL,Security Team,2025-12-10 13:43:19
+641,2024-09-16,Malware,Low,Open,Incident wGAyhlSGjgi14MW24sJo,Security Team,2025-12-10 13:43:19
+642,2023-04-01,DDoS,Low,Resolved,Incident 7ru7B4Rx1iHE19D8jNm5,Admin,2025-12-10 13:43:19
+643,2023-06-16,Data Breach,Medium,Open,Incident BprGs4qoLOCEdRSdQZ1j,Admin,2025-12-10 13:43:19
+644,2024-03-20,Ransomware,High,Resolved,Incident ygd0zfwsJcW9aZqkiX4y,User,2025-12-10 13:43:19
+645,2023-07-01,Malware,Low,Closed,Incident 1JP9Gg16OKdizs0IZjBh,User,2025-12-10 13:43:19
+646,2023-09-27,Data Breach,Critical,Open,Incident 5HUpvVGlJMTI4Zyp6lMI,User,2025-12-10 13:43:19
+647,2024-08-05,Ransomware,Critical,Investigating,Incident 98g7rq1y3oOFbcozDxT3,Security Team,2025-12-10 13:43:19
+648,2023-06-18,Ransomware,Low,Resolved,Incident U1YPjCVCe7rldVaxIDck,User,2025-12-10 13:43:19
+649,2024-02-17,Data Breach,Critical,Open,Incident Z7OUAJIItb7jGuLjXe9r,Security Team,2025-12-10 13:43:19
+650,2024-07-26,Unauthorized Access,Medium,Resolved,Incident xlJWuDLgYbPtwd00BmBO,System,2025-12-10 13:43:19
+651,2024-01-11,Ransomware,Medium,Investigating,Incident eObn1ks0FP0vMIdMC54Y,Security Team,2025-12-10 13:43:19
+652,2023-08-23,Data Breach,Low,Open,Incident rzGB12sgcdMIypcwsRGI,System,2025-12-10 13:43:19
+653,2023-05-04,Ransomware,Critical,Closed,Incident n0QGxQHIzwgSnptvugCZ,System,2025-12-10 13:43:19
+654,2024-11-03,Data Breach,Critical,Closed,Incident TUPKK0Ee62HGn0DnYktD,System,2025-12-10 13:43:19
+655,2023-02-13,Data Breach,High,Open,Incident Gmr3r62BwJA2WECJfUMW,System,2025-12-10 13:43:19
+656,2024-06-23,DDoS,Low,Resolved,Incident NszVGXDQS2QaumGaV71h,User,2025-12-10 13:43:19
+657,2023-09-21,Malware,High,Resolved,Incident uHalVhJtkrN1ds16MPYs,User,2025-12-10 13:43:19
+658,2023-09-15,Unauthorized Access,Low,Open,Incident ZenLSK4rYZXvef4qdp1c,System,2025-12-10 13:43:19
+659,2023-10-24,Unauthorized Access,Critical,Investigating,Incident QL825arsM5UjZ7lbXMe4,User,2025-12-10 13:43:19
+660,2023-09-09,Data Breach,High,Open,Incident QK1ncycOZQeMefaFWMq3,System,2025-12-10 13:43:19
+661,2023-08-29,Malware,Critical,Closed,Incident lVtKCdAa68OaG72v5nGj,Security Team,2025-12-10 13:43:19
+662,2024-02-15,Unauthorized Access,Critical,Investigating,Incident 52J3GhVgUDW3f4qB3Wlp,System,2025-12-10 13:43:19
+663,2023-12-31,Malware,High,Open,Incident XfrYIk6XFJaOXAcxdkCd,Security Team,2025-12-10 13:43:19
+664,2023-05-25,Unauthorized Access,Low,Investigating,Incident wcQYiZmSlv7XjDGXdQrL,Admin,2025-12-10 13:43:19
+665,2023-09-07,DDoS,High,Open,Incident oAzl633DUbVSlPt3ZCX0,System,2025-12-10 13:43:19
+666,2023-04-04,DDoS,Low,Investigating,Incident hF3MREy9PfBlvNAA62kq,User,2025-12-10 13:43:19
+667,2023-09-13,Unauthorized Access,Critical,Closed,Incident Nj7lGHv6zESsjUeV9U69,Admin,2025-12-10 13:43:19
+668,2024-03-20,Data Breach,Low,Resolved,Incident xxD5aT4yWHkgCoRqRuHe,Admin,2025-12-10 13:43:19
+669,2024-11-20,Phishing,Low,Resolved,Incident vaMcU4vAuBEabWgcDUm8,Security Team,2025-12-10 13:43:19
+670,2023-01-12,Unauthorized Access,Medium,Open,Incident P2Oorf61FhA6rVilROJC,Admin,2025-12-10 13:43:19
+671,2024-04-03,Unauthorized Access,Medium,Resolved,Incident clA3diM09f9PlBCeaOon,User,2025-12-10 13:43:19
+672,2023-03-16,Data Breach,Medium,Closed,Incident 2K7hHCOqffaeHbF5zK0e,Admin,2025-12-10 13:43:19
+673,2023-08-31,Unauthorized Access,High,Investigating,Incident FLeg25ZP4sAphKaXkx1b,Security Team,2025-12-10 13:43:19
+674,2024-02-13,Malware,High,Open,Incident hut4aXTMgtkXEFYcONJe,Admin,2025-12-10 13:43:19
+675,2023-05-23,Data Breach,Critical,Resolved,Incident puN8hLi5z4HaQtHiWlb5,User,2025-12-10 13:43:19
+676,2023-09-09,Phishing,Medium,Resolved,Incident v34N7FPqo6MTLD7Vr9Kn,System,2025-12-10 13:43:19
+677,2024-11-24,Malware,Critical,Resolved,Incident Ar6y2kdAqthZVRztO2lc,Security Team,2025-12-10 13:43:19
+678,2024-11-02,Unauthorized Access,Critical,Closed,Incident eQzmJzLLDlGhaNXJaOLl,Security Team,2025-12-10 13:43:19
+679,2023-09-25,Unauthorized Access,Low,Closed,Incident 2gghNmZsJ6HZq4q4BVpF,Admin,2025-12-10 13:43:19
+680,2023-07-24,Data Breach,Critical,Resolved,Incident D6n4hab51RVhl7S5TCNi,Admin,2025-12-10 13:43:19
+681,2024-10-27,Ransomware,Low,Open,Incident 8pRsbtKzCzJMiNEzOs6i,Admin,2025-12-10 13:43:19
+682,2023-08-10,Malware,Low,Resolved,Incident xg9sRXEHfSdboLb0ksgE,Admin,2025-12-10 13:43:19
+683,2024-10-21,DDoS,Low,Open,Incident OwM7hycryfVEWQHb0bvr,System,2025-12-10 13:43:19
+684,2024-07-08,Phishing,Medium,Investigating,Incident EJB7V0AOZGEekDsI4w9u,Security Team,2025-12-10 13:43:19
+685,2024-07-01,Ransomware,High,Investigating,Incident SF8Sb4lYz9w0O1ni9dgL,Admin,2025-12-10 13:43:19
+686,2023-04-21,Data Breach,Medium,Resolved,Incident 8KU1cjsMQyO6dlNQu3FC,User,2025-12-10 13:43:19
+687,2024-09-01,Data Breach,Medium,Investigating,Incident h7EJR6FM3mWItUDEat3B,Admin,2025-12-10 13:43:19
+688,2024-11-30,Unauthorized Access,Medium,Investigating,Incident RU9DWwDcdJjcWKdtQgNy,User,2025-12-10 13:43:19
+689,2023-08-05,DDoS,Critical,Closed,Incident 4ccmz55Lmp3PlSphT029,Security Team,2025-12-10 13:43:19
+690,2023-10-25,Malware,High,Open,Incident nq2e82oQwyTFwwmUiigI,User,2025-12-10 13:43:19
+691,2024-09-12,DDoS,Medium,Investigating,Incident XeCzqrq2FlDk7EKPgukC,System,2025-12-10 13:43:19
+692,2023-03-24,Data Breach,High,Open,Incident AosDLucbVtJk97HIyy35,Admin,2025-12-10 13:43:19
+693,2024-06-06,Malware,High,Open,Incident kua50yaWx0w4VoaHiF5j,User,2025-12-10 13:43:19
+694,2024-07-05,Unauthorized Access,High,Investigating,Incident YyI6aTKk40Rm3FmAvFQM,Security Team,2025-12-10 13:43:19
+695,2023-11-25,Ransomware,Medium,Resolved,Incident J3FL6TnujQ9GGf0OcAdO,Admin,2025-12-10 13:43:19
+696,2023-03-29,Unauthorized Access,Low,Open,Incident v1sGJATGKXo0uKUWJDSn,Security Team,2025-12-10 13:43:19
+697,2024-10-27,Unauthorized Access,High,Resolved,Incident CIVbXUtOyaZPFgLuIkgk,Security Team,2025-12-10 13:43:19
+698,2023-04-09,Ransomware,Critical,Closed,Incident yZXQ6IQLH0YU39h3EpFh,System,2025-12-10 13:43:19
+699,2024-09-21,Unauthorized Access,Medium,Investigating,Incident gq3WKvhBU3SXOzUTljbT,User,2025-12-10 13:43:19
+700,2024-01-24,Phishing,Medium,Investigating,Incident pKNI8tPEoMJusBnrS5mS,Security Team,2025-12-10 13:43:19
+701,2024-09-25,Phishing,High,Closed,Incident GAekf8MrsxzoT6XXRLtd,Admin,2025-12-10 13:43:19
+702,2023-04-20,DDoS,Medium,Resolved,Incident iMJX0EXuZxj5ua6B2e1x,User,2025-12-10 13:43:19
+703,2024-05-02,Malware,Low,Closed,Incident 1HfRL7ipSCvrvMmPqbiv,Security Team,2025-12-10 13:43:19
+704,2023-02-01,Unauthorized Access,Critical,Closed,Incident vF2Hq3GsDSsl87bbvefE,User,2025-12-10 13:43:19
+705,2023-02-05,DDoS,Critical,Closed,Incident 2gR2W3S2plpxP0mTnXKq,User,2025-12-10 13:43:19
+706,2023-11-02,Malware,Medium,Open,Incident OGDKYJyLtdnU4TrJhHjZ,System,2025-12-10 13:43:19
+707,2024-02-13,Ransomware,Low,Resolved,Incident cWLV0Ct4E84pT41ziiK2,System,2025-12-10 13:43:19
+708,2024-03-12,DDoS,Critical,Resolved,Incident iPRo7wIojkLIpXvkUIfq,Admin,2025-12-10 13:43:19
+709,2024-10-02,Data Breach,High,Closed,Incident vhow5qShkBkAIeepmtJ1,System,2025-12-10 13:43:19
+710,2024-08-08,Unauthorized Access,High,Investigating,Incident p7lZjvXPKwR3SnLuyDNq,Security Team,2025-12-10 13:43:19
+711,2024-11-11,Phishing,Medium,Resolved,Incident tXRcHyvNo52N5BvmuNZQ,Security Team,2025-12-10 13:43:19
+712,2023-11-22,Unauthorized Access,High,Resolved,Incident nPWliPnhg8HC2mBXZQI6,Security Team,2025-12-10 13:43:19
+713,2024-01-14,Phishing,Low,Resolved,Incident 2QS2wubsBtPhqfXqb99M,User,2025-12-10 13:43:19
+714,2023-06-17,Ransomware,Medium,Investigating,Incident cXvidrTzNwaqfmAMDuRi,Security Team,2025-12-10 13:43:19
+715,2023-10-22,Data Breach,High,Resolved,Incident K1WlixsHgH8r0ixGbFxV,Admin,2025-12-10 13:43:19
+716,2024-10-21,Phishing,High,Open,Incident FTveL61xe7GYkmXTJSt0,Admin,2025-12-10 13:43:19
+717,2024-10-22,Unauthorized Access,Critical,Closed,Incident fqGBYqNttG5n4qkCq0Ix,Security Team,2025-12-10 13:43:19
+718,2023-11-08,DDoS,Medium,Open,Incident D4LSqOgqiIWqwbGZrXZ8,Security Team,2025-12-10 13:43:19
+719,2023-04-06,Phishing,High,Investigating,Incident MzS7WJJ6v5rOt5rk0pMW,System,2025-12-10 13:43:19
+720,2023-04-05,Ransomware,Medium,Closed,Incident UwDDokswKu1fQ4hesFUl,Security Team,2025-12-10 13:43:19
+721,2023-01-15,Unauthorized Access,Critical,Closed,Incident Et35mS3QO2eeeETIzZk9,Admin,2025-12-10 13:43:19
+722,2024-07-15,Ransomware,Medium,Resolved,Incident UpvKTyGynqL58BPZxIPz,System,2025-12-10 13:43:19
+723,2023-04-24,DDoS,Low,Open,Incident w5ARfFw2sa6OLVacH2Le,System,2025-12-10 13:43:19
+724,2024-10-25,Ransomware,Medium,Resolved,Incident HRTNWvCDLSh8j1BZFbdd,User,2025-12-10 13:43:19
+725,2023-10-21,DDoS,Medium,Resolved,Incident c1fKuOC1gb3kYI0F03MA,Security Team,2025-12-10 13:43:19
+726,2024-05-05,Unauthorized Access,Low,Resolved,Incident BFmYIehsqq2SiP8dmYoY,User,2025-12-10 13:43:19
+727,2023-10-22,Malware,Medium,Resolved,Incident NMW1BNAIHd2H5M0GTbsH,Security Team,2025-12-10 13:43:19
+728,2024-02-29,Malware,Low,Closed,Incident wmK0wNMtF90R2Z1BF18y,System,2025-12-10 13:43:19
+729,2023-09-30,Ransomware,Low,Closed,Incident fcSkJNKzU6cyX3x2cYWW,System,2025-12-10 13:43:19
+730,2024-01-01,Data Breach,Medium,Closed,Incident hP6qtrmf5abWmCQ026MA,Admin,2025-12-10 13:43:19
+731,2023-02-19,Malware,Critical,Open,Incident 5ALVziU8rScoGgFkxKaP,User,2025-12-10 13:43:19
+732,2024-01-01,Ransomware,High,Open,Incident 7Hx78cVBFyjbt8JO5q3t,System,2025-12-10 13:43:19
+733,2023-01-24,Data Breach,High,Resolved,Incident P2GlqcWqWpMxqaFmVlsC,Admin,2025-12-10 13:43:19
+734,2023-12-10,Malware,Critical,Closed,Incident nszL8au9and9Yh48vZU0,User,2025-12-10 13:43:19
+735,2024-02-26,Unauthorized Access,High,Closed,Incident ZvgekRIF4SoYfPCCXqOi,System,2025-12-10 13:43:19
+736,2024-04-04,Unauthorized Access,Critical,Resolved,Incident Bg9hlnkAsnhR6yBndWhF,Admin,2025-12-10 13:43:19
+737,2023-05-30,Unauthorized Access,Critical,Resolved,Incident n4BXgY8u8WCHYi6ZiNq2,User,2025-12-10 13:43:19
+738,2024-08-30,Ransomware,Low,Closed,Incident SaeZqQxaqNbJIhxsnEEK,Security Team,2025-12-10 13:43:19
+739,2024-07-13,Ransomware,High,Investigating,Incident 9zTBlXEAEz5Cf1J5STyw,Security Team,2025-12-10 13:43:19
+740,2024-03-19,Malware,Low,Investigating,Incident sQbudZVfCBzjafsi2hN6,Admin,2025-12-10 13:43:19
+741,2024-11-02,Data Breach,Critical,Open,Incident hYRQKm4zM6EXrmvJJsWw,Security Team,2025-12-10 13:43:19
+742,2024-02-19,Malware,Medium,Investigating,Incident Hu07f1nO6N6veCjZfojJ,Security Team,2025-12-10 13:43:19
+743,2023-04-07,Unauthorized Access,Medium,Closed,Incident EKdWhkZ4c3DU1WModrCa,Admin,2025-12-10 13:43:19
+744,2023-05-02,DDoS,Low,Resolved,Incident Ieq5eVxzzXCJO6FKFnVy,Security Team,2025-12-10 13:43:19
+745,2023-06-07,Unauthorized Access,Critical,Closed,Incident 15tLjIpE1DJ5ZxygHRwP,Admin,2025-12-10 13:43:19
+746,2023-06-26,Malware,Low,Investigating,Incident EJ7I4PjPb6s32I5gwwYQ,System,2025-12-10 13:43:19
+747,2024-02-08,Unauthorized Access,Low,Closed,Incident 0S3nVDq709LAqhK6YEPD,System,2025-12-10 13:43:19
+748,2023-08-02,Data Breach,High,Investigating,Incident 7Ab9tr1Fx059BJruCTMF,Security Team,2025-12-10 13:43:19
+749,2023-06-24,DDoS,Low,Closed,Incident 20qJXp7gbcg4nfycOALT,User,2025-12-10 13:43:19
+750,2024-10-09,Data Breach,Low,Investigating,Incident JbTlQex8kOngTRohbEIe,Security Team,2025-12-10 13:43:19
+751,2024-03-08,Ransomware,High,Investigating,Incident xgIsQI8oEbqGMa6JRsVd,Security Team,2025-12-10 13:43:19
+752,2024-07-04,Malware,Critical,Closed,Incident eMmbWCULSTJsDqtw267M,Admin,2025-12-10 13:43:19
+753,2023-12-31,Ransomware,Low,Investigating,Incident vw1wEEoXK2FC713ucu55,User,2025-12-10 13:43:19
+754,2023-10-12,Unauthorized Access,Critical,Resolved,Incident vc7m8PMM5cC0mYQ5Fh7x,System,2025-12-10 13:43:19
+755,2023-10-10,Ransomware,Critical,Open,Incident 3OfU7cA03PUxgZmHQPW0,Admin,2025-12-10 13:43:19
+756,2023-05-25,Malware,Medium,Resolved,Incident 8UqXB1SZZLYdb4666gb6,Security Team,2025-12-10 13:43:19
+757,2024-04-26,Phishing,Critical,Closed,Incident zEoBnX2HXlqxJxWEMQkf,User,2025-12-10 13:43:19
+758,2024-11-11,Data Breach,Low,Investigating,Incident cVoJ0dAbubstsZUXkaR0,Security Team,2025-12-10 13:43:19
+759,2023-08-02,Unauthorized Access,High,Open,Incident A6Qn6wRxxuDEL72G4U2E,System,2025-12-10 13:43:19
+760,2023-04-18,DDoS,Low,Open,Incident fiKLwazbT4ScHq5vV4Te,Security Team,2025-12-10 13:43:19
+761,2023-12-05,Ransomware,Critical,Open,Incident 3Hdz0zvZaWTzsqgMFiz4,System,2025-12-10 13:43:19
+762,2023-06-29,Phishing,High,Resolved,Incident c3USPdcMhYMEZnOuz93L,Security Team,2025-12-10 13:43:19
+763,2024-11-19,DDoS,Critical,Closed,Incident VIYl12csDTsSwciqs6sp,System,2025-12-10 13:43:19
+764,2023-08-05,Data Breach,Medium,Investigating,Incident Tr3j2uRv2KvZhleHjw8N,System,2025-12-10 13:43:19
+765,2024-02-16,Data Breach,High,Open,Incident 5qHmShLQi9860LZlhOq6,Security Team,2025-12-10 13:43:19
+766,2023-10-24,Ransomware,High,Open,Incident cJrOh3IpQyT7bCLbdvql,User,2025-12-10 13:43:19
+767,2023-03-16,Malware,Low,Resolved,Incident nxyXuXGywDR80ZvDDUT8,User,2025-12-10 13:43:19
+768,2024-07-14,Malware,Low,Resolved,Incident T7vqF7998jkaKXRv9doW,System,2025-12-10 13:43:19
+769,2024-08-23,Phishing,Critical,Resolved,Incident 3mchtp1B5SdfycHec0jd,Admin,2025-12-10 13:43:19
+770,2024-04-25,Ransomware,Critical,Resolved,Incident D1sqGY3N8DW3gcNPeHb6,System,2025-12-10 13:43:19
+771,2023-08-24,Data Breach,Critical,Closed,Incident kUjimBHdaZVYJdIcMCxg,System,2025-12-10 13:43:19
+772,2023-06-27,Ransomware,Low,Resolved,Incident 5W2rSMGHA7ov7DH0OyPJ,System,2025-12-10 13:43:19
+773,2023-09-29,Unauthorized Access,Low,Open,Incident 6IvuJJ4WHVWNdelkaOUi,Admin,2025-12-10 13:43:19
+774,2024-02-06,Ransomware,High,Closed,Incident Yqc8IL4Jt6UzIUQjkayd,Security Team,2025-12-10 13:43:19
+775,2023-08-28,Unauthorized Access,Low,Investigating,Incident YtYM9kRnJ5O3WFmSu1xQ,Admin,2025-12-10 13:43:19
+776,2024-10-21,Phishing,High,Resolved,Incident Ydn1H0y23ROHd6YIZRRB,Admin,2025-12-10 13:43:19
+777,2024-02-11,Unauthorized Access,Low,Open,Incident 1Z5q11GttfLkBoTCoNG2,Security Team,2025-12-10 13:43:19
+778,2023-04-04,Data Breach,Critical,Closed,Incident QzLQqm3FkDzPBbF4hOoF,User,2025-12-10 13:43:19
+779,2024-01-11,Data Breach,Low,Investigating,Incident z4Vsdf6L5h6FNkCCZXLn,Security Team,2025-12-10 13:43:19
+780,2023-12-10,Malware,High,Resolved,Incident eqIwoxVRdDRpUH4KyG1v,System,2025-12-10 13:43:19
+781,2024-06-12,DDoS,High,Investigating,Incident silfXJAYAGHvFVd7aXCv,Admin,2025-12-10 13:43:19
+782,2024-10-22,Data Breach,Low,Open,Incident F3F7TVvZUqoVgRaQrk0e,User,2025-12-10 13:43:19
+783,2024-11-22,Unauthorized Access,High,Investigating,Incident z0K7pqQElFstvcjrI8Mx,Admin,2025-12-10 13:43:19
+784,2023-07-10,Data Breach,High,Investigating,Incident ycLuoXK96ODczCL4YCNB,User,2025-12-10 13:43:19
+785,2023-02-07,Data Breach,Medium,Investigating,Incident djBZWoID2AR8toANtWzg,Admin,2025-12-10 13:43:19
+786,2023-06-24,Data Breach,Medium,Resolved,Incident f6DPfn4hwUIVQWf8nAlE,System,2025-12-10 13:43:19
+787,2023-07-01,Ransomware,High,Closed,Incident Spid6OJXxwoxAJrGmHD7,System,2025-12-10 13:43:19
+788,2024-05-20,Unauthorized Access,High,Resolved,Incident PZwqr6zSVn2gCiOj4KDA,System,2025-12-10 13:43:19
+789,2024-02-20,DDoS,Critical,Investigating,Incident SLPS73Y8vZOnFaM9DNS1,Admin,2025-12-10 13:43:19
+790,2024-05-15,Malware,High,Closed,Incident li6lCpodp9kpsXBCLaFM,Admin,2025-12-10 13:43:19
+791,2024-06-05,Phishing,High,Investigating,Incident Nmz8AuVoIpktLbbX5juK,Security Team,2025-12-10 13:43:19
+792,2023-05-11,Unauthorized Access,High,Open,Incident 3T093m6j7WkTdvsKdkDV,System,2025-12-10 13:43:19
+793,2023-04-16,Data Breach,Medium,Resolved,Incident y30WihYLn0xJP7VeKzh9,System,2025-12-10 13:43:19
+794,2024-01-31,Malware,High,Resolved,Incident DIiQWMuVbhwgIgN7AXX0,System,2025-12-10 13:43:19
+795,2023-10-07,Data Breach,Low,Resolved,Incident IcVYWeahbh3O7ecsMGKR,System,2025-12-10 13:43:19
+796,2024-02-02,DDoS,Critical,Open,Incident xYFtKJDf7NinFKmjGhGR,Admin,2025-12-10 13:43:19
+797,2023-06-16,DDoS,Low,Resolved,Incident pCi9auxCz0j30BbHZKq5,Admin,2025-12-10 13:43:19
+798,2024-01-07,Data Breach,Critical,Investigating,Incident oH1kko304y4aAsJWLx2J,System,2025-12-10 13:43:19
+799,2023-12-05,Data Breach,Medium,Open,Incident 1JiHsF3LY37NcgHAm9z0,System,2025-12-10 13:43:19
+800,2024-03-15,Malware,Medium,Open,Incident AO5KjiW24rtusDIfXYlz,Admin,2025-12-10 13:43:19
+801,2023-04-20,Data Breach,High,Open,Incident H4IYLnW8htPifjSRu5YJ,Admin,2025-12-10 13:43:19
+802,2024-11-09,DDoS,Low,Open,Incident dmAEa7trMyQdMsMkKwfq,User,2025-12-10 13:43:19
+803,2024-01-08,Phishing,Low,Closed,Incident lkSLzXs8DcOqpLIP6HvV,Admin,2025-12-10 13:43:19
+804,2024-09-04,Ransomware,High,Investigating,Incident qr5boYAoiBEqd9BGu8t7,System,2025-12-10 13:43:19
+805,2023-11-13,Data Breach,High,Resolved,Incident IsCBWU3zeSVeuN1Eo52d,User,2025-12-10 13:43:19
+806,2024-07-08,Malware,High,Resolved,Incident AWVbgCEFjaPHKxW8Cm7d,System,2025-12-10 13:43:19
+807,2024-06-25,Phishing,Medium,Closed,Incident f9Ife3tkyA9Ntk82F38z,User,2025-12-10 13:43:19
+808,2023-06-02,Ransomware,High,Closed,Incident iAeskb5KLd4Tn6cFg5ek,System,2025-12-10 13:43:19
+809,2023-10-24,Data Breach,Critical,Open,Incident O233Gg1ctd0TwF9ZtqCJ,Admin,2025-12-10 13:43:19
+810,2023-03-30,Data Breach,Low,Closed,Incident S1aXLb4hfMlhUh05ywwf,Security Team,2025-12-10 13:43:19
+811,2024-08-28,DDoS,Critical,Closed,Incident 4mLPX875RhkMeU3RSP2x,Security Team,2025-12-10 13:43:19
+812,2023-04-27,DDoS,High,Investigating,Incident 0MeAACGxEMH8NE9VbKtP,Admin,2025-12-10 13:43:19
+813,2023-12-03,Unauthorized Access,Critical,Open,Incident CvwLstpYQbTsE61bbZv5,Admin,2025-12-10 13:43:19
+814,2024-11-15,Data Breach,Medium,Open,Incident S9OOsjG8QrUoVIeV3ept,System,2025-12-10 13:43:19
+815,2023-05-23,Unauthorized Access,Low,Open,Incident 56MmLLNoxlWct9WeLViu,System,2025-12-10 13:43:19
+816,2024-06-07,Unauthorized Access,Medium,Investigating,Incident RzLQvzPAW3mEOUaCadoq,Admin,2025-12-10 13:43:19
+817,2023-05-18,Phishing,High,Investigating,Incident Zn98P7SymiaBEQ7eltEY,System,2025-12-10 13:43:19
+818,2023-02-17,DDoS,Medium,Resolved,Incident MUeVtm4SRb25z14QywMf,User,2025-12-10 13:43:19
+819,2023-01-02,Ransomware,Low,Open,Incident gRNPFWBEdB6Rh2gL8e0D,User,2025-12-10 13:43:19
+820,2023-11-24,Data Breach,Critical,Investigating,Incident CQjzuMacgcAWhLosVBo1,Admin,2025-12-10 13:43:19
+821,2024-03-17,Unauthorized Access,Low,Closed,Incident wXQ48wXayo4tgoimtCCt,Admin,2025-12-10 13:43:19
+822,2024-07-10,Ransomware,Medium,Investigating,Incident vp22i1AlmgtyXnzrPE7P,Security Team,2025-12-10 13:43:19
+823,2023-10-09,Data Breach,Medium,Closed,Incident 8gnGbSBKnXxDDxnZVV4g,Security Team,2025-12-10 13:43:19
+824,2023-12-28,Malware,Critical,Investigating,Incident Md373eJ7KFJTfSjhDglQ,System,2025-12-10 13:43:19
+825,2023-02-08,Data Breach,High,Resolved,Incident yiWLklEez3fc5nXZ4wU0,Security Team,2025-12-10 13:43:19
+826,2024-11-26,Ransomware,Low,Resolved,Incident 8t3Uza2ZD1v2rVzRUJh4,System,2025-12-10 13:43:19
+827,2023-08-01,Malware,Low,Investigating,Incident kwXHbsrQ8fIPMGbX75Dg,User,2025-12-10 13:43:19
+828,2023-06-25,Malware,Low,Closed,Incident qLvA5utWLxBldrlQVyFA,System,2025-12-10 13:43:19
+829,2024-02-23,Malware,Medium,Resolved,Incident TQjGOuUWQoFEspBmPjZD,User,2025-12-10 13:43:19
+830,2023-11-19,DDoS,High,Open,Incident 61YJPR8l9FqyVwIfvpJK,Security Team,2025-12-10 13:43:19
+831,2023-03-28,DDoS,Medium,Resolved,Incident UbK6ZNQWJycEc7qjpe0S,Admin,2025-12-10 13:43:19
+832,2023-05-01,Data Breach,Low,Closed,Incident suYcPaXqDlxpfTqVt9g1,Security Team,2025-12-10 13:43:19
+833,2023-04-09,Data Breach,Medium,Resolved,Incident 43HtdIlj2SVB3PjDD41p,User,2025-12-10 13:43:19
+834,2023-12-05,Data Breach,Medium,Closed,Incident ydJBR3zIPsElRSpwjMjy,Security Team,2025-12-10 13:43:19
+835,2024-09-20,Malware,Low,Resolved,Incident mdWnd358I6a1LDOOO42B,System,2025-12-10 13:43:19
+836,2024-03-21,Data Breach,Low,Resolved,Incident QzEs8YR8OTIEGhdC6nAN,Security Team,2025-12-10 13:43:19
+837,2023-07-27,DDoS,Medium,Investigating,Incident 0fEYd392iigKGSPt49Im,User,2025-12-10 13:43:19
+838,2023-07-22,Ransomware,Medium,Resolved,Incident Iqs6OyHP5vACEerZQeAb,Admin,2025-12-10 13:43:19
+839,2023-03-29,Data Breach,Low,Closed,Incident is4VZ7Vu1sbr60niWiRh,System,2025-12-10 13:43:19
+840,2023-03-15,Ransomware,Low,Investigating,Incident OJKUfobe8mepjvSpXkVT,Security Team,2025-12-10 13:43:19
+841,2024-05-16,Unauthorized Access,Critical,Closed,Incident 4GdVBo3YoyGY7toIag1W,Admin,2025-12-10 13:43:19
+842,2024-11-12,Unauthorized Access,Low,Resolved,Incident R74t76mToE0qk243YFYo,System,2025-12-10 13:43:19
+843,2024-07-23,Data Breach,High,Resolved,Incident 8AfVsIHeY9VEbk9KYK06,Security Team,2025-12-10 13:43:19
+844,2024-10-08,Ransomware,Critical,Open,Incident YibErHdZlBSibxtT2FYg,User,2025-12-10 13:43:19
+845,2024-06-05,Unauthorized Access,High,Investigating,Incident VKnXRi2jMaiEvBPlWFUc,User,2025-12-10 13:43:19
+846,2023-12-17,Data Breach,Medium,Closed,Incident IJLvRe6OrTDqUl03GMUg,Admin,2025-12-10 13:43:19
+847,2024-02-15,Ransomware,High,Investigating,Incident 8P10dMBfVpLc0upHAvjj,System,2025-12-10 13:43:19
+848,2024-06-14,Data Breach,High,Closed,Incident DlIE1MmGPL7UIO1iqAoc,Admin,2025-12-10 13:43:19
+849,2023-04-04,Phishing,Medium,Investigating,Incident tkTSuybSZ0bBjC5ULZCk,System,2025-12-10 13:43:19
+850,2024-03-26,Unauthorized Access,Low,Investigating,Incident bDPbVHMds7rpJ16m6nHk,System,2025-12-10 13:43:19
+851,2023-01-27,Malware,High,Open,Incident C24Pd3knYOliIQbjgbBI,System,2025-12-10 13:43:19
+852,2023-10-21,Data Breach,Medium,Open,Incident OQQYsFeLoXspeDOC95uR,System,2025-12-10 13:43:19
+853,2023-12-15,Malware,High,Open,Incident KtfpE1C4r4hVdLUMjQ5y,Admin,2025-12-10 13:43:19
+854,2023-10-04,Malware,Critical,Investigating,Incident knqrXOm6WjdsfjVviNw5,System,2025-12-10 13:43:19
+855,2024-07-17,DDoS,Medium,Investigating,Incident ndT8S9ofRvbWb6BTI6C5,System,2025-12-10 13:43:19
+856,2024-07-23,Data Breach,Critical,Resolved,Incident SDFPzYc1MWfmvHuweovw,User,2025-12-10 13:43:19
+857,2023-05-04,DDoS,Critical,Investigating,Incident vD7KgqnTxHOqbSpU3VZT,Security Team,2025-12-10 13:43:19
+858,2024-07-03,Phishing,Low,Investigating,Incident 6p3goIQWnhL5HJmbvAGP,Admin,2025-12-10 13:43:19
+859,2024-10-08,Phishing,Low,Open,Incident 5im2gdgHXS4KlMy5uNjY,Security Team,2025-12-10 13:43:19
+860,2024-07-31,Ransomware,Low,Resolved,Incident P8XFqDiMT3jxplXwlRAG,Security Team,2025-12-10 13:43:19
+861,2024-03-18,Unauthorized Access,High,Investigating,Incident xalgeYXoeZ2xtHpNz8BA,Admin,2025-12-10 13:43:19
+862,2023-12-11,Unauthorized Access,Critical,Resolved,Incident aaB4y2pRToJ1vGYa8fzE,Security Team,2025-12-10 13:43:19
+863,2024-05-23,Ransomware,High,Open,Incident hJUkkdMI5RcF5aKzLj2e,Admin,2025-12-10 13:43:19
+864,2024-01-30,Ransomware,Medium,Resolved,Incident ixFv1s3n2EX6Ozi4eyB3,System,2025-12-10 13:43:19
+865,2023-06-19,Malware,Low,Investigating,Incident 4OLTri96fPjuU7id5r8U,Security Team,2025-12-10 13:43:19
+866,2023-10-14,Unauthorized Access,Critical,Investigating,Incident b2KtjmOSASXbBMuHMKI1,User,2025-12-10 13:43:19
+867,2024-04-26,Ransomware,Medium,Investigating,Incident e4rpATBbOkUdlD6hsycU,System,2025-12-10 13:43:19
+868,2023-12-13,DDoS,Critical,Closed,Incident gnh0vhQgxmMfx4WHYGvD,Admin,2025-12-10 13:43:19
+869,2024-04-17,Data Breach,Low,Investigating,Incident XPhESkMyf1pR5wVKBGuM,Admin,2025-12-10 13:43:19
+870,2023-04-07,Phishing,Critical,Resolved,Incident A5ypXDHnu88hX7k8WzPW,Security Team,2025-12-10 13:43:19
+871,2024-03-11,DDoS,Low,Closed,Incident nOY5Kwxr3SgyPkEZCyyA,Security Team,2025-12-10 13:43:19
+872,2024-06-29,Unauthorized Access,Critical,Resolved,Incident 0KIvybqdyTOKFyFwWFRE,User,2025-12-10 13:43:19
+873,2024-01-29,Phishing,Critical,Open,Incident IOVWWJwoTnwo7ek7hrd5,Admin,2025-12-10 13:43:19
+874,2024-01-12,DDoS,Critical,Closed,Incident 6AHLivINuWfb9FpYj5yt,Security Team,2025-12-10 13:43:19
+875,2023-11-27,Data Breach,Medium,Closed,Incident f6AwOG9DSlWJZvGgrHN5,Security Team,2025-12-10 13:43:19
+876,2023-05-22,Data Breach,Critical,Investigating,Incident 3RAZx0xQwy5GYwp4kpZd,System,2025-12-10 13:43:19
+877,2024-06-20,DDoS,Low,Investigating,Incident JOvSy2ptA3vFTTdDRhy2,User,2025-12-10 13:43:19
+878,2024-06-11,Unauthorized Access,Critical,Resolved,Incident PC4RT8jYsDTNfRU2w1iW,User,2025-12-10 13:43:19
+879,2023-10-30,Ransomware,Low,Investigating,Incident D72SQCLDn19XRhqkV2kl,Admin,2025-12-10 13:43:19
+880,2023-02-17,Unauthorized Access,Low,Closed,Incident oeXrwMdsO9JBr1jzocGA,User,2025-12-10 13:43:19
+881,2024-04-04,Data Breach,Low,Open,Incident GVo0UoNd6UJSDZ2p3f1o,System,2025-12-10 13:43:19
+882,2023-09-26,Ransomware,Medium,Open,Incident zsGgsz9Ssnem8kwVksl6,User,2025-12-10 13:43:19
+883,2024-08-25,Unauthorized Access,Low,Resolved,Incident XDnZypUoBGaN2fwfVSv7,Security Team,2025-12-10 13:43:19
+884,2023-03-24,Ransomware,Critical,Resolved,Incident cf27CiH02dqYhspZfX3P,Admin,2025-12-10 13:43:19
+885,2024-05-08,DDoS,Low,Resolved,Incident WqtgAhEHgIfdm5SZ9A9a,User,2025-12-10 13:43:19
+886,2024-10-09,DDoS,Critical,Open,Incident T1VCbcSm9sUDwrYiaGrG,System,2025-12-10 13:43:19
+887,2024-04-11,Phishing,Medium,Closed,Incident i6g7EiL6sxuqEpiZA3RJ,User,2025-12-10 13:43:19
+888,2023-07-19,Phishing,Critical,Open,Incident q3bN3VfZbafJEAyYOjx0,Security Team,2025-12-10 13:43:19
+889,2024-07-02,Ransomware,Critical,Investigating,Incident Ef2IIwP40S0MPpjG38fh,User,2025-12-10 13:43:19
+890,2024-03-17,Data Breach,Medium,Open,Incident ou9RQfzJmF4M5kbn8FD4,Admin,2025-12-10 13:43:19
+891,2024-05-18,Ransomware,Critical,Resolved,Incident Ip96kClLihdYqg7xWrnU,System,2025-12-10 13:43:19
+892,2023-07-28,DDoS,High,Investigating,Incident mjAoaUFcH2d93NEDnQmI,User,2025-12-10 13:43:19
+893,2023-11-17,Unauthorized Access,Low,Resolved,Incident SqWeoLFtgnJCAGOtf2h4,User,2025-12-10 13:43:19
+894,2023-03-20,Unauthorized Access,Medium,Investigating,Incident lrVOhiTeOMpxL6D6FSbK,System,2025-12-10 13:43:19
+895,2023-06-30,DDoS,Medium,Open,Incident lSeYkxBp5DbMGqDFDQU5,User,2025-12-10 13:43:19
+896,2024-05-09,Phishing,Low,Resolved,Incident mcUDZgGgT4oG4DUrnOts,Admin,2025-12-10 13:43:19
+897,2024-03-09,DDoS,Critical,Open,Incident u1wRIXhd6zwwfUgYVcQ3,Security Team,2025-12-10 13:43:19
+898,2023-01-17,Ransomware,Low,Closed,Incident gYJX39RoJP9zjtW47TqC,Security Team,2025-12-10 13:43:19
+899,2024-01-01,Unauthorized Access,High,Closed,Incident 97d2Pdk2yQRDCEHJCUun,Security Team,2025-12-10 13:43:19
+900,2024-03-04,Ransomware,Low,Closed,Incident 2Er4H7rpbmGjroVxNV5p,Security Team,2025-12-10 13:43:19
+901,2023-03-13,DDoS,Critical,Investigating,Incident r2H6zOcOp3UEpk5NS2Lv,Security Team,2025-12-10 13:43:19
+902,2023-02-25,DDoS,High,Open,Incident XKY127mlWsFx0V6sxiQj,Admin,2025-12-10 13:43:19
+903,2023-08-20,DDoS,High,Investigating,Incident 5coaKbGGHdT3nMHaFK8H,System,2025-12-10 13:43:19
+904,2023-06-02,Data Breach,Critical,Investigating,Incident kub5BYI0adPzz9R69wpd,Security Team,2025-12-10 13:43:19
+905,2023-05-11,Data Breach,Low,Investigating,Incident L1gfnq2TMZv2f0tDrvcg,Admin,2025-12-10 13:43:19
+906,2024-04-11,Data Breach,High,Resolved,Incident UpgxnbUQ3cyM4kzq0lAV,User,2025-12-10 13:43:19
+907,2024-10-01,Unauthorized Access,Medium,Open,Incident fTI0AockQ40sZdGOlE0D,Security Team,2025-12-10 13:43:19
+908,2024-04-29,Malware,Medium,Resolved,Incident hdFJwccnCiIHtLa0GCKv,Security Team,2025-12-10 13:43:19
+909,2024-05-21,Ransomware,Low,Investigating,Incident 8r3mS7vS1fixIMEK3l8V,System,2025-12-10 13:43:19
+910,2024-01-28,Unauthorized Access,Critical,Open,Incident uUs2kngMUxDIh6HjgL2e,User,2025-12-10 13:43:19
+911,2024-08-12,Data Breach,Medium,Resolved,Incident wd05KSn1ELYDZckNO3BX,System,2025-12-10 13:43:19
+912,2023-07-10,Unauthorized Access,Medium,Investigating,Incident iO97CquSCXU36KYXGL9I,Admin,2025-12-10 13:43:19
+913,2023-12-25,Unauthorized Access,Medium,Open,Incident C7mS3F4FzV3pCfWhZVYK,User,2025-12-10 13:43:19
+914,2023-05-25,Unauthorized Access,Medium,Investigating,Incident SQb6NhvoCZvOBXbHVoqx,Security Team,2025-12-10 13:43:19
+915,2023-03-02,Malware,Critical,Closed,Incident Nbtv8cdbZLcH4jyf5olp,Admin,2025-12-10 13:43:19
+916,2023-07-22,Ransomware,Critical,Open,Incident ucZaw28ihx9uTzGpPyGw,User,2025-12-10 13:43:19
+917,2023-09-22,DDoS,High,Resolved,Incident ilxI5z0hwY0QrOvoIZSh,System,2025-12-10 13:43:19
+918,2023-03-23,Unauthorized Access,Medium,Closed,Incident tKC7JDcBxVJYQyr8t7Wk,User,2025-12-10 13:43:19
+919,2023-07-30,Ransomware,Medium,Open,Incident QXrlJ7nrwWV0Lc6NB20f,User,2025-12-10 13:43:19
+920,2023-06-13,Unauthorized Access,Low,Investigating,Incident Ewn2RHPcVcBnjUZn6D20,Admin,2025-12-10 13:43:19
+921,2024-01-06,Unauthorized Access,Medium,Closed,Incident eyz1KDBpUe39digUuCmL,System,2025-12-10 13:43:19
+922,2023-06-20,Data Breach,Critical,Closed,Incident nxGJP7wN6I9JBxPbqqKc,Security Team,2025-12-10 13:43:19
+923,2023-07-05,Phishing,Medium,Open,Incident ODIij2ZflhxNXhfLJjIF,Admin,2025-12-10 13:43:19
+924,2024-06-19,Ransomware,Medium,Investigating,Incident PVLdY1DPbnrtRKyb3VGX,Security Team,2025-12-10 13:43:19
+925,2023-03-03,Data Breach,Critical,Investigating,Incident 8Px99apeBgE8bwFUIQvB,System,2025-12-10 13:43:19
+926,2023-01-17,Data Breach,Critical,Closed,Incident 6ez8yfw3yq59gri6igyR,User,2025-12-10 13:43:19
+927,2024-07-20,Data Breach,Medium,Closed,Incident ZMGm4vXGvef66G5yIh7y,User,2025-12-10 13:43:19
+928,2023-04-28,Malware,Medium,Resolved,Incident z150W9KwpV1IFw9bBuE8,Security Team,2025-12-10 13:43:19
+929,2024-03-29,Ransomware,Medium,Investigating,Incident JXkDnBGjyX5tkKBleRam,User,2025-12-10 13:43:19
+930,2024-09-04,DDoS,High,Open,Incident 1qW6P60FXf55TSxsTAB0,Security Team,2025-12-10 13:43:19
+931,2023-03-22,Unauthorized Access,Medium,Resolved,Incident ooBaf4zpxNskV94FS0Nu,User,2025-12-10 13:43:19
+932,2023-05-09,Malware,Medium,Resolved,Incident gXyMqW6ilh1LrW3nPvG9,Admin,2025-12-10 13:43:19
+933,2023-01-17,Malware,Low,Open,Incident 4VCgVomBdt1uglQ1BeXS,User,2025-12-10 13:43:19
+934,2024-10-18,Phishing,Low,Open,Incident hg38pW1lubupD1HkPtIi,Admin,2025-12-10 13:43:19
+935,2024-07-15,Unauthorized Access,Critical,Resolved,Incident xnbfzk0HaIEVGAOlDn0Y,Admin,2025-12-10 13:43:19
+936,2023-08-26,Data Breach,High,Closed,Incident EcD66rhRCpqNhqq6pija,Admin,2025-12-10 13:43:19
+937,2023-08-05,DDoS,Low,Investigating,Incident W0hjerwT8LwhQQpSMUow,Admin,2025-12-10 13:43:19
+938,2024-01-08,Data Breach,Medium,Investigating,Incident 3Mq6AQNhjn5R1QasvTE5,Security Team,2025-12-10 13:43:19
+939,2023-04-16,Unauthorized Access,Medium,Investigating,Incident A7siJCk9SVHjjVJP5t0l,Security Team,2025-12-10 13:43:19
+940,2024-10-31,DDoS,Critical,Open,Incident cL9bnKkTp7ZmFtASn1tq,User,2025-12-10 13:43:19
+941,2023-06-30,Malware,High,Closed,Incident rzXxte8qRtx0TKvbVrGb,User,2025-12-10 13:43:19
+942,2023-11-30,DDoS,Critical,Open,Incident PHdJH3xfLPKbDKYljv05,Admin,2025-12-10 13:43:19
+943,2024-02-14,Malware,High,Open,Incident BAV82YupaqUy2zYkng8A,System,2025-12-10 13:43:19
+944,2023-08-11,Phishing,High,Resolved,Incident pul04sQvl2eLBK7JGZWK,User,2025-12-10 13:43:19
+945,2023-09-18,Unauthorized Access,Medium,Resolved,Incident Fe7JPW8gGWYUFsmscRDi,User,2025-12-10 13:43:19
+946,2024-11-04,Phishing,Low,Open,Incident BzWW8EQ2vcnUGvUKdS4l,System,2025-12-10 13:43:19
+947,2024-03-13,Unauthorized Access,Critical,Open,Incident atx8AwSCXazDxQN04eEO,System,2025-12-10 13:43:19
+948,2024-05-21,Phishing,Critical,Closed,Incident KwyIlE1HOGUItaJAiO2H,System,2025-12-10 13:43:19
+949,2024-02-16,DDoS,Medium,Open,Incident HQR9YSWDUGKm5kbGt2cN,User,2025-12-10 13:43:19
+950,2024-09-19,Unauthorized Access,Critical,Investigating,Incident zUVTi4NgQdKN1VrEcbsN,User,2025-12-10 13:43:19
+951,2024-11-28,Unauthorized Access,High,Open,Incident MsyETneBUvqyr8zuvR8H,System,2025-12-10 13:43:19
+952,2023-06-23,Malware,Critical,Resolved,Incident 4qRbNRe2nHuYCT3yVBUr,System,2025-12-10 13:43:19
+953,2024-09-08,Unauthorized Access,High,Investigating,Incident M911GFhx6k8BKriXbscr,Admin,2025-12-10 13:43:19
+954,2023-02-09,DDoS,Critical,Resolved,Incident klQobsXSfrUFjPNtMYK5,Security Team,2025-12-10 13:43:19
+955,2023-12-04,Data Breach,High,Resolved,Incident 2V53yNauV4n2ma4QE4dm,System,2025-12-10 13:43:19
+956,2024-07-14,Unauthorized Access,Low,Open,Incident 7NOTYbiwutKhxXD4Lrj0,User,2025-12-10 13:43:19
+957,2023-10-02,Phishing,Medium,Resolved,Incident XWgx5JSwtRDyEvpIkPgM,User,2025-12-10 13:43:19
+958,2023-08-22,Unauthorized Access,Medium,Open,Incident N6MRvh5UHA8kwzn4J7AV,Admin,2025-12-10 13:43:19
+959,2023-04-10,Malware,Critical,Closed,Incident 5vHXMrHzYlv2dgJhxxcJ,Security Team,2025-12-10 13:43:19
+960,2024-11-17,Phishing,High,Resolved,Incident x9EosPs6EQa6p6OIaM5D,System,2025-12-10 13:43:19
+961,2024-11-10,Malware,High,Investigating,Incident mbJhGfylQFMsIVMU0kbo,Admin,2025-12-10 13:43:19
+962,2023-09-07,Ransomware,Medium,Closed,Incident pSxj9Egdsk0EHAmalrsO,Security Team,2025-12-10 13:43:19
+963,2023-08-11,Malware,Medium,Open,Incident G1godp4HRQSVQjFopSPj,Admin,2025-12-10 13:43:19
+964,2023-10-04,Unauthorized Access,High,Open,Incident ugeYgvPU80su5A5tQkyL,Security Team,2025-12-10 13:43:19
+965,2023-01-04,DDoS,High,Open,Incident u0UgPJVSL56GtHtx8AxA,User,2025-12-10 13:43:19
+966,2024-01-28,Unauthorized Access,Medium,Resolved,Incident zcBy6kXoGDKT6zfr6Dun,Security Team,2025-12-10 13:43:19
+967,2023-03-03,Data Breach,High,Investigating,Incident CWdReHuWswRjAzYMYDoS,Admin,2025-12-10 13:43:19
+968,2023-08-06,Phishing,High,Open,Incident 6Q7MCCYZfUviP8qvzfXg,Security Team,2025-12-10 13:43:19
+969,2024-08-04,Ransomware,Critical,Resolved,Incident SyFZbdWKf1s3wjijdH7F,User,2025-12-10 13:43:19
+970,2023-07-10,DDoS,High,Investigating,Incident x2yYL2bKqly4b9ikDx6J,Admin,2025-12-10 13:43:19
+971,2023-11-17,DDoS,Critical,Open,Incident MBcM87Je3RXg29NTUwYx,Admin,2025-12-10 13:43:19
+972,2023-04-19,Phishing,Low,Investigating,Incident yvKON8OfviEp3OTHMc3K,User,2025-12-10 13:43:19
+973,2024-06-08,Phishing,Medium,Closed,Incident bqGcaGZmQjT3vug3AqCc,System,2025-12-10 13:43:19
+974,2023-06-03,Ransomware,High,Investigating,Incident 5BwSMPsi5rvD6LwgDNbc,Admin,2025-12-10 13:43:19
+975,2023-06-11,Malware,Medium,Investigating,Incident 7dncxjwrjleljVoMWyph,System,2025-12-10 13:43:19
+976,2024-02-17,Ransomware,Critical,Open,Incident vOg3Ph6S8GpiyPTt0X9H,User,2025-12-10 13:43:19
+977,2024-04-23,DDoS,Low,Open,Incident qbkFDisgwOypWwCYhLNg,Security Team,2025-12-10 13:43:19
+978,2024-05-27,Data Breach,Low,Closed,Incident PFIQX3Lv0VpD8BHbo83L,User,2025-12-10 13:43:19
+979,2023-03-14,Unauthorized Access,High,Open,Incident 7PqNCnZFtal5tKQp6kz2,User,2025-12-10 13:43:19
+980,2023-10-17,Data Breach,Low,Closed,Incident ifS9FpQ2yGXTVEMVlHhp,System,2025-12-10 13:43:19
+981,2023-11-12,Malware,Medium,Open,Incident JMgaZE22gOHhKKlcvU7t,Admin,2025-12-10 13:43:19
+982,2024-05-28,Malware,Low,Closed,Incident Y2c8ChRUd9l1DnKfJ1tj,System,2025-12-10 13:43:19
+983,2024-10-21,Phishing,Critical,Resolved,Incident GRjzAA3jEUbPBTp2ryhr,Admin,2025-12-10 13:43:19
+984,2024-07-08,DDoS,Critical,Investigating,Incident y2yAjRTEv6lppBuv5Fjd,System,2025-12-10 13:43:19
+985,2023-10-09,Phishing,Low,Investigating,Incident T08BmLHrdUxt8S2PS0BV,User,2025-12-10 13:43:19
+986,2023-05-30,Ransomware,High,Investigating,Incident ggXHu6Y0HdLRbSgIPsrH,Security Team,2025-12-10 13:43:19
+987,2023-03-01,Phishing,High,Closed,Incident dZxGbmHlJ13Gw6fDVDzw,Admin,2025-12-10 13:43:19
+988,2024-08-05,DDoS,Low,Investigating,Incident mzbbLg8CdX4J5KkznwPb,Admin,2025-12-10 13:43:19
+989,2023-04-22,Phishing,Low,Closed,Incident J5TyCiZcTxHAG97MO1X7,System,2025-12-10 13:43:19
+990,2023-05-15,Data Breach,High,Closed,Incident vM1MBOZIpDfT2pnALupD,Security Team,2025-12-10 13:43:19
+991,2024-05-14,DDoS,Critical,Investigating,Incident Pf0jmOytErZkQf3FGk0U,User,2025-12-10 13:43:19
+992,2024-11-26,DDoS,Low,Open,Incident 8q0Slyezpqu6uNFpxqDq,Admin,2025-12-10 13:43:19
+993,2024-01-03,DDoS,Critical,Investigating,Incident m8OLY9FPg5zTZ0AAWUNt,System,2025-12-10 13:43:19
+994,2023-10-25,DDoS,High,Open,Incident z18n4nbBjHb9APo3y0pC,Admin,2025-12-10 13:43:19
+995,2023-01-09,Data Breach,High,Resolved,Incident JaS8ieGzciVqvVr8ASJt,Security Team,2025-12-10 13:43:19
+996,2023-03-18,Phishing,Low,Resolved,Incident 2bgXNQzEdNpD1rKNb6xm,Security Team,2025-12-10 13:43:19
+997,2023-09-07,DDoS,Critical,Open,Incident FeswG1xHBY8pr11liibb,System,2025-12-10 13:43:19
+998,2023-07-10,Ransomware,Medium,Open,Incident adpfLdkqicCZnTMwoQT0,Security Team,2025-12-10 13:43:19
+999,2023-03-01,Phishing,High,Investigating,Incident bRx1sgwqcydBF4c1Hsjo,Security Team,2025-12-10 13:43:19
+1000,2023-04-17,DDoS,Medium,Investigating,Incident i1o7eSSZwEqUTgMqxlLq,Admin,2025-12-10 13:43:19

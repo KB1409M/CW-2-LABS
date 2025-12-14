@@ -1,0 +1,1001 @@
+id,dataset_name,category,source,last_updated,record_count,file_size_mb,created_at
+1,Threat Intelligence Feeds,Security,Automated System,2024-11-15,27638,128.64,2025-12-10 13:47:10
+2,System Event Logs,Security,Internal,2024-01-16,26846,355.71,2025-12-10 13:47:10
+3,User Access Records,Monitoring,Automated System,2024-10-22,12158,4.36,2025-12-10 13:47:10
+4,Network Traffic Logs,Cloud,External,2023-04-10,13855,286.76,2025-12-10 13:47:10
+5,User Access Records,Security,Automated System,2023-03-12,1412,457.42,2025-12-10 13:47:10
+6,Email Security Reports,Operations,Third-Party,2024-05-01,7317,17.16,2025-12-10 13:47:10
+7,Threat Intelligence Feeds,Networking,Automated System,2023-09-01,36441,397.39,2025-12-10 13:47:10
+8,IoT Sensor Data,Security,Third-Party,2024-03-24,42644,158.34,2025-12-10 13:47:10
+9,System Event Logs,Monitoring,Third-Party,2024-07-06,42887,226.63,2025-12-10 13:47:10
+10,Authentication Logs,Operations,Third-Party,2023-06-01,43646,102.81,2025-12-10 13:47:10
+11,Firewall Activity,Cloud,Third-Party,2023-02-12,45466,410.4,2025-12-10 13:47:10
+12,User Access Records,Operations,External,2023-11-13,18185,74.03,2025-12-10 13:47:10
+13,Email Security Reports,Security,External,2023-10-04,1359,343.22,2025-12-10 13:47:10
+14,Authentication Logs,Monitoring,Automated System,2024-04-11,50000,216.77,2025-12-10 13:47:10
+15,Firewall Activity,Cloud,Automated System,2023-11-17,3846,46.55,2025-12-10 13:47:10
+16,Network Traffic Logs,Monitoring,External,2023-09-05,46999,171.49,2025-12-10 13:47:10
+17,Malware Samples,Monitoring,Internal,2024-06-09,37523,355.84,2025-12-10 13:47:10
+18,Network Traffic Logs,Cloud,Third-Party,2024-05-15,3914,209.68,2025-12-10 13:47:10
+19,Cloud Activity Records,Monitoring,External,2023-10-31,34976,18.69,2025-12-10 13:47:10
+20,Malware Samples,Cloud,Internal,2024-03-26,9260,235.76,2025-12-10 13:47:10
+21,User Access Records,Monitoring,External,2023-10-21,31542,163.71,2025-12-10 13:47:10
+22,User Access Records,Security,Automated System,2023-10-19,16620,457.85,2025-12-10 13:47:10
+23,Threat Intelligence Feeds,Cloud,Automated System,2024-02-18,18602,382.4,2025-12-10 13:47:10
+24,Email Security Reports,Networking,Internal,2023-10-02,37224,196.47,2025-12-10 13:47:10
+25,Malware Samples,Security,Third-Party,2024-11-01,41315,119.19,2025-12-10 13:47:10
+26,Firewall Activity,Networking,External,2023-12-18,27818,49.82,2025-12-10 13:47:10
+27,IoT Sensor Data,Networking,Third-Party,2024-09-02,14476,410.13,2025-12-10 13:47:10
+28,System Event Logs,Networking,Internal,2023-05-12,41653,411.11,2025-12-10 13:47:10
+29,System Event Logs,Cloud,External,2023-05-15,34758,235.04,2025-12-10 13:47:10
+30,Firewall Activity,Networking,Automated System,2024-07-29,29787,333.92,2025-12-10 13:47:10
+31,IoT Sensor Data,Security,Automated System,2024-05-26,7639,414.9,2025-12-10 13:47:10
+32,Email Security Reports,Networking,Third-Party,2023-08-30,16625,454.29,2025-12-10 13:47:10
+33,Network Traffic Logs,Cloud,Automated System,2023-02-02,12903,98.02,2025-12-10 13:47:10
+34,Firewall Activity,Monitoring,Internal,2023-03-16,40364,359.2,2025-12-10 13:47:10
+35,User Access Records,Networking,External,2024-08-02,39374,202.99,2025-12-10 13:47:10
+36,Network Traffic Logs,Security,Third-Party,2024-09-27,13703,453.85,2025-12-10 13:47:10
+37,User Access Records,Cloud,Third-Party,2023-05-08,9785,404.8,2025-12-10 13:47:10
+38,Authentication Logs,Cloud,Third-Party,2023-02-20,47065,9.99,2025-12-10 13:47:10
+39,User Access Records,Operations,Internal,2024-08-25,40232,233.36,2025-12-10 13:47:10
+40,Malware Samples,Security,Third-Party,2024-01-15,45664,292.39,2025-12-10 13:47:10
+41,Cloud Activity Records,Monitoring,Automated System,2024-01-09,39659,164.68,2025-12-10 13:47:10
+42,Firewall Activity,Security,Automated System,2023-04-17,45302,298.58,2025-12-10 13:47:10
+43,Cloud Activity Records,Security,External,2023-04-11,10478,472.45,2025-12-10 13:47:10
+44,Cloud Activity Records,Networking,Automated System,2023-12-29,991,159.35,2025-12-10 13:47:10
+45,Malware Samples,Operations,Automated System,2023-06-23,7758,43.64,2025-12-10 13:47:10
+46,Threat Intelligence Feeds,Operations,Internal,2023-01-11,47509,76.42,2025-12-10 13:47:10
+47,Malware Samples,Monitoring,Internal,2024-10-31,22089,133.7,2025-12-10 13:47:10
+48,Email Security Reports,Networking,Automated System,2023-09-17,24904,358.13,2025-12-10 13:47:10
+49,Cloud Activity Records,Networking,Internal,2023-06-28,9613,89.8,2025-12-10 13:47:10
+50,IoT Sensor Data,Cloud,Internal,2024-06-25,33296,1.65,2025-12-10 13:47:10
+51,IoT Sensor Data,Networking,External,2023-09-08,21742,363.86,2025-12-10 13:47:10
+52,Cloud Activity Records,Monitoring,External,2024-07-15,49690,374.96,2025-12-10 13:47:10
+53,User Access Records,Cloud,Automated System,2023-08-28,5842,45.11,2025-12-10 13:47:10
+54,Threat Intelligence Feeds,Monitoring,External,2023-07-23,49950,186.54,2025-12-10 13:47:10
+55,Cloud Activity Records,Cloud,Internal,2024-09-18,14450,353.67,2025-12-10 13:47:10
+56,Cloud Activity Records,Monitoring,Internal,2024-02-05,24988,193.79,2025-12-10 13:47:10
+57,Authentication Logs,Security,External,2024-07-17,42836,192.17,2025-12-10 13:47:10
+58,Threat Intelligence Feeds,Cloud,Third-Party,2024-02-12,10871,428.55,2025-12-10 13:47:10
+59,Authentication Logs,Security,Automated System,2024-03-20,6688,438.39,2025-12-10 13:47:10
+60,IoT Sensor Data,Monitoring,Internal,2023-04-24,22277,2.72,2025-12-10 13:47:10
+61,Malware Samples,Networking,Third-Party,2024-02-18,5145,21.04,2025-12-10 13:47:10
+62,Authentication Logs,Networking,Internal,2024-07-09,16256,7.24,2025-12-10 13:47:10
+63,User Access Records,Security,Internal,2024-04-05,8648,379.91,2025-12-10 13:47:10
+64,Cloud Activity Records,Monitoring,External,2023-01-28,49471,9.76,2025-12-10 13:47:10
+65,Cloud Activity Records,Cloud,Third-Party,2023-11-26,9809,468.09,2025-12-10 13:47:10
+66,Threat Intelligence Feeds,Monitoring,External,2024-03-08,29746,260.34,2025-12-10 13:47:10
+67,Firewall Activity,Operations,Third-Party,2023-12-21,35919,130.58,2025-12-10 13:47:10
+68,Cloud Activity Records,Networking,Internal,2024-06-26,29858,216.99,2025-12-10 13:47:10
+69,Network Traffic Logs,Monitoring,Automated System,2023-05-02,29453,319.68,2025-12-10 13:47:10
+70,Firewall Activity,Cloud,Internal,2023-10-27,33642,240.59,2025-12-10 13:47:10
+71,Firewall Activity,Networking,Internal,2024-07-05,38216,147.74,2025-12-10 13:47:10
+72,Cloud Activity Records,Monitoring,External,2023-09-21,30348,197.77,2025-12-10 13:47:10
+73,Email Security Reports,Cloud,External,2023-08-26,6589,169.12,2025-12-10 13:47:10
+74,User Access Records,Operations,Third-Party,2023-11-15,44293,210.02,2025-12-10 13:47:10
+75,Threat Intelligence Feeds,Networking,External,2024-08-08,46004,346.2,2025-12-10 13:47:10
+76,Network Traffic Logs,Security,External,2024-04-04,28868,83.01,2025-12-10 13:47:10
+77,Malware Samples,Cloud,Internal,2024-09-03,1114,216.11,2025-12-10 13:47:10
+78,Threat Intelligence Feeds,Monitoring,Automated System,2023-06-13,1062,396.07,2025-12-10 13:47:10
+79,User Access Records,Cloud,Automated System,2024-02-07,40095,432.69,2025-12-10 13:47:10
+80,IoT Sensor Data,Security,External,2024-03-23,7406,437.07,2025-12-10 13:47:10
+81,Authentication Logs,Operations,Automated System,2024-03-02,13967,177.4,2025-12-10 13:47:10
+82,Email Security Reports,Cloud,Third-Party,2024-09-10,35631,347.96,2025-12-10 13:47:10
+83,System Event Logs,Cloud,External,2023-07-03,49752,458.93,2025-12-10 13:47:10
+84,Network Traffic Logs,Monitoring,Internal,2023-11-24,44693,442.72,2025-12-10 13:47:10
+85,Email Security Reports,Operations,Automated System,2023-01-23,14173,348.12,2025-12-10 13:47:10
+86,Threat Intelligence Feeds,Security,Internal,2024-06-14,23813,111.75,2025-12-10 13:47:10
+87,Network Traffic Logs,Security,Third-Party,2023-04-23,39968,375.69,2025-12-10 13:47:10
+88,Malware Samples,Cloud,Automated System,2024-04-21,6207,215.67,2025-12-10 13:47:10
+89,System Event Logs,Operations,Automated System,2023-02-26,7860,494.8,2025-12-10 13:47:10
+90,Network Traffic Logs,Operations,Internal,2024-07-18,3349,109.67,2025-12-10 13:47:10
+91,IoT Sensor Data,Operations,Third-Party,2024-02-15,11165,258.87,2025-12-10 13:47:10
+92,Authentication Logs,Cloud,External,2024-08-20,26177,32.17,2025-12-10 13:47:10
+93,Cloud Activity Records,Security,External,2023-09-01,37098,303.98,2025-12-10 13:47:10
+94,Threat Intelligence Feeds,Networking,Automated System,2024-11-15,6512,135.79,2025-12-10 13:47:10
+95,Authentication Logs,Cloud,External,2023-09-16,22277,343.01,2025-12-10 13:47:10
+96,Email Security Reports,Monitoring,Third-Party,2024-11-26,7589,179.5,2025-12-10 13:47:10
+97,Cloud Activity Records,Operations,Automated System,2023-10-13,42070,347.06,2025-12-10 13:47:10
+98,Threat Intelligence Feeds,Networking,External,2024-03-06,21577,155.28,2025-12-10 13:47:10
+99,Network Traffic Logs,Security,Third-Party,2023-04-30,42635,156.31,2025-12-10 13:47:10
+100,Cloud Activity Records,Cloud,Automated System,2024-08-19,36472,57.34,2025-12-10 13:47:10
+101,Authentication Logs,Operations,Third-Party,2023-03-18,9380,140.19,2025-12-10 13:47:10
+102,Network Traffic Logs,Operations,Automated System,2023-09-06,31412,371.26,2025-12-10 13:47:10
+103,Threat Intelligence Feeds,Cloud,Third-Party,2023-03-09,10851,449.85,2025-12-10 13:47:10
+104,Network Traffic Logs,Operations,Third-Party,2023-05-21,29463,475.66,2025-12-10 13:47:10
+105,Malware Samples,Cloud,External,2023-05-31,1668,107.13,2025-12-10 13:47:10
+106,Authentication Logs,Monitoring,Automated System,2024-02-24,31080,391.42,2025-12-10 13:47:10
+107,Cloud Activity Records,Cloud,Third-Party,2023-05-21,2784,15.55,2025-12-10 13:47:10
+108,IoT Sensor Data,Networking,External,2023-09-27,19155,87.97,2025-12-10 13:47:10
+109,User Access Records,Operations,Third-Party,2023-05-27,47367,99.95,2025-12-10 13:47:10
+110,Authentication Logs,Monitoring,Internal,2023-12-14,22408,186.36,2025-12-10 13:47:10
+111,Email Security Reports,Networking,Third-Party,2023-08-02,25255,134.6,2025-12-10 13:47:10
+112,Malware Samples,Security,Internal,2024-06-25,31387,144.0,2025-12-10 13:47:10
+113,Threat Intelligence Feeds,Networking,Third-Party,2023-12-17,15840,48.0,2025-12-10 13:47:10
+114,Cloud Activity Records,Monitoring,Automated System,2024-09-24,8765,236.75,2025-12-10 13:47:10
+115,Cloud Activity Records,Operations,Internal,2024-05-13,7254,220.56,2025-12-10 13:47:10
+116,System Event Logs,Networking,External,2023-02-10,1495,141.04,2025-12-10 13:47:10
+117,Authentication Logs,Monitoring,External,2023-04-20,5434,152.95,2025-12-10 13:47:10
+118,System Event Logs,Cloud,Automated System,2023-03-26,22176,49.1,2025-12-10 13:47:10
+119,System Event Logs,Security,Internal,2023-06-16,32500,245.51,2025-12-10 13:47:10
+120,Network Traffic Logs,Monitoring,Internal,2024-05-17,24897,242.28,2025-12-10 13:47:10
+121,Email Security Reports,Networking,Internal,2024-10-29,47471,247.13,2025-12-10 13:47:10
+122,Network Traffic Logs,Security,Third-Party,2023-12-02,29701,278.49,2025-12-10 13:47:10
+123,User Access Records,Operations,Automated System,2023-12-18,48233,312.99,2025-12-10 13:47:10
+124,Malware Samples,Operations,Automated System,2023-04-07,21569,276.23,2025-12-10 13:47:10
+125,Authentication Logs,Operations,External,2023-06-13,45873,239.78,2025-12-10 13:47:10
+126,System Event Logs,Operations,External,2024-11-04,2913,44.31,2025-12-10 13:47:10
+127,Threat Intelligence Feeds,Operations,External,2024-05-30,44702,319.66,2025-12-10 13:47:10
+128,Firewall Activity,Monitoring,Third-Party,2024-06-17,25374,331.71,2025-12-10 13:47:10
+129,Malware Samples,Operations,External,2023-10-25,7946,192.49,2025-12-10 13:47:10
+130,Network Traffic Logs,Networking,Third-Party,2023-04-12,7245,20.35,2025-12-10 13:47:10
+131,Firewall Activity,Operations,Third-Party,2024-03-26,23925,342.79,2025-12-10 13:47:10
+132,Firewall Activity,Monitoring,Automated System,2024-11-19,29972,155.59,2025-12-10 13:47:10
+133,Firewall Activity,Cloud,External,2024-08-08,22368,15.2,2025-12-10 13:47:10
+134,Threat Intelligence Feeds,Cloud,External,2024-01-28,19800,182.61,2025-12-10 13:47:10
+135,Network Traffic Logs,Operations,Internal,2024-01-27,32895,165.79,2025-12-10 13:47:10
+136,Network Traffic Logs,Cloud,Automated System,2023-06-25,30299,230.87,2025-12-10 13:47:10
+137,User Access Records,Monitoring,Internal,2024-03-03,37057,67.3,2025-12-10 13:47:10
+138,Authentication Logs,Monitoring,Automated System,2024-09-25,39434,123.78,2025-12-10 13:47:10
+139,Cloud Activity Records,Operations,External,2024-08-03,16080,290.83,2025-12-10 13:47:10
+140,User Access Records,Cloud,Internal,2024-06-06,27114,10.19,2025-12-10 13:47:10
+141,Malware Samples,Cloud,Third-Party,2024-02-11,5038,118.49,2025-12-10 13:47:10
+142,IoT Sensor Data,Security,Third-Party,2023-07-08,45805,155.97,2025-12-10 13:47:10
+143,Firewall Activity,Operations,Automated System,2024-02-19,5645,58.73,2025-12-10 13:47:10
+144,Cloud Activity Records,Networking,Third-Party,2024-03-30,8639,406.75,2025-12-10 13:47:10
+145,Firewall Activity,Monitoring,Automated System,2023-11-27,20732,414.0,2025-12-10 13:47:10
+146,Network Traffic Logs,Networking,External,2023-09-20,2865,183.82,2025-12-10 13:47:10
+147,Cloud Activity Records,Monitoring,External,2024-08-03,36661,127.45,2025-12-10 13:47:10
+148,User Access Records,Cloud,Automated System,2023-08-11,14561,36.81,2025-12-10 13:47:10
+149,IoT Sensor Data,Security,Automated System,2024-10-06,20964,28.16,2025-12-10 13:47:10
+150,Authentication Logs,Networking,Automated System,2024-11-08,44253,326.09,2025-12-10 13:47:10
+151,Firewall Activity,Operations,Automated System,2023-06-29,17576,270.72,2025-12-10 13:47:10
+152,IoT Sensor Data,Cloud,External,2023-01-28,32397,219.1,2025-12-10 13:47:10
+153,Network Traffic Logs,Networking,External,2024-02-03,39267,105.38,2025-12-10 13:47:10
+154,Authentication Logs,Networking,Third-Party,2024-05-20,28155,142.87,2025-12-10 13:47:10
+155,Network Traffic Logs,Cloud,Internal,2024-07-11,32925,66.26,2025-12-10 13:47:10
+156,User Access Records,Networking,Third-Party,2023-04-29,419,478.99,2025-12-10 13:47:10
+157,IoT Sensor Data,Security,Automated System,2024-11-10,48707,268.5,2025-12-10 13:47:10
+158,Network Traffic Logs,Monitoring,Third-Party,2023-06-07,22577,496.72,2025-12-10 13:47:10
+159,IoT Sensor Data,Monitoring,Automated System,2024-09-30,48853,31.41,2025-12-10 13:47:10
+160,IoT Sensor Data,Cloud,Internal,2024-03-17,16126,248.3,2025-12-10 13:47:10
+161,System Event Logs,Monitoring,Third-Party,2024-11-28,13736,126.82,2025-12-10 13:47:10
+162,Threat Intelligence Feeds,Operations,Third-Party,2024-04-29,34171,312.31,2025-12-10 13:47:10
+163,IoT Sensor Data,Cloud,Automated System,2023-02-06,38929,269.19,2025-12-10 13:47:10
+164,Email Security Reports,Monitoring,Internal,2023-01-06,40475,280.87,2025-12-10 13:47:10
+165,Malware Samples,Networking,Third-Party,2023-02-19,22144,227.66,2025-12-10 13:47:10
+166,Authentication Logs,Cloud,Internal,2024-09-11,22543,126.22,2025-12-10 13:47:10
+167,User Access Records,Security,External,2023-11-29,36694,345.26,2025-12-10 13:47:10
+168,System Event Logs,Operations,External,2023-12-26,37222,447.75,2025-12-10 13:47:10
+169,Network Traffic Logs,Operations,Internal,2024-11-09,1984,224.02,2025-12-10 13:47:10
+170,Authentication Logs,Networking,Internal,2023-11-21,10809,306.28,2025-12-10 13:47:10
+171,IoT Sensor Data,Cloud,External,2023-04-21,4680,353.06,2025-12-10 13:47:10
+172,Malware Samples,Cloud,Internal,2024-07-24,15266,454.6,2025-12-10 13:47:10
+173,System Event Logs,Monitoring,Automated System,2023-04-11,3569,20.08,2025-12-10 13:47:10
+174,Email Security Reports,Security,Internal,2023-01-01,43454,299.6,2025-12-10 13:47:10
+175,Cloud Activity Records,Monitoring,External,2023-02-14,11567,391.18,2025-12-10 13:47:10
+176,Threat Intelligence Feeds,Operations,Third-Party,2023-12-09,36525,15.21,2025-12-10 13:47:10
+177,System Event Logs,Cloud,Internal,2023-11-23,42891,172.41,2025-12-10 13:47:10
+178,Network Traffic Logs,Cloud,Third-Party,2024-04-22,7406,437.57,2025-12-10 13:47:10
+179,Network Traffic Logs,Operations,Automated System,2023-10-18,11146,368.81,2025-12-10 13:47:10
+180,Cloud Activity Records,Networking,Third-Party,2023-04-05,32962,129.11,2025-12-10 13:47:10
+181,Email Security Reports,Operations,Automated System,2024-08-29,35650,376.87,2025-12-10 13:47:10
+182,Network Traffic Logs,Networking,Third-Party,2023-06-26,562,41.26,2025-12-10 13:47:10
+183,Cloud Activity Records,Security,Internal,2023-08-15,43951,467.3,2025-12-10 13:47:10
+184,Cloud Activity Records,Cloud,Automated System,2023-02-12,30522,29.56,2025-12-10 13:47:10
+185,Threat Intelligence Feeds,Networking,Third-Party,2023-10-27,32882,472.09,2025-12-10 13:47:10
+186,Cloud Activity Records,Monitoring,Internal,2023-10-24,25238,185.3,2025-12-10 13:47:10
+187,Malware Samples,Monitoring,Third-Party,2024-07-28,21780,226.27,2025-12-10 13:47:10
+188,Cloud Activity Records,Networking,Automated System,2023-07-08,35879,167.39,2025-12-10 13:47:10
+189,Malware Samples,Cloud,Automated System,2023-12-26,12903,1.1,2025-12-10 13:47:10
+190,User Access Records,Networking,External,2024-10-18,46002,50.39,2025-12-10 13:47:10
+191,Threat Intelligence Feeds,Networking,Internal,2024-06-29,35860,429.28,2025-12-10 13:47:10
+192,User Access Records,Monitoring,External,2023-05-17,9432,402.7,2025-12-10 13:47:10
+193,Cloud Activity Records,Operations,Third-Party,2024-03-17,42015,37.02,2025-12-10 13:47:10
+194,Malware Samples,Operations,Automated System,2023-06-28,34259,168.04,2025-12-10 13:47:10
+195,IoT Sensor Data,Cloud,Internal,2023-04-15,35346,101.19,2025-12-10 13:47:10
+196,Email Security Reports,Monitoring,External,2023-02-21,21097,390.48,2025-12-10 13:47:10
+197,Firewall Activity,Operations,Third-Party,2023-11-14,22977,99.06,2025-12-10 13:47:10
+198,User Access Records,Operations,Internal,2023-10-06,45950,161.39,2025-12-10 13:47:10
+199,User Access Records,Security,External,2024-10-06,29115,354.07,2025-12-10 13:47:10
+200,Threat Intelligence Feeds,Security,External,2024-01-12,10913,81.72,2025-12-10 13:47:10
+201,Email Security Reports,Cloud,Automated System,2023-08-23,27625,331.96,2025-12-10 13:47:10
+202,User Access Records,Cloud,Internal,2023-03-29,48018,77.61,2025-12-10 13:47:10
+203,System Event Logs,Security,Automated System,2024-01-13,23129,7.07,2025-12-10 13:47:10
+204,System Event Logs,Monitoring,Automated System,2023-10-26,1221,204.66,2025-12-10 13:47:10
+205,Authentication Logs,Operations,Internal,2024-07-11,42347,250.05,2025-12-10 13:47:10
+206,User Access Records,Operations,Internal,2024-04-08,36907,401.25,2025-12-10 13:47:10
+207,Threat Intelligence Feeds,Monitoring,Automated System,2024-08-25,40836,93.6,2025-12-10 13:47:10
+208,Network Traffic Logs,Networking,Internal,2024-05-31,29007,401.43,2025-12-10 13:47:10
+209,Firewall Activity,Security,Third-Party,2023-06-16,24198,82.35,2025-12-10 13:47:10
+210,IoT Sensor Data,Monitoring,Third-Party,2023-01-22,350,324.01,2025-12-10 13:47:10
+211,System Event Logs,Cloud,Third-Party,2023-05-06,36380,296.26,2025-12-10 13:47:10
+212,IoT Sensor Data,Networking,Automated System,2023-07-11,12151,495.61,2025-12-10 13:47:10
+213,User Access Records,Operations,Internal,2024-03-27,48862,41.28,2025-12-10 13:47:10
+214,Threat Intelligence Feeds,Networking,Third-Party,2024-09-22,24155,188.65,2025-12-10 13:47:10
+215,Threat Intelligence Feeds,Monitoring,Third-Party,2023-01-10,37831,227.24,2025-12-10 13:47:10
+216,User Access Records,Operations,Internal,2023-01-18,16878,19.69,2025-12-10 13:47:10
+217,System Event Logs,Operations,Automated System,2023-09-08,27976,127.01,2025-12-10 13:47:10
+218,Authentication Logs,Security,Internal,2024-07-18,18887,288.42,2025-12-10 13:47:10
+219,Network Traffic Logs,Cloud,Third-Party,2024-06-11,30369,56.44,2025-12-10 13:47:10
+220,Malware Samples,Monitoring,Internal,2023-08-01,12086,440.78,2025-12-10 13:47:10
+221,Threat Intelligence Feeds,Operations,Automated System,2024-02-07,1942,412.81,2025-12-10 13:47:10
+222,Threat Intelligence Feeds,Security,Third-Party,2023-06-15,3508,272.41,2025-12-10 13:47:10
+223,Authentication Logs,Security,Internal,2023-09-16,31646,243.68,2025-12-10 13:47:10
+224,Malware Samples,Operations,Internal,2024-05-18,14666,283.45,2025-12-10 13:47:10
+225,Network Traffic Logs,Security,Internal,2024-04-19,46834,354.18,2025-12-10 13:47:10
+226,Network Traffic Logs,Operations,Third-Party,2023-04-10,17986,216.75,2025-12-10 13:47:10
+227,Email Security Reports,Cloud,External,2023-12-10,11267,274.28,2025-12-10 13:47:10
+228,IoT Sensor Data,Security,Internal,2023-02-16,22702,194.06,2025-12-10 13:47:10
+229,Email Security Reports,Security,Internal,2023-04-20,36858,462.95,2025-12-10 13:47:10
+230,Malware Samples,Security,Third-Party,2024-02-13,11447,408.87,2025-12-10 13:47:10
+231,Cloud Activity Records,Security,Internal,2023-12-30,47042,193.55,2025-12-10 13:47:10
+232,Firewall Activity,Monitoring,External,2023-09-14,17842,239.15,2025-12-10 13:47:10
+233,System Event Logs,Cloud,Automated System,2023-03-28,43124,203.06,2025-12-10 13:47:10
+234,User Access Records,Cloud,Automated System,2024-03-06,15813,381.45,2025-12-10 13:47:10
+235,Network Traffic Logs,Cloud,Internal,2023-01-10,25870,74.64,2025-12-10 13:47:10
+236,Firewall Activity,Operations,External,2023-05-13,20052,45.91,2025-12-10 13:47:10
+237,Firewall Activity,Networking,Automated System,2023-07-01,37444,353.76,2025-12-10 13:47:10
+238,Email Security Reports,Operations,External,2024-01-17,9085,205.06,2025-12-10 13:47:10
+239,Cloud Activity Records,Networking,Automated System,2024-09-12,10679,368.93,2025-12-10 13:47:10
+240,Cloud Activity Records,Networking,Third-Party,2023-07-29,2086,397.45,2025-12-10 13:47:10
+241,Cloud Activity Records,Cloud,Third-Party,2023-10-24,15176,265.99,2025-12-10 13:47:10
+242,Cloud Activity Records,Monitoring,Internal,2024-01-13,26589,207.15,2025-12-10 13:47:10
+243,IoT Sensor Data,Networking,External,2024-02-06,18776,181.2,2025-12-10 13:47:10
+244,System Event Logs,Networking,Automated System,2024-09-02,35568,185.65,2025-12-10 13:47:10
+245,Cloud Activity Records,Monitoring,Third-Party,2023-03-04,24991,223.92,2025-12-10 13:47:10
+246,System Event Logs,Monitoring,Automated System,2023-06-09,20048,469.31,2025-12-10 13:47:10
+247,Cloud Activity Records,Networking,Third-Party,2023-05-26,898,496.13,2025-12-10 13:47:10
+248,Firewall Activity,Monitoring,Third-Party,2023-05-20,47875,496.16,2025-12-10 13:47:10
+249,System Event Logs,Operations,Third-Party,2024-08-29,9848,158.36,2025-12-10 13:47:10
+250,System Event Logs,Cloud,Automated System,2024-01-02,14850,339.15,2025-12-10 13:47:10
+251,IoT Sensor Data,Networking,Automated System,2024-11-19,22255,329.66,2025-12-10 13:47:10
+252,System Event Logs,Operations,Automated System,2024-06-12,44689,100.08,2025-12-10 13:47:10
+253,Threat Intelligence Feeds,Networking,Internal,2023-02-23,29247,55.04,2025-12-10 13:47:10
+254,IoT Sensor Data,Security,Automated System,2024-08-17,37607,364.96,2025-12-10 13:47:10
+255,Email Security Reports,Operations,Third-Party,2023-11-21,29493,161.23,2025-12-10 13:47:10
+256,Threat Intelligence Feeds,Cloud,External,2023-10-29,1783,468.81,2025-12-10 13:47:10
+257,Authentication Logs,Security,Internal,2024-04-21,32071,390.85,2025-12-10 13:47:10
+258,Firewall Activity,Security,External,2023-07-28,47985,62.23,2025-12-10 13:47:10
+259,Firewall Activity,Cloud,External,2024-02-27,37071,358.19,2025-12-10 13:47:10
+260,Email Security Reports,Networking,External,2023-07-09,44334,119.71,2025-12-10 13:47:10
+261,System Event Logs,Operations,External,2024-02-14,30618,309.34,2025-12-10 13:47:10
+262,Firewall Activity,Security,Automated System,2024-01-16,5407,86.42,2025-12-10 13:47:10
+263,IoT Sensor Data,Monitoring,Third-Party,2023-10-03,2593,115.72,2025-12-10 13:47:10
+264,Malware Samples,Operations,External,2024-03-30,46746,3.29,2025-12-10 13:47:10
+265,System Event Logs,Security,External,2023-09-23,39349,96.16,2025-12-10 13:47:10
+266,User Access Records,Networking,Internal,2024-03-22,40668,9.3,2025-12-10 13:47:10
+267,Email Security Reports,Operations,Internal,2024-05-02,38857,45.63,2025-12-10 13:47:10
+268,Email Security Reports,Networking,External,2023-08-19,35755,491.2,2025-12-10 13:47:10
+269,Network Traffic Logs,Monitoring,Internal,2023-06-28,15840,460.48,2025-12-10 13:47:10
+270,IoT Sensor Data,Cloud,Third-Party,2024-03-25,23481,17.33,2025-12-10 13:47:10
+271,System Event Logs,Cloud,Third-Party,2024-04-19,46317,87.21,2025-12-10 13:47:10
+272,Cloud Activity Records,Security,Automated System,2023-04-23,7503,412.03,2025-12-10 13:47:10
+273,IoT Sensor Data,Monitoring,External,2024-03-05,44811,18.39,2025-12-10 13:47:10
+274,Firewall Activity,Networking,Automated System,2024-08-27,43504,44.78,2025-12-10 13:47:10
+275,Authentication Logs,Networking,Internal,2023-06-28,31906,455.56,2025-12-10 13:47:10
+276,Cloud Activity Records,Monitoring,Internal,2023-03-26,34213,17.7,2025-12-10 13:47:10
+277,Threat Intelligence Feeds,Cloud,Automated System,2024-06-19,25020,173.66,2025-12-10 13:47:10
+278,Email Security Reports,Cloud,Internal,2024-03-02,20018,181.1,2025-12-10 13:47:10
+279,Authentication Logs,Security,Third-Party,2023-05-15,17491,393.31,2025-12-10 13:47:10
+280,Cloud Activity Records,Security,Automated System,2024-08-21,12280,371.57,2025-12-10 13:47:10
+281,IoT Sensor Data,Security,Third-Party,2024-02-23,17594,368.21,2025-12-10 13:47:10
+282,Email Security Reports,Cloud,Automated System,2024-11-18,27114,211.15,2025-12-10 13:47:10
+283,Network Traffic Logs,Networking,External,2024-07-11,7791,214.94,2025-12-10 13:47:10
+284,IoT Sensor Data,Cloud,Automated System,2023-07-18,20931,278.07,2025-12-10 13:47:10
+285,Threat Intelligence Feeds,Networking,Automated System,2023-08-08,22977,396.17,2025-12-10 13:47:10
+286,Network Traffic Logs,Cloud,External,2024-01-04,12400,125.43,2025-12-10 13:47:10
+287,Threat Intelligence Feeds,Operations,Third-Party,2023-06-02,48229,226.98,2025-12-10 13:47:10
+288,Threat Intelligence Feeds,Networking,Third-Party,2023-10-07,27286,53.99,2025-12-10 13:47:10
+289,User Access Records,Cloud,External,2023-07-15,28107,324.21,2025-12-10 13:47:10
+290,IoT Sensor Data,Networking,Internal,2024-02-14,41167,341.51,2025-12-10 13:47:10
+291,User Access Records,Operations,Internal,2023-01-12,31877,133.85,2025-12-10 13:47:10
+292,Malware Samples,Security,Third-Party,2024-08-04,41307,184.07,2025-12-10 13:47:10
+293,Network Traffic Logs,Operations,Automated System,2023-10-29,2293,237.53,2025-12-10 13:47:10
+294,Threat Intelligence Feeds,Security,Internal,2024-08-29,17808,497.77,2025-12-10 13:47:10
+295,Threat Intelligence Feeds,Operations,Automated System,2024-11-24,20266,175.87,2025-12-10 13:47:10
+296,IoT Sensor Data,Operations,Internal,2024-08-30,37899,181.3,2025-12-10 13:47:10
+297,Network Traffic Logs,Monitoring,Automated System,2023-08-11,14761,159.61,2025-12-10 13:47:10
+298,Email Security Reports,Security,Third-Party,2023-08-05,26015,201.57,2025-12-10 13:47:10
+299,Threat Intelligence Feeds,Security,External,2024-07-30,46384,483.36,2025-12-10 13:47:10
+300,Cloud Activity Records,Monitoring,External,2024-02-26,6879,51.94,2025-12-10 13:47:10
+301,Cloud Activity Records,Monitoring,Automated System,2023-01-29,45670,362.17,2025-12-10 13:47:10
+302,IoT Sensor Data,Monitoring,Automated System,2024-07-21,42564,227.66,2025-12-10 13:47:10
+303,Email Security Reports,Operations,Automated System,2023-07-29,14186,181.88,2025-12-10 13:47:10
+304,IoT Sensor Data,Cloud,Internal,2024-06-18,14302,464.84,2025-12-10 13:47:10
+305,Threat Intelligence Feeds,Networking,Third-Party,2023-06-23,19065,368.39,2025-12-10 13:47:10
+306,IoT Sensor Data,Operations,Internal,2023-07-16,38645,409.69,2025-12-10 13:47:10
+307,Threat Intelligence Feeds,Operations,Internal,2023-09-21,32288,293.44,2025-12-10 13:47:10
+308,Firewall Activity,Cloud,Internal,2023-11-28,6312,244.25,2025-12-10 13:47:10
+309,Cloud Activity Records,Operations,External,2023-08-24,19241,378.37,2025-12-10 13:47:10
+310,IoT Sensor Data,Cloud,Third-Party,2023-12-28,21887,222.61,2025-12-10 13:47:10
+311,Threat Intelligence Feeds,Monitoring,Automated System,2024-07-20,38795,218.12,2025-12-10 13:47:10
+312,Firewall Activity,Cloud,External,2023-12-19,31977,214.35,2025-12-10 13:47:10
+313,Threat Intelligence Feeds,Cloud,Third-Party,2023-05-16,28912,454.08,2025-12-10 13:47:10
+314,Firewall Activity,Cloud,External,2023-06-12,7257,160.63,2025-12-10 13:47:10
+315,Authentication Logs,Cloud,Automated System,2023-01-17,18432,428.62,2025-12-10 13:47:10
+316,Network Traffic Logs,Monitoring,External,2023-12-13,44468,311.38,2025-12-10 13:47:10
+317,IoT Sensor Data,Monitoring,Automated System,2023-10-19,1519,296.99,2025-12-10 13:47:10
+318,Network Traffic Logs,Security,Internal,2024-07-08,2695,196.23,2025-12-10 13:47:10
+319,Network Traffic Logs,Cloud,Internal,2023-01-05,38146,128.12,2025-12-10 13:47:10
+320,User Access Records,Networking,Internal,2024-01-01,405,8.41,2025-12-10 13:47:10
+321,Malware Samples,Networking,Automated System,2024-06-11,3993,88.34,2025-12-10 13:47:10
+322,System Event Logs,Cloud,Automated System,2023-10-03,1065,72.04,2025-12-10 13:47:10
+323,Firewall Activity,Monitoring,External,2023-02-23,27014,350.15,2025-12-10 13:47:10
+324,System Event Logs,Networking,Internal,2023-08-10,33865,24.63,2025-12-10 13:47:10
+325,User Access Records,Monitoring,Internal,2023-02-28,26743,278.51,2025-12-10 13:47:10
+326,Firewall Activity,Security,Automated System,2024-07-18,13404,394.07,2025-12-10 13:47:10
+327,User Access Records,Networking,External,2024-05-12,41353,83.01,2025-12-10 13:47:10
+328,Network Traffic Logs,Networking,Third-Party,2023-02-08,45553,22.37,2025-12-10 13:47:10
+329,Authentication Logs,Security,External,2024-11-14,14271,283.69,2025-12-10 13:47:10
+330,Cloud Activity Records,Cloud,Third-Party,2024-04-18,36692,274.24,2025-12-10 13:47:10
+331,Cloud Activity Records,Cloud,External,2024-09-08,14709,483.38,2025-12-10 13:47:10
+332,Firewall Activity,Monitoring,Automated System,2024-10-27,24930,297.61,2025-12-10 13:47:10
+333,System Event Logs,Monitoring,Automated System,2024-10-22,34220,420.12,2025-12-10 13:47:10
+334,Network Traffic Logs,Operations,Third-Party,2023-03-03,10436,353.53,2025-12-10 13:47:10
+335,Threat Intelligence Feeds,Monitoring,Automated System,2024-04-04,49517,134.91,2025-12-10 13:47:10
+336,System Event Logs,Monitoring,Internal,2023-03-11,35632,107.91,2025-12-10 13:47:10
+337,Cloud Activity Records,Security,Third-Party,2023-07-24,47259,48.25,2025-12-10 13:47:10
+338,User Access Records,Monitoring,Internal,2023-02-26,34717,50.97,2025-12-10 13:47:10
+339,Cloud Activity Records,Monitoring,Automated System,2024-08-15,12770,65.8,2025-12-10 13:47:10
+340,System Event Logs,Networking,Automated System,2023-12-27,5674,369.02,2025-12-10 13:47:10
+341,Cloud Activity Records,Operations,Internal,2023-01-21,38360,253.68,2025-12-10 13:47:10
+342,Network Traffic Logs,Networking,Automated System,2024-04-25,15092,351.55,2025-12-10 13:47:10
+343,Authentication Logs,Operations,External,2024-02-16,38508,265.77,2025-12-10 13:47:10
+344,Authentication Logs,Security,Third-Party,2024-03-31,27544,409.25,2025-12-10 13:47:10
+345,Threat Intelligence Feeds,Monitoring,External,2024-07-21,24367,108.64,2025-12-10 13:47:10
+346,Authentication Logs,Operations,Third-Party,2024-03-14,32080,196.21,2025-12-10 13:47:10
+347,IoT Sensor Data,Monitoring,Internal,2023-04-11,23196,186.34,2025-12-10 13:47:10
+348,Firewall Activity,Monitoring,Internal,2024-08-31,45727,98.94,2025-12-10 13:47:10
+349,Malware Samples,Networking,Third-Party,2023-12-28,15009,30.96,2025-12-10 13:47:10
+350,Authentication Logs,Cloud,Internal,2023-11-01,42120,350.4,2025-12-10 13:47:10
+351,Network Traffic Logs,Security,Automated System,2023-01-17,15822,316.81,2025-12-10 13:47:10
+352,Network Traffic Logs,Monitoring,External,2023-02-18,41882,150.38,2025-12-10 13:47:10
+353,Threat Intelligence Feeds,Monitoring,External,2024-09-29,41726,39.45,2025-12-10 13:47:10
+354,Threat Intelligence Feeds,Cloud,Internal,2024-03-29,29423,57.5,2025-12-10 13:47:10
+355,Authentication Logs,Security,Third-Party,2024-09-21,18984,457.86,2025-12-10 13:47:10
+356,IoT Sensor Data,Cloud,Automated System,2023-02-26,4095,469.13,2025-12-10 13:47:10
+357,Malware Samples,Security,Internal,2024-02-24,21416,203.24,2025-12-10 13:47:10
+358,Authentication Logs,Operations,Third-Party,2024-01-06,14425,13.08,2025-12-10 13:47:10
+359,System Event Logs,Operations,External,2023-04-30,21295,150.84,2025-12-10 13:47:10
+360,Malware Samples,Security,Internal,2023-01-26,27570,488.11,2025-12-10 13:47:10
+361,Authentication Logs,Operations,Third-Party,2024-08-13,5153,163.05,2025-12-10 13:47:10
+362,System Event Logs,Security,Internal,2023-06-24,38357,223.84,2025-12-10 13:47:10
+363,Cloud Activity Records,Security,Automated System,2024-06-18,2438,127.6,2025-12-10 13:47:10
+364,IoT Sensor Data,Cloud,Third-Party,2023-11-15,2828,112.41,2025-12-10 13:47:10
+365,Cloud Activity Records,Security,Automated System,2024-06-08,35185,215.38,2025-12-10 13:47:10
+366,IoT Sensor Data,Cloud,Internal,2023-04-23,2789,387.55,2025-12-10 13:47:10
+367,IoT Sensor Data,Networking,Third-Party,2023-08-01,12065,367.02,2025-12-10 13:47:10
+368,Email Security Reports,Cloud,External,2024-01-03,8437,476.62,2025-12-10 13:47:10
+369,Network Traffic Logs,Networking,External,2024-10-29,28098,290.66,2025-12-10 13:47:10
+370,Malware Samples,Security,Internal,2023-07-29,21331,337.77,2025-12-10 13:47:10
+371,Authentication Logs,Security,Third-Party,2024-02-05,48894,30.51,2025-12-10 13:47:10
+372,Email Security Reports,Cloud,Internal,2023-11-20,33529,443.41,2025-12-10 13:47:10
+373,Cloud Activity Records,Monitoring,Automated System,2024-09-10,47157,480.77,2025-12-10 13:47:10
+374,Threat Intelligence Feeds,Security,Internal,2024-03-12,34821,465.29,2025-12-10 13:47:10
+375,Email Security Reports,Cloud,Internal,2023-06-02,36246,66.5,2025-12-10 13:47:10
+376,User Access Records,Security,Third-Party,2023-05-11,45859,362.13,2025-12-10 13:47:10
+377,Email Security Reports,Security,Internal,2023-02-20,45531,147.34,2025-12-10 13:47:10
+378,Network Traffic Logs,Monitoring,External,2024-07-28,20866,257.0,2025-12-10 13:47:10
+379,System Event Logs,Operations,Third-Party,2023-12-05,9743,402.44,2025-12-10 13:47:10
+380,Email Security Reports,Security,External,2023-09-30,14192,350.12,2025-12-10 13:47:10
+381,Cloud Activity Records,Operations,External,2023-07-25,35623,317.53,2025-12-10 13:47:10
+382,Firewall Activity,Networking,External,2023-09-10,1522,238.95,2025-12-10 13:47:10
+383,Email Security Reports,Monitoring,Automated System,2024-09-21,10306,497.76,2025-12-10 13:47:10
+384,Network Traffic Logs,Networking,Third-Party,2023-02-14,15798,312.69,2025-12-10 13:47:10
+385,System Event Logs,Cloud,External,2023-09-03,14059,110.09,2025-12-10 13:47:10
+386,User Access Records,Monitoring,External,2024-05-05,35519,494.3,2025-12-10 13:47:10
+387,Authentication Logs,Cloud,External,2023-08-20,28014,425.58,2025-12-10 13:47:10
+388,Malware Samples,Networking,Internal,2024-08-02,42405,58.15,2025-12-10 13:47:10
+389,Firewall Activity,Operations,Automated System,2023-07-18,35716,432.72,2025-12-10 13:47:10
+390,Firewall Activity,Monitoring,External,2023-08-11,10681,170.23,2025-12-10 13:47:10
+391,System Event Logs,Cloud,Third-Party,2023-07-11,13337,493.94,2025-12-10 13:47:10
+392,IoT Sensor Data,Networking,External,2024-03-03,9499,120.65,2025-12-10 13:47:10
+393,Threat Intelligence Feeds,Security,External,2023-07-24,20899,202.88,2025-12-10 13:47:10
+394,Network Traffic Logs,Cloud,Third-Party,2024-11-29,26151,108.04,2025-12-10 13:47:10
+395,Network Traffic Logs,Security,Automated System,2024-09-27,11728,384.29,2025-12-10 13:47:10
+396,Firewall Activity,Security,Internal,2024-11-20,37542,233.79,2025-12-10 13:47:10
+397,Email Security Reports,Cloud,External,2023-04-25,13254,268.5,2025-12-10 13:47:10
+398,Firewall Activity,Monitoring,Internal,2023-11-10,16123,213.17,2025-12-10 13:47:10
+399,Email Security Reports,Operations,Automated System,2024-03-04,3321,271.39,2025-12-10 13:47:10
+400,Authentication Logs,Monitoring,Internal,2024-05-08,30466,328.25,2025-12-10 13:47:10
+401,User Access Records,Networking,Automated System,2023-04-03,3547,361.37,2025-12-10 13:47:10
+402,IoT Sensor Data,Monitoring,Automated System,2023-06-27,37762,446.57,2025-12-10 13:47:10
+403,Network Traffic Logs,Cloud,Automated System,2024-02-23,6887,50.31,2025-12-10 13:47:10
+404,Email Security Reports,Networking,External,2023-05-22,43248,375.21,2025-12-10 13:47:10
+405,Firewall Activity,Networking,Automated System,2024-07-17,15565,495.61,2025-12-10 13:47:10
+406,Firewall Activity,Cloud,External,2023-09-10,33457,443.4,2025-12-10 13:47:10
+407,User Access Records,Operations,Third-Party,2023-12-19,45482,407.71,2025-12-10 13:47:10
+408,IoT Sensor Data,Security,Third-Party,2024-09-13,31153,283.0,2025-12-10 13:47:10
+409,Threat Intelligence Feeds,Security,Third-Party,2023-10-07,11053,362.16,2025-12-10 13:47:10
+410,Email Security Reports,Networking,Automated System,2024-06-22,23238,28.78,2025-12-10 13:47:10
+411,Threat Intelligence Feeds,Networking,Internal,2024-04-11,19468,419.74,2025-12-10 13:47:10
+412,Email Security Reports,Operations,Internal,2023-12-01,43052,13.04,2025-12-10 13:47:10
+413,Threat Intelligence Feeds,Security,Third-Party,2023-10-18,33959,324.67,2025-12-10 13:47:10
+414,Email Security Reports,Monitoring,Automated System,2023-05-12,16097,53.96,2025-12-10 13:47:10
+415,Threat Intelligence Feeds,Networking,Automated System,2023-02-16,8524,153.04,2025-12-10 13:47:10
+416,Email Security Reports,Monitoring,External,2024-09-20,45981,243.4,2025-12-10 13:47:10
+417,User Access Records,Cloud,Internal,2023-08-24,47300,187.11,2025-12-10 13:47:10
+418,Firewall Activity,Operations,External,2024-06-02,42136,373.17,2025-12-10 13:47:10
+419,Threat Intelligence Feeds,Monitoring,Third-Party,2023-08-05,48612,201.19,2025-12-10 13:47:10
+420,Authentication Logs,Security,Internal,2024-02-21,6791,385.77,2025-12-10 13:47:10
+421,User Access Records,Cloud,Internal,2023-12-15,29994,232.55,2025-12-10 13:47:10
+422,IoT Sensor Data,Security,Internal,2023-10-31,18399,91.11,2025-12-10 13:47:10
+423,Email Security Reports,Operations,Automated System,2023-04-23,3857,249.37,2025-12-10 13:47:10
+424,Network Traffic Logs,Security,Third-Party,2023-03-17,48813,352.74,2025-12-10 13:47:10
+425,Threat Intelligence Feeds,Security,Automated System,2023-10-23,44296,434.64,2025-12-10 13:47:10
+426,Firewall Activity,Monitoring,External,2023-12-08,27734,287.17,2025-12-10 13:47:10
+427,Malware Samples,Operations,Third-Party,2023-12-13,38635,260.15,2025-12-10 13:47:10
+428,IoT Sensor Data,Security,Internal,2024-01-18,9013,486.53,2025-12-10 13:47:10
+429,Email Security Reports,Networking,Third-Party,2024-05-21,14304,58.53,2025-12-10 13:47:10
+430,User Access Records,Networking,External,2023-05-04,42535,426.98,2025-12-10 13:47:10
+431,Authentication Logs,Security,Third-Party,2023-07-13,28416,150.3,2025-12-10 13:47:10
+432,IoT Sensor Data,Operations,Automated System,2024-11-22,37542,477.93,2025-12-10 13:47:10
+433,Firewall Activity,Cloud,Internal,2024-05-26,6446,53.28,2025-12-10 13:47:10
+434,Authentication Logs,Security,Automated System,2024-03-04,32481,346.57,2025-12-10 13:47:10
+435,User Access Records,Security,Automated System,2024-07-29,4325,362.46,2025-12-10 13:47:10
+436,User Access Records,Cloud,External,2024-08-12,36919,227.13,2025-12-10 13:47:10
+437,Firewall Activity,Cloud,Automated System,2023-11-06,9019,437.71,2025-12-10 13:47:10
+438,User Access Records,Operations,Automated System,2024-11-18,19616,318.46,2025-12-10 13:47:10
+439,User Access Records,Security,External,2024-08-06,49571,384.59,2025-12-10 13:47:10
+440,Threat Intelligence Feeds,Cloud,Third-Party,2023-06-25,1101,216.3,2025-12-10 13:47:10
+441,Authentication Logs,Cloud,Automated System,2023-08-08,4750,431.37,2025-12-10 13:47:10
+442,Network Traffic Logs,Operations,External,2024-05-27,43465,305.76,2025-12-10 13:47:10
+443,User Access Records,Networking,Automated System,2024-01-18,6815,419.31,2025-12-10 13:47:10
+444,IoT Sensor Data,Cloud,External,2023-11-11,6071,73.49,2025-12-10 13:47:10
+445,Malware Samples,Cloud,External,2023-02-14,2047,225.26,2025-12-10 13:47:10
+446,Threat Intelligence Feeds,Cloud,Internal,2023-07-25,45266,194.0,2025-12-10 13:47:10
+447,Cloud Activity Records,Monitoring,External,2023-11-10,18246,159.72,2025-12-10 13:47:10
+448,Cloud Activity Records,Monitoring,External,2023-01-21,10569,267.07,2025-12-10 13:47:10
+449,Malware Samples,Operations,Automated System,2023-11-16,11586,339.32,2025-12-10 13:47:10
+450,Malware Samples,Operations,Automated System,2023-09-27,31615,164.81,2025-12-10 13:47:10
+451,Authentication Logs,Networking,Third-Party,2023-10-03,28543,398.84,2025-12-10 13:47:10
+452,Cloud Activity Records,Networking,Internal,2024-04-02,38571,201.57,2025-12-10 13:47:10
+453,Malware Samples,Cloud,Internal,2024-04-25,14087,338.42,2025-12-10 13:47:10
+454,IoT Sensor Data,Security,Automated System,2024-01-04,40176,27.14,2025-12-10 13:47:10
+455,System Event Logs,Operations,Internal,2023-09-07,37098,234.87,2025-12-10 13:47:10
+456,User Access Records,Monitoring,Internal,2023-03-26,39227,143.11,2025-12-10 13:47:10
+457,Malware Samples,Operations,Third-Party,2024-04-19,34675,197.83,2025-12-10 13:47:10
+458,System Event Logs,Cloud,Internal,2023-10-19,39023,300.25,2025-12-10 13:47:10
+459,Email Security Reports,Operations,Internal,2024-05-02,27834,157.37,2025-12-10 13:47:10
+460,Threat Intelligence Feeds,Monitoring,Automated System,2023-08-07,290,402.32,2025-12-10 13:47:10
+461,System Event Logs,Monitoring,Automated System,2024-11-29,12007,174.94,2025-12-10 13:47:10
+462,Cloud Activity Records,Operations,External,2023-11-08,12733,386.56,2025-12-10 13:47:10
+463,System Event Logs,Operations,Automated System,2024-06-25,20715,249.92,2025-12-10 13:47:10
+464,Firewall Activity,Cloud,Internal,2024-06-24,46903,58.9,2025-12-10 13:47:10
+465,Authentication Logs,Monitoring,Internal,2024-11-11,37408,381.58,2025-12-10 13:47:10
+466,Email Security Reports,Security,Internal,2024-10-29,4227,51.95,2025-12-10 13:47:10
+467,Malware Samples,Networking,External,2024-06-10,38174,236.27,2025-12-10 13:47:10
+468,System Event Logs,Networking,External,2024-04-17,26597,170.08,2025-12-10 13:47:10
+469,IoT Sensor Data,Monitoring,Internal,2023-08-12,4762,476.39,2025-12-10 13:47:10
+470,Network Traffic Logs,Monitoring,Third-Party,2024-10-23,46638,312.55,2025-12-10 13:47:10
+471,Email Security Reports,Cloud,Internal,2023-07-08,27989,62.45,2025-12-10 13:47:10
+472,Malware Samples,Networking,Automated System,2023-07-19,40588,199.76,2025-12-10 13:47:10
+473,Malware Samples,Operations,Internal,2024-01-28,22347,104.26,2025-12-10 13:47:10
+474,Threat Intelligence Feeds,Security,Automated System,2023-09-14,45866,160.75,2025-12-10 13:47:10
+475,Firewall Activity,Monitoring,Third-Party,2024-05-16,18756,483.63,2025-12-10 13:47:10
+476,IoT Sensor Data,Networking,Automated System,2024-07-26,32547,136.43,2025-12-10 13:47:10
+477,User Access Records,Networking,Third-Party,2023-12-24,919,259.72,2025-12-10 13:47:10
+478,System Event Logs,Monitoring,External,2023-06-26,27961,38.89,2025-12-10 13:47:10
+479,Email Security Reports,Security,External,2024-05-19,49183,431.49,2025-12-10 13:47:10
+480,User Access Records,Cloud,Third-Party,2023-04-05,30599,233.5,2025-12-10 13:47:10
+481,User Access Records,Cloud,Automated System,2024-03-03,43697,390.92,2025-12-10 13:47:10
+482,Email Security Reports,Operations,Automated System,2024-06-01,45822,466.02,2025-12-10 13:47:10
+483,Authentication Logs,Networking,Automated System,2024-02-03,43582,230.14,2025-12-10 13:47:10
+484,Firewall Activity,Monitoring,Internal,2024-11-07,48555,204.88,2025-12-10 13:47:10
+485,User Access Records,Security,Internal,2023-04-21,20675,130.99,2025-12-10 13:47:10
+486,Cloud Activity Records,Monitoring,Internal,2023-05-12,28287,349.03,2025-12-10 13:47:10
+487,Malware Samples,Operations,Automated System,2023-03-06,30962,224.54,2025-12-10 13:47:10
+488,Malware Samples,Monitoring,External,2023-09-13,49030,233.87,2025-12-10 13:47:10
+489,Authentication Logs,Security,Third-Party,2024-01-10,39991,22.0,2025-12-10 13:47:10
+490,Network Traffic Logs,Security,Third-Party,2023-03-02,48135,239.29,2025-12-10 13:47:10
+491,Firewall Activity,Monitoring,Internal,2024-10-22,8942,160.55,2025-12-10 13:47:10
+492,Threat Intelligence Feeds,Networking,Internal,2024-06-30,20770,354.04,2025-12-10 13:47:10
+493,Authentication Logs,Operations,Internal,2024-06-29,39306,186.69,2025-12-10 13:47:10
+494,System Event Logs,Networking,Automated System,2024-04-17,44284,393.64,2025-12-10 13:47:10
+495,System Event Logs,Operations,Automated System,2023-06-14,41081,32.0,2025-12-10 13:47:10
+496,IoT Sensor Data,Security,Automated System,2023-01-26,20044,330.76,2025-12-10 13:47:10
+497,Network Traffic Logs,Security,Internal,2024-03-13,15513,143.34,2025-12-10 13:47:10
+498,Network Traffic Logs,Networking,Internal,2024-02-27,27185,6.01,2025-12-10 13:47:10
+499,Threat Intelligence Feeds,Operations,Automated System,2024-06-16,3854,149.17,2025-12-10 13:47:10
+500,Malware Samples,Cloud,Internal,2023-08-15,11750,143.39,2025-12-10 13:47:10
+501,User Access Records,Networking,Internal,2024-06-30,26754,159.32,2025-12-10 13:47:10
+502,Network Traffic Logs,Monitoring,Automated System,2023-06-18,16315,334.87,2025-12-10 13:47:10
+503,Network Traffic Logs,Cloud,Internal,2023-11-10,42807,231.12,2025-12-10 13:47:10
+504,Network Traffic Logs,Monitoring,External,2024-09-28,33936,308.47,2025-12-10 13:47:10
+505,User Access Records,Cloud,Internal,2024-04-25,25034,205.59,2025-12-10 13:47:10
+506,Network Traffic Logs,Cloud,External,2023-06-04,45523,357.96,2025-12-10 13:47:10
+507,User Access Records,Operations,Automated System,2024-03-16,49608,406.43,2025-12-10 13:47:10
+508,Cloud Activity Records,Operations,Third-Party,2023-05-30,36157,220.49,2025-12-10 13:47:10
+509,Email Security Reports,Security,External,2023-09-27,37719,407.45,2025-12-10 13:47:10
+510,System Event Logs,Monitoring,Internal,2023-04-10,42460,91.26,2025-12-10 13:47:10
+511,Email Security Reports,Cloud,Internal,2023-11-27,19415,50.64,2025-12-10 13:47:10
+512,Network Traffic Logs,Monitoring,Internal,2023-05-18,21606,36.19,2025-12-10 13:47:10
+513,Firewall Activity,Operations,Third-Party,2024-01-25,12076,425.49,2025-12-10 13:47:10
+514,Cloud Activity Records,Networking,External,2023-02-06,35778,123.7,2025-12-10 13:47:10
+515,Network Traffic Logs,Monitoring,External,2024-08-23,22861,335.2,2025-12-10 13:47:10
+516,User Access Records,Networking,External,2024-09-28,16080,274.82,2025-12-10 13:47:10
+517,System Event Logs,Cloud,External,2023-11-16,48581,407.57,2025-12-10 13:47:10
+518,Firewall Activity,Cloud,Automated System,2024-08-08,20345,409.51,2025-12-10 13:47:10
+519,Authentication Logs,Cloud,Third-Party,2023-03-17,30746,117.52,2025-12-10 13:47:10
+520,Network Traffic Logs,Networking,Internal,2023-05-07,36003,187.8,2025-12-10 13:47:10
+521,Malware Samples,Operations,Automated System,2023-09-18,44455,75.65,2025-12-10 13:47:10
+522,User Access Records,Operations,Third-Party,2024-02-17,19078,398.84,2025-12-10 13:47:10
+523,Firewall Activity,Monitoring,Third-Party,2024-01-01,34695,375.23,2025-12-10 13:47:10
+524,User Access Records,Networking,Internal,2023-06-23,11572,297.74,2025-12-10 13:47:10
+525,Threat Intelligence Feeds,Networking,Internal,2024-06-07,6377,133.22,2025-12-10 13:47:10
+526,IoT Sensor Data,Cloud,Internal,2023-03-11,5948,131.53,2025-12-10 13:47:10
+527,Email Security Reports,Operations,Automated System,2023-07-10,644,49.09,2025-12-10 13:47:10
+528,Cloud Activity Records,Cloud,Third-Party,2024-08-16,11597,260.55,2025-12-10 13:47:10
+529,Firewall Activity,Operations,External,2024-05-01,45267,417.64,2025-12-10 13:47:10
+530,Cloud Activity Records,Security,Automated System,2023-03-21,452,149.39,2025-12-10 13:47:10
+531,Network Traffic Logs,Networking,External,2023-05-10,3712,267.78,2025-12-10 13:47:10
+532,Cloud Activity Records,Monitoring,Automated System,2023-04-17,27491,27.68,2025-12-10 13:47:10
+533,Firewall Activity,Security,Internal,2024-02-20,35651,140.07,2025-12-10 13:47:10
+534,Cloud Activity Records,Monitoring,Third-Party,2024-09-05,15152,4.48,2025-12-10 13:47:10
+535,User Access Records,Cloud,Third-Party,2024-07-01,2159,276.59,2025-12-10 13:47:10
+536,User Access Records,Cloud,External,2024-02-20,6660,26.66,2025-12-10 13:47:10
+537,Network Traffic Logs,Networking,External,2023-06-30,21766,52.99,2025-12-10 13:47:10
+538,IoT Sensor Data,Networking,Third-Party,2023-01-11,24729,172.14,2025-12-10 13:47:10
+539,Threat Intelligence Feeds,Networking,External,2024-11-12,20639,287.94,2025-12-10 13:47:10
+540,IoT Sensor Data,Cloud,Third-Party,2024-10-05,49637,487.13,2025-12-10 13:47:10
+541,Authentication Logs,Cloud,External,2024-04-20,43230,91.85,2025-12-10 13:47:10
+542,Cloud Activity Records,Monitoring,External,2024-08-10,36637,484.23,2025-12-10 13:47:10
+543,Threat Intelligence Feeds,Networking,Third-Party,2024-09-15,24982,232.8,2025-12-10 13:47:10
+544,User Access Records,Security,Automated System,2023-10-25,17461,360.59,2025-12-10 13:47:10
+545,Email Security Reports,Cloud,Internal,2024-07-06,33396,206.7,2025-12-10 13:47:10
+546,Threat Intelligence Feeds,Monitoring,External,2024-05-02,28881,274.0,2025-12-10 13:47:10
+547,IoT Sensor Data,Operations,External,2023-06-12,8462,362.78,2025-12-10 13:47:10
+548,IoT Sensor Data,Cloud,External,2024-03-31,42083,447.21,2025-12-10 13:47:10
+549,User Access Records,Cloud,Internal,2024-11-03,47256,86.0,2025-12-10 13:47:10
+550,Cloud Activity Records,Monitoring,Third-Party,2023-04-05,25602,52.62,2025-12-10 13:47:10
+551,User Access Records,Cloud,Third-Party,2024-02-11,41366,137.38,2025-12-10 13:47:10
+552,IoT Sensor Data,Operations,Third-Party,2024-07-03,41937,154.5,2025-12-10 13:47:10
+553,Cloud Activity Records,Operations,External,2024-06-01,7520,194.52,2025-12-10 13:47:10
+554,User Access Records,Monitoring,Third-Party,2023-07-07,22740,497.44,2025-12-10 13:47:10
+555,System Event Logs,Operations,Automated System,2023-04-16,22087,164.49,2025-12-10 13:47:10
+556,Email Security Reports,Operations,External,2024-08-26,29988,116.65,2025-12-10 13:47:10
+557,Network Traffic Logs,Security,Automated System,2024-05-31,10689,200.91,2025-12-10 13:47:10
+558,Cloud Activity Records,Cloud,Automated System,2023-02-10,1505,435.54,2025-12-10 13:47:10
+559,Cloud Activity Records,Security,External,2024-04-13,39871,191.53,2025-12-10 13:47:10
+560,Network Traffic Logs,Networking,Third-Party,2024-04-04,39411,387.46,2025-12-10 13:47:10
+561,System Event Logs,Monitoring,Third-Party,2024-01-01,23215,122.48,2025-12-10 13:47:10
+562,System Event Logs,Networking,Automated System,2023-11-02,47986,92.17,2025-12-10 13:47:10
+563,Authentication Logs,Monitoring,Automated System,2024-09-16,13805,173.46,2025-12-10 13:47:10
+564,Cloud Activity Records,Security,Automated System,2024-05-05,1168,28.85,2025-12-10 13:47:10
+565,Email Security Reports,Cloud,Automated System,2024-01-09,5817,232.05,2025-12-10 13:47:10
+566,Authentication Logs,Monitoring,External,2024-04-18,15733,472.78,2025-12-10 13:47:10
+567,Email Security Reports,Monitoring,Automated System,2023-04-10,40893,459.06,2025-12-10 13:47:10
+568,Malware Samples,Monitoring,External,2023-11-01,44259,334.5,2025-12-10 13:47:10
+569,Malware Samples,Operations,Internal,2024-02-07,12886,231.38,2025-12-10 13:47:10
+570,IoT Sensor Data,Networking,External,2023-04-05,45160,162.22,2025-12-10 13:47:10
+571,Firewall Activity,Networking,Third-Party,2023-12-06,39420,331.01,2025-12-10 13:47:10
+572,Email Security Reports,Security,Third-Party,2023-12-27,13001,229.21,2025-12-10 13:47:10
+573,Malware Samples,Monitoring,Automated System,2023-07-03,7138,156.32,2025-12-10 13:47:10
+574,IoT Sensor Data,Cloud,Internal,2023-06-19,24520,463.64,2025-12-10 13:47:10
+575,Network Traffic Logs,Security,Third-Party,2024-04-27,32458,257.95,2025-12-10 13:47:10
+576,Malware Samples,Security,Automated System,2023-02-02,34291,310.43,2025-12-10 13:47:10
+577,Malware Samples,Cloud,Automated System,2023-10-05,46729,303.23,2025-12-10 13:47:10
+578,Threat Intelligence Feeds,Networking,Third-Party,2023-01-30,14072,388.87,2025-12-10 13:47:10
+579,Malware Samples,Security,Third-Party,2024-04-21,6925,481.13,2025-12-10 13:47:10
+580,Malware Samples,Cloud,Automated System,2024-05-07,1282,101.5,2025-12-10 13:47:10
+581,Authentication Logs,Security,Third-Party,2023-07-25,426,302.73,2025-12-10 13:47:10
+582,System Event Logs,Networking,External,2024-06-24,33989,194.96,2025-12-10 13:47:10
+583,Malware Samples,Security,External,2024-01-14,45822,174.16,2025-12-10 13:47:10
+584,Email Security Reports,Monitoring,Third-Party,2023-02-01,30670,383.07,2025-12-10 13:47:10
+585,Cloud Activity Records,Cloud,Automated System,2024-10-03,43570,189.23,2025-12-10 13:47:10
+586,Email Security Reports,Security,External,2023-07-10,25054,412.27,2025-12-10 13:47:10
+587,Email Security Reports,Cloud,External,2023-05-21,40888,335.79,2025-12-10 13:47:10
+588,System Event Logs,Networking,Third-Party,2023-07-09,8486,19.11,2025-12-10 13:47:10
+589,Authentication Logs,Cloud,External,2023-06-04,32843,250.38,2025-12-10 13:47:10
+590,Firewall Activity,Operations,Third-Party,2024-04-07,6063,265.45,2025-12-10 13:47:10
+591,IoT Sensor Data,Monitoring,Third-Party,2023-10-15,33254,180.51,2025-12-10 13:47:10
+592,Malware Samples,Operations,Internal,2024-02-07,7205,344.64,2025-12-10 13:47:10
+593,User Access Records,Security,Automated System,2023-01-25,13968,487.48,2025-12-10 13:47:10
+594,Network Traffic Logs,Networking,Third-Party,2024-02-25,29283,68.72,2025-12-10 13:47:10
+595,Firewall Activity,Monitoring,Third-Party,2023-08-17,718,177.93,2025-12-10 13:47:10
+596,Cloud Activity Records,Cloud,Internal,2023-09-20,16805,242.26,2025-12-10 13:47:10
+597,User Access Records,Security,External,2024-05-13,39677,194.14,2025-12-10 13:47:10
+598,Authentication Logs,Operations,Automated System,2024-08-14,47049,439.67,2025-12-10 13:47:10
+599,System Event Logs,Operations,Automated System,2023-12-12,20521,58.03,2025-12-10 13:47:10
+600,Firewall Activity,Networking,Automated System,2023-05-30,22656,114.72,2025-12-10 13:47:10
+601,Network Traffic Logs,Cloud,Automated System,2023-01-05,15328,348.36,2025-12-10 13:47:10
+602,IoT Sensor Data,Networking,Internal,2023-10-29,16397,41.08,2025-12-10 13:47:10
+603,Malware Samples,Security,Automated System,2024-11-15,934,488.13,2025-12-10 13:47:10
+604,Threat Intelligence Feeds,Cloud,External,2023-09-20,511,351.55,2025-12-10 13:47:10
+605,Threat Intelligence Feeds,Cloud,Third-Party,2024-09-11,10741,142.78,2025-12-10 13:47:10
+606,User Access Records,Monitoring,Automated System,2023-06-01,42466,478.94,2025-12-10 13:47:10
+607,IoT Sensor Data,Monitoring,Automated System,2024-07-04,33269,132.76,2025-12-10 13:47:10
+608,Email Security Reports,Operations,Third-Party,2024-04-06,22780,481.6,2025-12-10 13:47:10
+609,Cloud Activity Records,Cloud,Internal,2024-08-26,30580,215.79,2025-12-10 13:47:10
+610,Malware Samples,Security,External,2023-07-22,31523,338.65,2025-12-10 13:47:10
+611,Threat Intelligence Feeds,Networking,Internal,2024-06-13,4437,373.95,2025-12-10 13:47:10
+612,System Event Logs,Operations,Internal,2023-05-06,17474,149.43,2025-12-10 13:47:10
+613,IoT Sensor Data,Operations,Third-Party,2024-02-27,32302,33.26,2025-12-10 13:47:10
+614,User Access Records,Cloud,Third-Party,2024-10-23,45169,49.94,2025-12-10 13:47:10
+615,Malware Samples,Networking,Automated System,2023-12-31,9652,177.4,2025-12-10 13:47:10
+616,System Event Logs,Monitoring,External,2024-09-01,26736,432.81,2025-12-10 13:47:10
+617,Firewall Activity,Security,Automated System,2023-07-09,36003,231.85,2025-12-10 13:47:10
+618,Threat Intelligence Feeds,Operations,Third-Party,2023-10-18,7661,432.82,2025-12-10 13:47:10
+619,IoT Sensor Data,Monitoring,Automated System,2023-02-26,38790,215.17,2025-12-10 13:47:10
+620,Malware Samples,Operations,Internal,2023-08-14,26975,87.68,2025-12-10 13:47:10
+621,Threat Intelligence Feeds,Networking,Automated System,2023-06-12,47114,398.14,2025-12-10 13:47:10
+622,Firewall Activity,Security,Internal,2024-07-31,16118,7.21,2025-12-10 13:47:10
+623,System Event Logs,Security,Internal,2023-09-28,33269,191.72,2025-12-10 13:47:10
+624,Network Traffic Logs,Cloud,Third-Party,2024-02-03,32016,311.3,2025-12-10 13:47:10
+625,Threat Intelligence Feeds,Networking,Automated System,2024-01-23,36123,300.12,2025-12-10 13:47:10
+626,Malware Samples,Operations,External,2024-03-10,19064,496.56,2025-12-10 13:47:10
+627,Malware Samples,Security,Automated System,2024-04-29,22525,420.86,2025-12-10 13:47:10
+628,Cloud Activity Records,Cloud,Third-Party,2023-07-15,47004,361.22,2025-12-10 13:47:10
+629,Firewall Activity,Security,External,2023-10-07,33842,38.89,2025-12-10 13:47:10
+630,User Access Records,Cloud,Automated System,2024-07-01,35707,4.14,2025-12-10 13:47:10
+631,User Access Records,Security,Automated System,2024-08-24,41795,136.17,2025-12-10 13:47:10
+632,System Event Logs,Networking,Third-Party,2023-03-10,46671,116.65,2025-12-10 13:47:10
+633,System Event Logs,Networking,Automated System,2024-10-01,7281,247.93,2025-12-10 13:47:10
+634,Malware Samples,Monitoring,Third-Party,2024-10-31,2999,393.14,2025-12-10 13:47:10
+635,IoT Sensor Data,Cloud,Automated System,2024-10-03,29515,382.99,2025-12-10 13:47:10
+636,System Event Logs,Security,Third-Party,2023-10-23,27277,109.58,2025-12-10 13:47:10
+637,Authentication Logs,Networking,External,2024-01-05,39503,236.81,2025-12-10 13:47:10
+638,Email Security Reports,Security,Internal,2023-12-28,13502,310.3,2025-12-10 13:47:10
+639,Network Traffic Logs,Cloud,Automated System,2024-07-28,36558,115.83,2025-12-10 13:47:10
+640,Firewall Activity,Monitoring,Third-Party,2024-05-31,33413,185.58,2025-12-10 13:47:10
+641,Malware Samples,Networking,Third-Party,2024-11-16,7364,97.75,2025-12-10 13:47:10
+642,User Access Records,Networking,Internal,2023-05-22,46833,144.71,2025-12-10 13:47:10
+643,Authentication Logs,Cloud,Third-Party,2023-06-12,45525,421.13,2025-12-10 13:47:10
+644,IoT Sensor Data,Networking,Automated System,2023-08-08,14532,290.62,2025-12-10 13:47:10
+645,Network Traffic Logs,Operations,Automated System,2023-01-30,20729,276.63,2025-12-10 13:47:10
+646,Firewall Activity,Monitoring,Internal,2024-02-04,35373,43.96,2025-12-10 13:47:10
+647,Threat Intelligence Feeds,Monitoring,Third-Party,2023-08-17,5401,213.6,2025-12-10 13:47:10
+648,Cloud Activity Records,Operations,Automated System,2024-09-25,15355,123.03,2025-12-10 13:47:10
+649,IoT Sensor Data,Monitoring,Automated System,2023-05-29,21857,150.56,2025-12-10 13:47:10
+650,Firewall Activity,Cloud,Internal,2024-07-16,10182,467.3,2025-12-10 13:47:10
+651,Threat Intelligence Feeds,Networking,External,2023-09-19,48454,86.87,2025-12-10 13:47:10
+652,System Event Logs,Security,Automated System,2023-09-02,42504,241.49,2025-12-10 13:47:10
+653,Authentication Logs,Monitoring,Internal,2023-01-18,37077,6.98,2025-12-10 13:47:10
+654,Cloud Activity Records,Monitoring,Internal,2024-11-25,5384,22.15,2025-12-10 13:47:10
+655,System Event Logs,Cloud,External,2023-02-21,19932,217.06,2025-12-10 13:47:10
+656,IoT Sensor Data,Monitoring,Automated System,2024-06-23,15519,254.1,2025-12-10 13:47:10
+657,Network Traffic Logs,Monitoring,Third-Party,2023-02-05,24351,97.05,2025-12-10 13:47:10
+658,Threat Intelligence Feeds,Operations,External,2024-10-01,14768,420.26,2025-12-10 13:47:10
+659,System Event Logs,Networking,External,2024-04-16,46040,37.16,2025-12-10 13:47:10
+660,Email Security Reports,Security,External,2023-02-15,46388,6.89,2025-12-10 13:47:10
+661,Threat Intelligence Feeds,Operations,Third-Party,2023-04-15,31484,370.66,2025-12-10 13:47:10
+662,Network Traffic Logs,Security,Internal,2024-01-26,41545,149.12,2025-12-10 13:47:10
+663,User Access Records,Security,Third-Party,2023-06-02,24672,341.31,2025-12-10 13:47:10
+664,System Event Logs,Monitoring,Automated System,2023-06-29,17901,244.73,2025-12-10 13:47:10
+665,Cloud Activity Records,Cloud,Automated System,2023-08-19,43567,266.68,2025-12-10 13:47:10
+666,Threat Intelligence Feeds,Security,External,2023-01-01,13461,9.01,2025-12-10 13:47:10
+667,Cloud Activity Records,Operations,Automated System,2023-01-11,19328,470.78,2025-12-10 13:47:10
+668,User Access Records,Security,Automated System,2024-05-14,46252,32.03,2025-12-10 13:47:10
+669,System Event Logs,Monitoring,Third-Party,2024-04-04,20198,90.19,2025-12-10 13:47:10
+670,System Event Logs,Security,Third-Party,2023-03-08,17495,426.24,2025-12-10 13:47:10
+671,Authentication Logs,Monitoring,Internal,2023-01-16,37097,267.32,2025-12-10 13:47:10
+672,Malware Samples,Networking,Automated System,2024-09-16,3025,472.32,2025-12-10 13:47:10
+673,IoT Sensor Data,Operations,Internal,2024-08-30,15273,436.23,2025-12-10 13:47:10
+674,Malware Samples,Networking,Internal,2023-01-26,7886,301.77,2025-12-10 13:47:10
+675,IoT Sensor Data,Operations,Third-Party,2023-08-17,17808,452.99,2025-12-10 13:47:10
+676,Network Traffic Logs,Security,Automated System,2023-06-01,12918,10.9,2025-12-10 13:47:10
+677,Authentication Logs,Networking,Automated System,2023-10-28,11839,369.74,2025-12-10 13:47:10
+678,System Event Logs,Networking,External,2023-04-19,16142,405.85,2025-12-10 13:47:10
+679,User Access Records,Networking,Internal,2024-02-06,17979,295.46,2025-12-10 13:47:10
+680,Authentication Logs,Security,Automated System,2024-02-28,34887,313.62,2025-12-10 13:47:10
+681,System Event Logs,Security,External,2023-10-28,26314,174.5,2025-12-10 13:47:10
+682,Cloud Activity Records,Monitoring,Automated System,2024-08-25,11234,404.21,2025-12-10 13:47:10
+683,Network Traffic Logs,Networking,Internal,2023-11-09,742,419.8,2025-12-10 13:47:10
+684,Threat Intelligence Feeds,Networking,External,2024-04-11,42884,233.55,2025-12-10 13:47:10
+685,IoT Sensor Data,Networking,External,2023-06-30,26821,152.34,2025-12-10 13:47:10
+686,Firewall Activity,Operations,Automated System,2024-07-10,14714,271.5,2025-12-10 13:47:10
+687,Network Traffic Logs,Networking,Automated System,2023-06-04,27830,28.82,2025-12-10 13:47:10
+688,IoT Sensor Data,Monitoring,External,2023-09-12,35719,174.55,2025-12-10 13:47:10
+689,Cloud Activity Records,Security,Automated System,2024-06-11,13427,490.53,2025-12-10 13:47:10
+690,System Event Logs,Security,Third-Party,2024-03-14,43661,300.53,2025-12-10 13:47:10
+691,Threat Intelligence Feeds,Cloud,External,2024-03-17,39518,271.37,2025-12-10 13:47:10
+692,User Access Records,Networking,Internal,2023-08-22,47879,267.31,2025-12-10 13:47:10
+693,Cloud Activity Records,Operations,Third-Party,2024-08-31,47363,5.36,2025-12-10 13:47:10
+694,Network Traffic Logs,Monitoring,Internal,2024-02-25,42702,189.61,2025-12-10 13:47:10
+695,User Access Records,Monitoring,Third-Party,2024-06-19,11051,19.15,2025-12-10 13:47:10
+696,Network Traffic Logs,Monitoring,External,2024-02-24,20969,318.67,2025-12-10 13:47:10
+697,Firewall Activity,Cloud,Third-Party,2024-04-13,18717,307.96,2025-12-10 13:47:10
+698,Authentication Logs,Monitoring,External,2024-10-11,11815,448.51,2025-12-10 13:47:10
+699,IoT Sensor Data,Security,Third-Party,2024-05-27,22860,191.61,2025-12-10 13:47:10
+700,Firewall Activity,Cloud,Automated System,2023-10-28,3932,82.53,2025-12-10 13:47:10
+701,User Access Records,Networking,Third-Party,2023-07-06,18691,356.36,2025-12-10 13:47:10
+702,Threat Intelligence Feeds,Networking,External,2024-02-06,16253,219.29,2025-12-10 13:47:10
+703,Cloud Activity Records,Monitoring,Automated System,2023-05-19,2184,72.05,2025-12-10 13:47:10
+704,Authentication Logs,Operations,Automated System,2024-07-05,44890,33.0,2025-12-10 13:47:10
+705,System Event Logs,Cloud,Third-Party,2023-01-04,45542,312.86,2025-12-10 13:47:10
+706,Malware Samples,Cloud,Internal,2023-10-08,20041,254.15,2025-12-10 13:47:10
+707,Malware Samples,Monitoring,Internal,2024-10-25,36115,242.29,2025-12-10 13:47:10
+708,Firewall Activity,Monitoring,Automated System,2024-09-29,15672,374.58,2025-12-10 13:47:10
+709,Email Security Reports,Monitoring,Internal,2024-03-01,19584,188.17,2025-12-10 13:47:10
+710,IoT Sensor Data,Networking,Third-Party,2023-04-09,19227,300.45,2025-12-10 13:47:10
+711,User Access Records,Cloud,Automated System,2023-09-24,22627,363.25,2025-12-10 13:47:10
+712,Network Traffic Logs,Networking,Internal,2024-10-14,29202,278.06,2025-12-10 13:47:10
+713,Authentication Logs,Cloud,External,2023-04-12,33477,377.91,2025-12-10 13:47:10
+714,User Access Records,Cloud,Internal,2024-01-30,8390,300.15,2025-12-10 13:47:10
+715,Authentication Logs,Networking,Third-Party,2023-07-04,47412,343.84,2025-12-10 13:47:10
+716,Email Security Reports,Cloud,Internal,2024-03-02,27996,498.31,2025-12-10 13:47:10
+717,Network Traffic Logs,Networking,Third-Party,2023-02-18,49932,405.66,2025-12-10 13:47:10
+718,IoT Sensor Data,Security,Internal,2023-08-02,20059,151.57,2025-12-10 13:47:10
+719,Cloud Activity Records,Monitoring,External,2023-11-05,14070,443.87,2025-12-10 13:47:10
+720,Email Security Reports,Cloud,Third-Party,2023-02-12,20410,227.79,2025-12-10 13:47:10
+721,Cloud Activity Records,Operations,Internal,2023-02-26,13251,487.78,2025-12-10 13:47:10
+722,User Access Records,Security,Third-Party,2023-02-03,14856,128.66,2025-12-10 13:47:10
+723,Firewall Activity,Networking,Internal,2023-05-05,3814,36.23,2025-12-10 13:47:10
+724,Threat Intelligence Feeds,Operations,Internal,2023-05-15,32128,187.97,2025-12-10 13:47:10
+725,User Access Records,Networking,Third-Party,2024-05-04,8164,389.55,2025-12-10 13:47:10
+726,Threat Intelligence Feeds,Networking,External,2023-12-19,29766,293.02,2025-12-10 13:47:10
+727,Network Traffic Logs,Networking,Automated System,2024-08-20,49975,17.95,2025-12-10 13:47:10
+728,Cloud Activity Records,Operations,External,2024-09-28,45891,151.01,2025-12-10 13:47:10
+729,System Event Logs,Security,Third-Party,2023-11-30,24909,349.76,2025-12-10 13:47:10
+730,Network Traffic Logs,Cloud,Automated System,2023-01-22,15632,475.37,2025-12-10 13:47:10
+731,System Event Logs,Security,External,2023-06-30,5936,42.22,2025-12-10 13:47:10
+732,Cloud Activity Records,Cloud,Internal,2023-10-30,37439,485.06,2025-12-10 13:47:10
+733,Threat Intelligence Feeds,Security,Internal,2024-02-17,35618,253.11,2025-12-10 13:47:10
+734,System Event Logs,Networking,Third-Party,2023-06-18,35719,218.47,2025-12-10 13:47:10
+735,User Access Records,Operations,Third-Party,2023-06-26,21025,52.31,2025-12-10 13:47:10
+736,Firewall Activity,Security,Automated System,2024-11-06,626,183.38,2025-12-10 13:47:10
+737,Threat Intelligence Feeds,Networking,Automated System,2024-10-02,25572,185.65,2025-12-10 13:47:10
+738,Email Security Reports,Security,Internal,2023-04-10,42168,135.84,2025-12-10 13:47:10
+739,Email Security Reports,Operations,External,2024-06-03,37943,415.29,2025-12-10 13:47:10
+740,Network Traffic Logs,Operations,External,2024-01-20,36914,357.19,2025-12-10 13:47:10
+741,Firewall Activity,Cloud,Automated System,2023-11-03,14034,417.12,2025-12-10 13:47:10
+742,Malware Samples,Cloud,Automated System,2024-02-09,20809,208.67,2025-12-10 13:47:10
+743,Threat Intelligence Feeds,Security,Automated System,2023-10-24,17633,171.62,2025-12-10 13:47:10
+744,Cloud Activity Records,Monitoring,Internal,2023-11-02,42695,159.63,2025-12-10 13:47:10
+745,Network Traffic Logs,Networking,External,2023-07-17,22895,175.13,2025-12-10 13:47:10
+746,Email Security Reports,Cloud,Automated System,2023-09-06,27496,190.62,2025-12-10 13:47:10
+747,System Event Logs,Security,Third-Party,2023-04-11,39696,119.31,2025-12-10 13:47:10
+748,System Event Logs,Operations,Automated System,2023-01-06,30494,89.23,2025-12-10 13:47:10
+749,Cloud Activity Records,Cloud,Internal,2023-11-17,14555,79.63,2025-12-10 13:47:10
+750,Network Traffic Logs,Security,Automated System,2023-02-21,8356,96.37,2025-12-10 13:47:10
+751,User Access Records,Operations,Automated System,2023-05-27,41609,407.59,2025-12-10 13:47:10
+752,User Access Records,Cloud,External,2023-11-11,20347,210.03,2025-12-10 13:47:10
+753,Malware Samples,Operations,External,2024-01-04,14626,166.95,2025-12-10 13:47:10
+754,Threat Intelligence Feeds,Operations,Automated System,2024-03-07,29110,485.85,2025-12-10 13:47:10
+755,IoT Sensor Data,Networking,Third-Party,2024-05-13,4915,58.85,2025-12-10 13:47:10
+756,Cloud Activity Records,Security,Internal,2023-05-18,42002,238.43,2025-12-10 13:47:10
+757,User Access Records,Networking,Automated System,2024-05-25,37086,68.82,2025-12-10 13:47:10
+758,Threat Intelligence Feeds,Security,External,2023-12-31,31066,126.04,2025-12-10 13:47:10
+759,Malware Samples,Monitoring,Automated System,2023-11-30,19197,448.31,2025-12-10 13:47:10
+760,Threat Intelligence Feeds,Cloud,Automated System,2023-11-24,40167,165.59,2025-12-10 13:47:10
+761,User Access Records,Operations,Internal,2023-12-17,40099,227.57,2025-12-10 13:47:10
+762,Threat Intelligence Feeds,Monitoring,Internal,2023-01-10,39470,326.56,2025-12-10 13:47:10
+763,Threat Intelligence Feeds,Security,External,2024-07-12,31582,230.1,2025-12-10 13:47:10
+764,Cloud Activity Records,Cloud,Third-Party,2024-05-02,8006,431.81,2025-12-10 13:47:10
+765,System Event Logs,Operations,External,2024-07-30,1568,297.29,2025-12-10 13:47:10
+766,Authentication Logs,Networking,Internal,2023-06-16,10930,286.86,2025-12-10 13:47:10
+767,Malware Samples,Cloud,Automated System,2024-02-05,26883,332.35,2025-12-10 13:47:10
+768,Email Security Reports,Monitoring,External,2024-01-22,34140,232.96,2025-12-10 13:47:10
+769,IoT Sensor Data,Cloud,Automated System,2023-02-07,43814,329.02,2025-12-10 13:47:10
+770,Malware Samples,Security,Third-Party,2024-02-26,8733,49.77,2025-12-10 13:47:10
+771,IoT Sensor Data,Monitoring,Third-Party,2024-05-17,23905,482.56,2025-12-10 13:47:10
+772,Threat Intelligence Feeds,Networking,Automated System,2023-06-09,33784,366.92,2025-12-10 13:47:10
+773,User Access Records,Cloud,Third-Party,2024-10-05,20460,34.83,2025-12-10 13:47:10
+774,Authentication Logs,Monitoring,Automated System,2023-02-11,17677,407.85,2025-12-10 13:47:10
+775,Email Security Reports,Cloud,Internal,2023-06-10,40948,129.62,2025-12-10 13:47:10
+776,Cloud Activity Records,Operations,Internal,2023-01-18,5544,260.28,2025-12-10 13:47:10
+777,Cloud Activity Records,Networking,Internal,2023-01-31,23726,100.35,2025-12-10 13:47:10
+778,IoT Sensor Data,Operations,External,2023-08-07,28142,111.33,2025-12-10 13:47:10
+779,Email Security Reports,Cloud,Automated System,2023-06-28,16209,373.91,2025-12-10 13:47:10
+780,Authentication Logs,Networking,External,2024-06-19,5783,239.61,2025-12-10 13:47:10
+781,System Event Logs,Security,Internal,2023-03-21,12088,211.18,2025-12-10 13:47:10
+782,User Access Records,Security,External,2024-08-04,6237,213.12,2025-12-10 13:47:10
+783,Firewall Activity,Security,Internal,2024-01-22,27123,231.01,2025-12-10 13:47:10
+784,IoT Sensor Data,Networking,External,2024-05-31,4373,496.12,2025-12-10 13:47:10
+785,Malware Samples,Security,Third-Party,2024-08-24,25332,107.53,2025-12-10 13:47:10
+786,User Access Records,Monitoring,Third-Party,2023-07-02,29310,311.44,2025-12-10 13:47:10
+787,Threat Intelligence Feeds,Networking,Internal,2023-12-31,9196,281.9,2025-12-10 13:47:10
+788,Email Security Reports,Operations,Internal,2023-05-05,40492,469.58,2025-12-10 13:47:10
+789,Email Security Reports,Operations,Internal,2024-03-12,41863,309.02,2025-12-10 13:47:10
+790,Cloud Activity Records,Operations,Third-Party,2023-11-02,12612,142.74,2025-12-10 13:47:10
+791,IoT Sensor Data,Networking,Automated System,2023-03-19,32819,87.38,2025-12-10 13:47:10
+792,Threat Intelligence Feeds,Operations,Automated System,2023-09-23,23080,93.68,2025-12-10 13:47:10
+793,Cloud Activity Records,Networking,Third-Party,2023-11-06,5843,355.25,2025-12-10 13:47:10
+794,Threat Intelligence Feeds,Cloud,Automated System,2023-09-11,34734,282.72,2025-12-10 13:47:10
+795,Threat Intelligence Feeds,Operations,External,2023-12-13,9888,28.36,2025-12-10 13:47:10
+796,System Event Logs,Networking,External,2024-01-29,319,19.53,2025-12-10 13:47:10
+797,System Event Logs,Security,External,2023-03-31,16878,204.15,2025-12-10 13:47:10
+798,User Access Records,Networking,Internal,2024-03-05,12612,295.48,2025-12-10 13:47:10
+799,Malware Samples,Security,External,2023-08-09,14068,193.7,2025-12-10 13:47:10
+800,System Event Logs,Operations,Automated System,2023-06-04,22486,400.19,2025-12-10 13:47:10
+801,User Access Records,Security,Automated System,2023-04-30,34319,245.53,2025-12-10 13:47:10
+802,IoT Sensor Data,Security,Internal,2023-09-11,1927,170.6,2025-12-10 13:47:10
+803,User Access Records,Cloud,Third-Party,2024-08-04,42154,257.86,2025-12-10 13:47:10
+804,IoT Sensor Data,Networking,External,2024-01-09,10053,459.85,2025-12-10 13:47:10
+805,Email Security Reports,Operations,Automated System,2023-07-19,7249,229.2,2025-12-10 13:47:10
+806,IoT Sensor Data,Monitoring,Automated System,2023-07-24,29722,225.91,2025-12-10 13:47:10
+807,System Event Logs,Cloud,Third-Party,2023-07-02,34421,235.53,2025-12-10 13:47:10
+808,IoT Sensor Data,Cloud,Internal,2023-11-27,5027,59.53,2025-12-10 13:47:10
+809,Firewall Activity,Security,Internal,2024-09-18,28623,394.84,2025-12-10 13:47:10
+810,System Event Logs,Operations,Automated System,2024-02-15,27021,419.72,2025-12-10 13:47:10
+811,Network Traffic Logs,Operations,Third-Party,2023-03-22,12648,365.27,2025-12-10 13:47:10
+812,Email Security Reports,Security,Internal,2024-02-13,4997,62.05,2025-12-10 13:47:10
+813,Threat Intelligence Feeds,Monitoring,External,2023-11-30,26081,449.04,2025-12-10 13:47:10
+814,User Access Records,Operations,Automated System,2023-03-03,38976,302.86,2025-12-10 13:47:10
+815,Threat Intelligence Feeds,Security,External,2023-06-14,33976,193.71,2025-12-10 13:47:10
+816,User Access Records,Monitoring,External,2024-01-13,26125,445.51,2025-12-10 13:47:10
+817,IoT Sensor Data,Cloud,Third-Party,2023-05-28,10205,304.32,2025-12-10 13:47:10
+818,Email Security Reports,Networking,Internal,2023-10-24,10184,124.81,2025-12-10 13:47:10
+819,Malware Samples,Monitoring,Internal,2023-05-04,6548,467.0,2025-12-10 13:47:10
+820,Malware Samples,Operations,Automated System,2023-05-21,13824,464.77,2025-12-10 13:47:10
+821,Firewall Activity,Security,Automated System,2023-04-28,30330,463.34,2025-12-10 13:47:10
+822,Threat Intelligence Feeds,Operations,Automated System,2024-02-19,31246,491.0,2025-12-10 13:47:10
+823,Authentication Logs,Operations,External,2024-08-09,39634,156.02,2025-12-10 13:47:10
+824,Authentication Logs,Security,External,2023-07-08,49714,250.75,2025-12-10 13:47:10
+825,Authentication Logs,Operations,Internal,2024-11-26,8341,295.61,2025-12-10 13:47:10
+826,System Event Logs,Monitoring,Internal,2023-10-19,29228,138.09,2025-12-10 13:47:10
+827,Firewall Activity,Operations,Internal,2023-06-14,48085,30.24,2025-12-10 13:47:10
+828,System Event Logs,Cloud,External,2023-11-22,43127,218.48,2025-12-10 13:47:10
+829,Email Security Reports,Cloud,Third-Party,2023-10-01,46076,360.61,2025-12-10 13:47:10
+830,System Event Logs,Security,Third-Party,2024-02-24,43083,81.02,2025-12-10 13:47:10
+831,Threat Intelligence Feeds,Operations,Internal,2023-01-07,17233,123.48,2025-12-10 13:47:10
+832,Threat Intelligence Feeds,Operations,External,2024-11-16,544,492.52,2025-12-10 13:47:10
+833,Authentication Logs,Monitoring,Third-Party,2023-02-16,15752,257.89,2025-12-10 13:47:10
+834,Authentication Logs,Operations,Internal,2023-04-23,3679,145.46,2025-12-10 13:47:10
+835,Threat Intelligence Feeds,Monitoring,Internal,2023-10-11,30839,441.22,2025-12-10 13:47:10
+836,Malware Samples,Networking,Third-Party,2023-02-16,26255,354.39,2025-12-10 13:47:10
+837,Cloud Activity Records,Monitoring,Internal,2023-04-09,3272,258.8,2025-12-10 13:47:10
+838,Malware Samples,Security,External,2024-05-16,17747,449.76,2025-12-10 13:47:10
+839,Network Traffic Logs,Security,External,2024-10-18,33197,145.03,2025-12-10 13:47:10
+840,Malware Samples,Cloud,External,2023-03-17,48915,323.85,2025-12-10 13:47:10
+841,Firewall Activity,Cloud,Internal,2023-06-20,5162,38.89,2025-12-10 13:47:10
+842,Email Security Reports,Operations,Internal,2023-08-27,26166,494.19,2025-12-10 13:47:10
+843,Cloud Activity Records,Cloud,Third-Party,2024-07-21,37610,202.47,2025-12-10 13:47:10
+844,Network Traffic Logs,Networking,Third-Party,2023-11-25,29198,362.59,2025-12-10 13:47:10
+845,Network Traffic Logs,Cloud,Automated System,2024-08-27,24913,245.28,2025-12-10 13:47:10
+846,Malware Samples,Security,Automated System,2024-02-21,23428,473.85,2025-12-10 13:47:10
+847,Malware Samples,Operations,Third-Party,2024-02-08,43188,216.59,2025-12-10 13:47:10
+848,Threat Intelligence Feeds,Cloud,External,2023-05-25,25592,495.42,2025-12-10 13:47:10
+849,Email Security Reports,Monitoring,Automated System,2023-06-10,45612,53.14,2025-12-10 13:47:10
+850,IoT Sensor Data,Networking,Automated System,2023-01-04,25990,356.07,2025-12-10 13:47:10
+851,Threat Intelligence Feeds,Monitoring,Internal,2024-07-08,45408,29.11,2025-12-10 13:47:10
+852,IoT Sensor Data,Cloud,Third-Party,2023-02-02,14503,166.45,2025-12-10 13:47:10
+853,Threat Intelligence Feeds,Security,Internal,2023-01-21,10980,473.64,2025-12-10 13:47:10
+854,Firewall Activity,Operations,External,2023-02-04,23140,32.36,2025-12-10 13:47:10
+855,Threat Intelligence Feeds,Monitoring,Automated System,2024-07-15,17422,359.27,2025-12-10 13:47:10
+856,System Event Logs,Cloud,Internal,2023-01-07,34095,28.51,2025-12-10 13:47:10
+857,Threat Intelligence Feeds,Cloud,Third-Party,2024-10-09,29679,85.33,2025-12-10 13:47:10
+858,IoT Sensor Data,Cloud,Third-Party,2024-01-27,21505,238.91,2025-12-10 13:47:10
+859,Network Traffic Logs,Cloud,Automated System,2023-06-21,6529,218.65,2025-12-10 13:47:10
+860,Threat Intelligence Feeds,Security,External,2023-01-13,6536,174.95,2025-12-10 13:47:10
+861,Firewall Activity,Cloud,Automated System,2023-01-12,6822,185.76,2025-12-10 13:47:10
+862,Threat Intelligence Feeds,Operations,Automated System,2023-04-02,7826,345.62,2025-12-10 13:47:10
+863,Network Traffic Logs,Cloud,Internal,2023-01-13,20915,336.83,2025-12-10 13:47:10
+864,Authentication Logs,Security,Automated System,2024-02-26,13115,183.79,2025-12-10 13:47:10
+865,Threat Intelligence Feeds,Monitoring,External,2024-01-22,42987,329.52,2025-12-10 13:47:10
+866,Cloud Activity Records,Monitoring,External,2024-10-21,5921,234.52,2025-12-10 13:47:10
+867,Firewall Activity,Operations,Automated System,2023-09-20,15378,182.49,2025-12-10 13:47:10
+868,Cloud Activity Records,Security,Third-Party,2023-09-07,24469,273.82,2025-12-10 13:47:10
+869,Malware Samples,Monitoring,Automated System,2024-05-21,49481,297.85,2025-12-10 13:47:10
+870,Authentication Logs,Cloud,Automated System,2024-05-02,15953,129.72,2025-12-10 13:47:10
+871,User Access Records,Monitoring,External,2023-06-06,29587,260.28,2025-12-10 13:47:10
+872,Network Traffic Logs,Networking,Automated System,2023-10-21,6143,426.08,2025-12-10 13:47:10
+873,Authentication Logs,Monitoring,External,2024-01-16,1608,326.01,2025-12-10 13:47:10
+874,Threat Intelligence Feeds,Cloud,Third-Party,2024-04-30,5884,475.58,2025-12-10 13:47:10
+875,Cloud Activity Records,Networking,External,2023-08-19,11377,420.05,2025-12-10 13:47:10
+876,Network Traffic Logs,Security,Internal,2023-09-12,19356,485.94,2025-12-10 13:47:10
+877,Email Security Reports,Networking,Automated System,2023-07-01,9553,36.96,2025-12-10 13:47:10
+878,System Event Logs,Cloud,External,2024-01-16,40605,461.42,2025-12-10 13:47:10
+879,System Event Logs,Monitoring,Third-Party,2024-04-25,14733,138.96,2025-12-10 13:47:10
+880,Firewall Activity,Security,External,2023-12-07,20227,481.27,2025-12-10 13:47:10
+881,Malware Samples,Operations,Automated System,2023-06-26,46342,105.63,2025-12-10 13:47:10
+882,Malware Samples,Monitoring,Third-Party,2024-03-06,27911,62.94,2025-12-10 13:47:10
+883,Network Traffic Logs,Security,Third-Party,2024-05-10,29325,306.2,2025-12-10 13:47:10
+884,IoT Sensor Data,Security,Third-Party,2023-09-17,38022,8.48,2025-12-10 13:47:10
+885,Network Traffic Logs,Networking,Third-Party,2023-03-06,20909,228.48,2025-12-10 13:47:10
+886,Cloud Activity Records,Cloud,Third-Party,2024-05-28,42692,244.95,2025-12-10 13:47:10
+887,Email Security Reports,Networking,Third-Party,2024-06-04,13842,455.42,2025-12-10 13:47:10
+888,Threat Intelligence Feeds,Security,External,2024-10-09,11876,369.84,2025-12-10 13:47:10
+889,Malware Samples,Operations,External,2023-07-23,13255,123.2,2025-12-10 13:47:10
+890,System Event Logs,Networking,Internal,2024-04-20,45618,95.98,2025-12-10 13:47:10
+891,Threat Intelligence Feeds,Monitoring,External,2023-01-14,7704,301.43,2025-12-10 13:47:10
+892,Threat Intelligence Feeds,Security,External,2024-10-25,24562,347.59,2025-12-10 13:47:10
+893,System Event Logs,Cloud,Automated System,2023-10-20,8191,372.81,2025-12-10 13:47:10
+894,Malware Samples,Cloud,Automated System,2023-01-03,14016,219.68,2025-12-10 13:47:10
+895,IoT Sensor Data,Operations,Automated System,2024-03-16,7472,311.97,2025-12-10 13:47:10
+896,Threat Intelligence Feeds,Cloud,External,2023-11-03,1210,265.49,2025-12-10 13:47:10
+897,Threat Intelligence Feeds,Operations,Automated System,2023-06-26,44600,256.87,2025-12-10 13:47:10
+898,Email Security Reports,Cloud,Automated System,2024-09-21,30298,300.26,2025-12-10 13:47:10
+899,Email Security Reports,Monitoring,External,2023-02-22,12298,264.27,2025-12-10 13:47:10
+900,Email Security Reports,Networking,External,2023-12-05,12444,341.05,2025-12-10 13:47:10
+901,Cloud Activity Records,Networking,Automated System,2023-08-06,23130,57.15,2025-12-10 13:47:10
+902,Network Traffic Logs,Cloud,Third-Party,2023-06-21,3169,370.77,2025-12-10 13:47:10
+903,Threat Intelligence Feeds,Monitoring,Third-Party,2023-07-22,1892,153.27,2025-12-10 13:47:10
+904,Authentication Logs,Networking,Internal,2023-08-05,31104,320.46,2025-12-10 13:47:10
+905,Threat Intelligence Feeds,Networking,Third-Party,2023-07-14,47390,138.61,2025-12-10 13:47:10
+906,User Access Records,Monitoring,Automated System,2024-02-23,38215,67.94,2025-12-10 13:47:10
+907,User Access Records,Security,Internal,2023-09-15,19742,159.86,2025-12-10 13:47:10
+908,Cloud Activity Records,Networking,Third-Party,2024-09-11,22391,114.52,2025-12-10 13:47:10
+909,Network Traffic Logs,Cloud,External,2024-04-20,41439,101.67,2025-12-10 13:47:10
+910,IoT Sensor Data,Networking,Internal,2024-06-06,11637,137.83,2025-12-10 13:47:10
+911,Malware Samples,Networking,Third-Party,2024-02-19,32002,3.21,2025-12-10 13:47:10
+912,Malware Samples,Security,Third-Party,2023-05-21,46076,96.37,2025-12-10 13:47:10
+913,IoT Sensor Data,Cloud,Third-Party,2024-04-17,712,34.42,2025-12-10 13:47:10
+914,Network Traffic Logs,Security,Third-Party,2024-06-01,4989,375.51,2025-12-10 13:47:10
+915,System Event Logs,Operations,Third-Party,2023-04-09,21850,274.43,2025-12-10 13:47:10
+916,System Event Logs,Monitoring,Automated System,2023-10-29,33526,280.84,2025-12-10 13:47:10
+917,User Access Records,Security,Internal,2023-09-14,25752,62.07,2025-12-10 13:47:10
+918,Cloud Activity Records,Operations,Internal,2024-04-04,30806,395.14,2025-12-10 13:47:10
+919,Email Security Reports,Networking,Internal,2023-03-26,41309,296.99,2025-12-10 13:47:10
+920,Threat Intelligence Feeds,Security,Third-Party,2023-11-10,984,208.0,2025-12-10 13:47:10
+921,System Event Logs,Security,External,2024-03-12,10519,276.42,2025-12-10 13:47:10
+922,User Access Records,Security,External,2023-10-14,5301,367.7,2025-12-10 13:47:10
+923,Cloud Activity Records,Monitoring,Third-Party,2024-10-09,43595,13.82,2025-12-10 13:47:10
+924,Email Security Reports,Networking,Internal,2023-06-26,26278,137.02,2025-12-10 13:47:10
+925,System Event Logs,Monitoring,Third-Party,2023-12-15,23981,108.85,2025-12-10 13:47:10
+926,Threat Intelligence Feeds,Operations,External,2024-01-10,29618,410.88,2025-12-10 13:47:10
+927,Cloud Activity Records,Monitoring,Third-Party,2024-06-14,21277,264.76,2025-12-10 13:47:10
+928,Firewall Activity,Monitoring,Third-Party,2024-02-20,42517,132.75,2025-12-10 13:47:10
+929,Malware Samples,Operations,Third-Party,2024-11-13,37432,404.81,2025-12-10 13:47:10
+930,System Event Logs,Monitoring,Automated System,2023-06-09,41863,256.3,2025-12-10 13:47:10
+931,User Access Records,Security,External,2024-08-02,21769,413.43,2025-12-10 13:47:10
+932,Email Security Reports,Cloud,Third-Party,2023-04-21,21288,211.46,2025-12-10 13:47:10
+933,IoT Sensor Data,Operations,Automated System,2023-07-15,36628,450.19,2025-12-10 13:47:10
+934,System Event Logs,Operations,External,2023-10-01,42911,240.04,2025-12-10 13:47:10
+935,System Event Logs,Security,External,2024-11-23,39497,375.28,2025-12-10 13:47:10
+936,Authentication Logs,Networking,Automated System,2024-07-17,31013,334.92,2025-12-10 13:47:10
+937,Malware Samples,Operations,Third-Party,2024-07-29,38776,35.35,2025-12-10 13:47:10
+938,Authentication Logs,Operations,External,2024-03-23,5710,89.9,2025-12-10 13:47:10
+939,Network Traffic Logs,Networking,Automated System,2023-11-17,13515,34.49,2025-12-10 13:47:10
+940,Network Traffic Logs,Cloud,External,2024-01-28,4243,450.88,2025-12-10 13:47:10
+941,Firewall Activity,Security,Third-Party,2024-07-21,42511,193.84,2025-12-10 13:47:10
+942,IoT Sensor Data,Monitoring,Automated System,2023-11-14,44286,274.46,2025-12-10 13:47:10
+943,System Event Logs,Monitoring,External,2023-10-03,32050,171.05,2025-12-10 13:47:10
+944,System Event Logs,Cloud,Third-Party,2024-08-11,21505,206.97,2025-12-10 13:47:10
+945,User Access Records,Operations,Internal,2023-06-14,37555,197.86,2025-12-10 13:47:10
+946,User Access Records,Cloud,External,2023-01-04,23465,105.38,2025-12-10 13:47:10
+947,IoT Sensor Data,Networking,External,2024-05-07,43636,368.25,2025-12-10 13:47:10
+948,Email Security Reports,Operations,Automated System,2024-05-08,8204,60.31,2025-12-10 13:47:10
+949,Threat Intelligence Feeds,Operations,Internal,2023-11-25,26205,266.03,2025-12-10 13:47:10
+950,Authentication Logs,Operations,Third-Party,2023-05-05,45118,221.14,2025-12-10 13:47:10
+951,Threat Intelligence Feeds,Cloud,Automated System,2023-09-11,46231,72.83,2025-12-10 13:47:10
+952,Network Traffic Logs,Monitoring,Third-Party,2024-06-07,26097,334.64,2025-12-10 13:47:10
+953,Authentication Logs,Networking,Third-Party,2023-07-08,2067,80.97,2025-12-10 13:47:10
+954,Firewall Activity,Security,Third-Party,2023-03-26,9061,240.19,2025-12-10 13:47:10
+955,System Event Logs,Security,Internal,2024-07-08,13106,29.15,2025-12-10 13:47:10
+956,User Access Records,Networking,External,2024-10-26,4682,184.28,2025-12-10 13:47:10
+957,Malware Samples,Monitoring,Third-Party,2023-12-28,35229,197.95,2025-12-10 13:47:10
+958,Cloud Activity Records,Monitoring,Internal,2023-02-18,40592,67.74,2025-12-10 13:47:10
+959,Email Security Reports,Monitoring,Automated System,2024-03-26,31692,282.42,2025-12-10 13:47:10
+960,Network Traffic Logs,Monitoring,Internal,2023-10-02,44707,247.31,2025-12-10 13:47:10
+961,Network Traffic Logs,Security,Internal,2023-09-03,28562,269.73,2025-12-10 13:47:10
+962,Malware Samples,Cloud,External,2024-05-19,45875,335.63,2025-12-10 13:47:10
+963,System Event Logs,Networking,Third-Party,2023-12-10,19571,168.42,2025-12-10 13:47:10
+964,Email Security Reports,Networking,Third-Party,2024-10-25,32669,396.51,2025-12-10 13:47:10
+965,Cloud Activity Records,Operations,Automated System,2023-11-07,20395,486.39,2025-12-10 13:47:10
+966,Firewall Activity,Operations,External,2024-12-01,47119,95.52,2025-12-10 13:47:10
+967,User Access Records,Cloud,Internal,2024-01-09,41318,257.79,2025-12-10 13:47:10
+968,Authentication Logs,Networking,Automated System,2023-05-26,26219,80.66,2025-12-10 13:47:10
+969,User Access Records,Cloud,Automated System,2024-04-05,5478,103.64,2025-12-10 13:47:10
+970,Firewall Activity,Monitoring,Third-Party,2024-06-25,47221,37.74,2025-12-10 13:47:10
+971,Cloud Activity Records,Operations,External,2023-06-13,18640,178.04,2025-12-10 13:47:10
+972,Email Security Reports,Networking,Third-Party,2024-07-15,29429,399.39,2025-12-10 13:47:10
+973,Threat Intelligence Feeds,Monitoring,Third-Party,2024-07-29,17535,22.87,2025-12-10 13:47:10
+974,User Access Records,Security,Automated System,2024-03-01,31557,339.31,2025-12-10 13:47:10
+975,Firewall Activity,Cloud,Internal,2023-03-17,2278,114.33,2025-12-10 13:47:10
+976,Cloud Activity Records,Monitoring,External,2024-02-29,4618,383.8,2025-12-10 13:47:10
+977,System Event Logs,Networking,Automated System,2024-07-11,37016,338.52,2025-12-10 13:47:10
+978,IoT Sensor Data,Monitoring,Internal,2024-10-09,33063,352.09,2025-12-10 13:47:10
+979,System Event Logs,Networking,Internal,2023-11-19,34042,155.89,2025-12-10 13:47:10
+980,Malware Samples,Security,Third-Party,2024-09-07,1424,171.23,2025-12-10 13:47:10
+981,System Event Logs,Networking,Third-Party,2023-05-08,26326,8.71,2025-12-10 13:47:10
+982,System Event Logs,Monitoring,External,2023-06-12,20361,36.19,2025-12-10 13:47:10
+983,Cloud Activity Records,Monitoring,Internal,2024-06-19,13407,139.01,2025-12-10 13:47:10
+984,Authentication Logs,Security,Third-Party,2023-04-30,3448,205.5,2025-12-10 13:47:10
+985,System Event Logs,Cloud,External,2024-08-16,36293,10.75,2025-12-10 13:47:10
+986,Firewall Activity,Monitoring,Automated System,2024-05-01,40109,38.18,2025-12-10 13:47:10
+987,Malware Samples,Cloud,Automated System,2024-03-23,48015,414.94,2025-12-10 13:47:10
+988,Email Security Reports,Monitoring,Internal,2024-01-02,20300,270.93,2025-12-10 13:47:10
+989,Email Security Reports,Operations,Automated System,2023-11-27,14250,95.14,2025-12-10 13:47:10
+990,User Access Records,Monitoring,Internal,2023-09-23,47954,253.48,2025-12-10 13:47:10
+991,System Event Logs,Networking,Third-Party,2023-04-26,1705,299.97,2025-12-10 13:47:10
+992,Threat Intelligence Feeds,Monitoring,External,2024-03-28,34506,336.02,2025-12-10 13:47:10
+993,Cloud Activity Records,Operations,Third-Party,2023-07-01,30660,188.2,2025-12-10 13:47:10
+994,System Event Logs,Cloud,Third-Party,2023-11-12,39020,261.14,2025-12-10 13:47:10
+995,Authentication Logs,Networking,Automated System,2023-05-26,1029,386.79,2025-12-10 13:47:10
+996,System Event Logs,Cloud,Third-Party,2024-03-22,26717,230.77,2025-12-10 13:47:10
+997,Threat Intelligence Feeds,Operations,External,2023-04-27,2544,423.77,2025-12-10 13:47:10
+998,IoT Sensor Data,Networking,Internal,2024-02-11,9084,373.36,2025-12-10 13:47:10
+999,Threat Intelligence Feeds,Cloud,Internal,2024-06-15,43298,449.52,2025-12-10 13:47:10
+1000,Firewall Activity,Security,External,2024-03-11,13594,260.63,2025-12-10 13:47:10

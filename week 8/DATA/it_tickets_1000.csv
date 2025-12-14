@@ -1,0 +1,1001 @@
+id,ticket_id,priority,status,category,subject,description,created_date,resolved_date,assigned_to,created_at
+1,TCK-PWY9ER62,Medium,On Hold,Security,Issue related to Hardware,Detailed ticket description yhqBiagHtliNQaIjwuQp,2023-05-16,,Technician B,2025-12-10 13:49:04
+2,TCK-RVJ4IW9D,Medium,Closed,Hardware,Issue related to Software,Detailed ticket description RBfqePcZizFTrGobWOEU,2023-07-24,2023-08-13,Technician B,2025-12-10 13:49:04
+3,TCK-NJ18K94I,Medium,Closed,Hardware,Issue related to Security,Detailed ticket description LoVBfRcxcufGOhGxRlVL,2023-05-07,,Admin,2025-12-10 13:49:04
+4,TCK-6DQIVNY7,Critical,In Progress,Access Request,Issue related to Security,Detailed ticket description tEcwaNMdgbPVBVAUGVlL,2023-09-07,2023-09-08,Unassigned,2025-12-10 13:49:04
+5,TCK-LVCB92BU,Critical,Open,Security,Issue related to Software,Detailed ticket description LgtGwkZhypxQACzAtMSn,2024-03-17,2024-04-10,Admin,2025-12-10 13:49:04
+6,TCK-TXNMRI27,Low,Open,Access Request,Issue related to Network,Detailed ticket description iCmftPCqiOqKanxrwNRp,2024-06-05,,Admin,2025-12-10 13:49:04
+7,TCK-08UIGFYZ,Low,On Hold,Access Request,Issue related to Network,Detailed ticket description vRiwPAWRFkIJvCmKHTyW,2023-03-29,2023-04-28,Technician B,2025-12-10 13:49:04
+8,TCK-X9452OAY,Medium,Open,Hardware,Issue related to Security,Detailed ticket description cobPYsaJGJVYYLWxeyhK,2024-08-11,2024-08-30,IT Support 2,2025-12-10 13:49:04
+9,TCK-1NOLZYQ9,High,Resolved,Hardware,Issue related to Access Request,Detailed ticket description FkAyePvcYBZxwnZIIiSV,2023-05-18,2023-05-24,IT Support 1,2025-12-10 13:49:04
+10,TCK-C4EH9B3K,Low,In Progress,Access Request,Issue related to Access Request,Detailed ticket description KAVUBMMhKJuaivBtCkBw,2024-04-29,2024-05-24,Technician A,2025-12-10 13:49:04
+11,TCK-P86LA8D9,Low,On Hold,Hardware,Issue related to Access Request,Detailed ticket description DfQBvdGnHWybOGPoCOXG,2023-11-04,2023-11-22,IT Support 2,2025-12-10 13:49:04
+12,TCK-R7YL1SX4,Low,On Hold,Other,Issue related to Security,Detailed ticket description wGnEOCyRfVNZSkqFgaCF,2024-01-16,,Technician B,2025-12-10 13:49:04
+13,TCK-F9IG5JR7,Medium,Open,Security,Issue related to Other,Detailed ticket description NyxxZjQqEGKNSEsmdSBo,2023-08-29,2023-09-18,Technician A,2025-12-10 13:49:04
+14,TCK-V230ZLA5,Medium,Open,Access Request,Issue related to Security,Detailed ticket description paSbTsQFDqewJsrqkFPp,2023-04-11,2023-05-07,IT Support 2,2025-12-10 13:49:04
+15,TCK-3STWSRCI,High,Resolved,Hardware,Issue related to Software,Detailed ticket description EdewdJzQZMyceEhHSQYX,2023-11-06,2023-11-16,IT Support 2,2025-12-10 13:49:04
+16,TCK-4G5V7QE2,Low,Open,Security,Issue related to Network,Detailed ticket description CnyKXBlCPJzBUCfltVWd,2024-03-12,2024-03-23,IT Support 1,2025-12-10 13:49:04
+17,TCK-R0BB8M70,High,Open,Software,Issue related to Access Request,Detailed ticket description sTiEWIOuJQmbdeJrYQkL,2023-05-09,2023-06-01,IT Support 1,2025-12-10 13:49:04
+18,TCK-C9MS0L03,Medium,In Progress,Hardware,Issue related to Software,Detailed ticket description DTGdeBvzMdyQlrdqBapC,2024-01-30,2024-02-24,IT Support 1,2025-12-10 13:49:04
+19,TCK-LGGU0UMF,Low,In Progress,Software,Issue related to Security,Detailed ticket description uqXRQHRHZeWreNZfiZvF,2024-01-30,2024-02-27,Technician A,2025-12-10 13:49:04
+20,TCK-MUS50XNH,Critical,Closed,Hardware,Issue related to Network,Detailed ticket description oCEsuJQrBsGcsgvGugnq,2024-04-25,2024-05-13,IT Support 1,2025-12-10 13:49:04
+21,TCK-Y6G3R190,Critical,Open,Security,Issue related to Other,Detailed ticket description OOgYFlQqDXaPJvvUquWS,2023-11-14,,Unassigned,2025-12-10 13:49:04
+22,TCK-NRFGSIT3,High,In Progress,Other,Issue related to Other,Detailed ticket description jYpLqzHWiHjzKsEqcjkM,2023-04-14,2023-04-15,Technician B,2025-12-10 13:49:04
+23,TCK-SEA7FIO0,Medium,Resolved,Other,Issue related to Software,Detailed ticket description QqdrIQKWJZPQjkvNUzEi,2023-05-13,,Unassigned,2025-12-10 13:49:04
+24,TCK-UQJZ4T7U,High,Closed,Access Request,Issue related to Hardware,Detailed ticket description UMxqgGsushwLbabttyvE,2024-08-06,2024-08-25,Unassigned,2025-12-10 13:49:04
+25,TCK-5ASRY1DW,High,Open,Security,Issue related to Other,Detailed ticket description qjOmVIjUUwtRzdqtIAtk,2024-08-08,2024-09-07,Admin,2025-12-10 13:49:04
+26,TCK-0P2LC1RR,High,Resolved,Hardware,Issue related to Network,Detailed ticket description yBnWJRzMCeADwJprwiPS,2024-01-20,2024-02-03,Technician A,2025-12-10 13:49:04
+27,TCK-HS8Q06Q9,Low,Closed,Other,Issue related to Other,Detailed ticket description hhZxUmjWrFibwIarvwTS,2024-03-07,,IT Support 2,2025-12-10 13:49:04
+28,TCK-O5CZTQV2,High,In Progress,Hardware,Issue related to Access Request,Detailed ticket description VSyxPNERSpOyXezwQNUb,2023-06-06,2023-07-01,Technician A,2025-12-10 13:49:04
+29,TCK-2T34JAK6,Low,On Hold,Access Request,Issue related to Access Request,Detailed ticket description gKtrQejBQkQfPBBmcCKX,2024-05-05,,IT Support 2,2025-12-10 13:49:04
+30,TCK-O0OWNSFA,High,On Hold,Other,Issue related to Software,Detailed ticket description IbrmpZjZrPbXBMJguvlN,2024-05-29,2024-06-22,Admin,2025-12-10 13:49:04
+31,TCK-MTUF9QH3,High,Closed,Network,Issue related to Network,Detailed ticket description WIxTCFFbmNzNVYkPfgEM,2023-11-02,2023-11-21,IT Support 1,2025-12-10 13:49:04
+32,TCK-7NBPMB6Z,Low,Open,Access Request,Issue related to Software,Detailed ticket description dIzBuJDUiUYEHKpEguFm,2024-07-14,,Unassigned,2025-12-10 13:49:04
+33,TCK-O1HDGW02,Low,Closed,Network,Issue related to Hardware,Detailed ticket description JavYoYOYFKCUUGbYzPUK,2024-01-25,,IT Support 1,2025-12-10 13:49:04
+34,TCK-PZQLAGA1,Critical,Resolved,Other,Issue related to Network,Detailed ticket description rDpBKrkNYFRSfKFkoKzl,2023-10-17,,Unassigned,2025-12-10 13:49:04
+35,TCK-1L6BCLAB,Low,Closed,Hardware,Issue related to Other,Detailed ticket description MwQlclThWYUsQYevuAeT,2024-11-30,2024-12-19,IT Support 1,2025-12-10 13:49:04
+36,TCK-25OLEH5L,Critical,Closed,Hardware,Issue related to Other,Detailed ticket description GemlSDDLlOsZPXQWTnwz,2023-02-25,2023-03-19,Technician B,2025-12-10 13:49:04
+37,TCK-Y80M2F4I,Medium,On Hold,Hardware,Issue related to Network,Detailed ticket description AlRqCjYwrEOGyOgmPkiN,2023-05-21,2023-06-02,IT Support 2,2025-12-10 13:49:04
+38,TCK-MGWRUUK3,Low,On Hold,Hardware,Issue related to Other,Detailed ticket description VDUVyudTQcElgehzKdyK,2023-10-07,,IT Support 2,2025-12-10 13:49:04
+39,TCK-UXJ52ZQ2,Critical,Closed,Software,Issue related to Security,Detailed ticket description wfveALjXWMzPcIZUvJLF,2024-03-23,,Technician A,2025-12-10 13:49:04
+40,TCK-NZ1R6MFY,High,In Progress,Security,Issue related to Software,Detailed ticket description dClKVbYaxHdhYCRWCxZD,2023-07-09,2023-07-30,Unassigned,2025-12-10 13:49:04
+41,TCK-RXSYX2ID,Low,In Progress,Hardware,Issue related to Hardware,Detailed ticket description UrKcGhyGWuXsWdzYNVbq,2023-09-11,2023-10-01,Admin,2025-12-10 13:49:04
+42,TCK-YW9A2WBM,Low,Open,Access Request,Issue related to Other,Detailed ticket description xyLvdbDVGHbshdchNyPb,2023-05-03,2023-05-06,Admin,2025-12-10 13:49:04
+43,TCK-XC2P3T2U,Low,Closed,Network,Issue related to Other,Detailed ticket description uSLrvqTnAfMrSbihyTDC,2024-04-23,,IT Support 1,2025-12-10 13:49:04
+44,TCK-DU2O6RCN,Critical,On Hold,Hardware,Issue related to Software,Detailed ticket description CPxwQZJpJXqyjkXOWVcq,2023-07-10,2023-08-09,Technician B,2025-12-10 13:49:04
+45,TCK-YLAPZEXO,Low,Closed,Access Request,Issue related to Software,Detailed ticket description uwacIgoTjccqhOLpxIpm,2024-04-21,,Technician A,2025-12-10 13:49:04
+46,TCK-V2VO18DW,Low,In Progress,Software,Issue related to Network,Detailed ticket description lZitUnguefDpMorJXEWy,2023-04-04,2023-04-25,IT Support 2,2025-12-10 13:49:04
+47,TCK-MM9H3DI9,Low,Resolved,Other,Issue related to Security,Detailed ticket description CneFUTfGshLNLKXiohtL,2023-10-16,2023-11-03,Admin,2025-12-10 13:49:04
+48,TCK-KAWMLCBM,Medium,Resolved,Network,Issue related to Other,Detailed ticket description JtYkgXcwdhaxcbgWhDOR,2023-07-18,2023-08-04,Technician B,2025-12-10 13:49:04
+49,TCK-4D0SDGCL,Low,Open,Other,Issue related to Access Request,Detailed ticket description ahROHNgKolCiCAGvgtXp,2023-09-25,,IT Support 2,2025-12-10 13:49:04
+50,TCK-9NXA3BYD,Medium,Resolved,Network,Issue related to Security,Detailed ticket description rbUbEMxAHSIHWTvTKbxB,2023-02-05,2023-02-27,Technician A,2025-12-10 13:49:04
+51,TCK-TU6S2EKA,High,In Progress,Hardware,Issue related to Software,Detailed ticket description mPOdFEkFehUGJXqQAIht,2024-08-11,2024-09-02,Technician B,2025-12-10 13:49:04
+52,TCK-N0WFKS2B,Low,Resolved,Network,Issue related to Software,Detailed ticket description EWkigMxWTIHHVWTGIfKo,2024-10-17,2024-11-02,Admin,2025-12-10 13:49:04
+53,TCK-KXA2I09U,Low,On Hold,Access Request,Issue related to Security,Detailed ticket description KwVTZwIXprSJjerXXeuI,2023-01-05,2023-01-08,Unassigned,2025-12-10 13:49:04
+54,TCK-Z1P3EXEM,Critical,Open,Software,Issue related to Hardware,Detailed ticket description AEaPlMIjhtSUnXMzxhxE,2023-01-24,2023-02-22,Unassigned,2025-12-10 13:49:04
+55,TCK-YDIQBKYI,Critical,In Progress,Network,Issue related to Hardware,Detailed ticket description IXmLSCGZWnJmpITHrlQW,2024-10-09,,Technician A,2025-12-10 13:49:04
+56,TCK-S6CRWQRJ,High,Resolved,Access Request,Issue related to Other,Detailed ticket description fOXwInbStQCVlCdwhXxH,2023-03-21,2023-04-12,IT Support 2,2025-12-10 13:49:04
+57,TCK-YNZG2LB3,Critical,Closed,Network,Issue related to Software,Detailed ticket description nqPjeCaZnoKaVNgqbsKs,2023-04-04,2023-04-07,Unassigned,2025-12-10 13:49:04
+58,TCK-WIGWLUI9,Low,Closed,Security,Issue related to Security,Detailed ticket description HKAvJJgsIKXoBQdOvxIW,2023-03-02,,Technician B,2025-12-10 13:49:04
+59,TCK-RZL2GHCD,Medium,In Progress,Software,Issue related to Security,Detailed ticket description tMpQCeYUYSNIaLwyxwyK,2023-02-12,,Technician A,2025-12-10 13:49:04
+60,TCK-N15MYDOM,Critical,Resolved,Security,Issue related to Other,Detailed ticket description oGreTsycjFLdlsyDmSjH,2023-11-28,2023-11-29,Admin,2025-12-10 13:49:04
+61,TCK-R08RO60R,Medium,Resolved,Access Request,Issue related to Security,Detailed ticket description dhGeijbQWEJHtZPBFjgN,2024-04-22,2024-05-15,Technician B,2025-12-10 13:49:04
+62,TCK-DUTZTJFL,Medium,Closed,Security,Issue related to Access Request,Detailed ticket description yrzdUYzxrJRdBpbffIRn,2024-10-01,,IT Support 1,2025-12-10 13:49:04
+63,TCK-K1RENSQI,Medium,Closed,Access Request,Issue related to Network,Detailed ticket description vZCwNHmmFksBYeRZNBEo,2023-08-05,2023-08-19,IT Support 2,2025-12-10 13:49:04
+64,TCK-UDZ8W4TS,Critical,On Hold,Hardware,Issue related to Security,Detailed ticket description gyhgEHujWjPJDsSasnaa,2024-06-28,2024-07-10,IT Support 2,2025-12-10 13:49:04
+65,TCK-KC0PJA00,Medium,Open,Network,Issue related to Network,Detailed ticket description ZljkndUlqVQhSNZDhBDJ,2023-06-13,2023-06-25,IT Support 1,2025-12-10 13:49:04
+66,TCK-6NL0QNR7,High,In Progress,Security,Issue related to Software,Detailed ticket description RtvcSeUdVeYkBgJxmCRt,2024-11-19,2024-12-13,Admin,2025-12-10 13:49:04
+67,TCK-FUGKKTTX,Critical,Open,Access Request,Issue related to Network,Detailed ticket description cAdrgETaqKYoKtXtZbke,2024-07-20,2024-08-09,IT Support 1,2025-12-10 13:49:04
+68,TCK-3BL1T8P2,Low,Open,Hardware,Issue related to Other,Detailed ticket description SbEGYCvIWgJMoInxBJfL,2024-08-08,,Technician A,2025-12-10 13:49:04
+69,TCK-CC1ZFYNZ,Medium,Resolved,Security,Issue related to Other,Detailed ticket description lHLTKSFlfCAqNHJtPhtM,2024-08-02,2024-08-27,Unassigned,2025-12-10 13:49:04
+70,TCK-ENEPMM61,High,Open,Other,Issue related to Software,Detailed ticket description zkVxihObHkcetRnmWxAH,2023-09-27,2023-10-20,Admin,2025-12-10 13:49:04
+71,TCK-WWMPM53R,Low,Closed,Software,Issue related to Hardware,Detailed ticket description EcikCcAUyPBiWgFPSrMZ,2024-06-22,,Admin,2025-12-10 13:49:04
+72,TCK-4KPFYWNH,Critical,In Progress,Access Request,Issue related to Security,Detailed ticket description RzCtmjcfrULrMYoaQDtI,2024-09-30,2024-10-06,Admin,2025-12-10 13:49:04
+73,TCK-M3H8MEGI,High,Resolved,Network,Issue related to Network,Detailed ticket description jLnzJDXztErxjgdCsMkc,2023-03-24,2023-04-21,Technician B,2025-12-10 13:49:04
+74,TCK-CKLJ76PB,Low,Open,Access Request,Issue related to Software,Detailed ticket description IAbrxGpcBpuVCjHnIhiF,2024-10-09,2024-10-29,Technician B,2025-12-10 13:49:04
+75,TCK-3OA0Y80J,Critical,Open,Software,Issue related to Hardware,Detailed ticket description svsjYhjITktaUTxEtAlA,2023-01-08,2023-01-25,Technician B,2025-12-10 13:49:04
+76,TCK-RRN9OIBQ,Critical,Resolved,Software,Issue related to Access Request,Detailed ticket description tEBmQYGzPOsdsBGEujnm,2024-04-05,2024-04-21,Admin,2025-12-10 13:49:04
+77,TCK-7BAFMOR9,High,Resolved,Security,Issue related to Other,Detailed ticket description zqwSlnzWNiGtYXjErYVo,2023-10-25,,IT Support 1,2025-12-10 13:49:04
+78,TCK-9A5BRLAF,Critical,On Hold,Access Request,Issue related to Software,Detailed ticket description EIVqcGWgEiCPXLimWTwd,2024-07-08,,Technician A,2025-12-10 13:49:04
+79,TCK-3HAV8XEI,Medium,Resolved,Security,Issue related to Hardware,Detailed ticket description AqUvHnvZbuOWujwWieGb,2023-03-15,2023-03-16,Technician A,2025-12-10 13:49:04
+80,TCK-1M0B6WLI,Critical,In Progress,Hardware,Issue related to Access Request,Detailed ticket description joawwFBJdHPUhgBfBjOm,2024-10-20,2024-11-16,IT Support 1,2025-12-10 13:49:04
+81,TCK-GABW8P7O,Critical,Resolved,Other,Issue related to Other,Detailed ticket description QknOmgIjrqckJCuontzr,2024-10-11,2024-11-05,Technician B,2025-12-10 13:49:04
+82,TCK-EVJOGIIM,Medium,Resolved,Network,Issue related to Network,Detailed ticket description nAQCijilLrbhWsmLPgyI,2023-02-11,2023-03-12,Technician A,2025-12-10 13:49:04
+83,TCK-VSJ6TT7D,Low,In Progress,Access Request,Issue related to Other,Detailed ticket description DYUTdSyKKxhpVMsIEdye,2024-01-14,2024-01-15,IT Support 2,2025-12-10 13:49:04
+84,TCK-02NN1SMD,Critical,Closed,Network,Issue related to Software,Detailed ticket description CYtxZrwtfnUhwWcBYwuY,2024-02-17,,Technician B,2025-12-10 13:49:04
+85,TCK-6GR3DM9E,Critical,Resolved,Hardware,Issue related to Software,Detailed ticket description XGZtNKudpNIqViZIIQes,2023-09-26,2023-10-22,Unassigned,2025-12-10 13:49:04
+86,TCK-1N6YLRQF,Low,Closed,Network,Issue related to Software,Detailed ticket description xnkHghKPbxYDErBwoUox,2024-09-25,2024-10-03,Unassigned,2025-12-10 13:49:04
+87,TCK-X63OV89K,High,In Progress,Access Request,Issue related to Other,Detailed ticket description mIboXCCcztJiJpybktUB,2023-11-01,2023-11-25,Admin,2025-12-10 13:49:04
+88,TCK-BCWZ81M3,Medium,Open,Hardware,Issue related to Hardware,Detailed ticket description FOvIdOiYAPmNcXGxXMiU,2024-05-09,,Technician A,2025-12-10 13:49:04
+89,TCK-ZF9TADNL,High,Closed,Access Request,Issue related to Security,Detailed ticket description yjMYyebvMBilGfYLHLlt,2024-06-13,,Unassigned,2025-12-10 13:49:04
+90,TCK-B3RO6013,High,In Progress,Software,Issue related to Network,Detailed ticket description WAOMhGygsBMFtpocXtRS,2023-05-27,2023-06-14,Unassigned,2025-12-10 13:49:04
+91,TCK-LSLI18OP,Medium,Closed,Security,Issue related to Other,Detailed ticket description RGHqcSgNlNOPyiFlZSjZ,2024-08-01,2024-08-11,Technician B,2025-12-10 13:49:04
+92,TCK-ZNUUO7JM,Low,On Hold,Hardware,Issue related to Hardware,Detailed ticket description qPxxvDBHbuuEVGiTGgUc,2024-07-27,,Technician B,2025-12-10 13:49:04
+93,TCK-3WKYIJJM,Low,Closed,Other,Issue related to Software,Detailed ticket description TZdONiwPGIQOkByKlbID,2023-08-21,2023-09-13,IT Support 2,2025-12-10 13:49:04
+94,TCK-S53RXFE1,Low,On Hold,Hardware,Issue related to Access Request,Detailed ticket description MbihkiIGZVTtzNejZMTW,2024-02-02,,Technician B,2025-12-10 13:49:04
+95,TCK-XRMF7K27,High,Closed,Network,Issue related to Access Request,Detailed ticket description zWDPHsuzfLkoeRCBaEuq,2023-10-03,2023-10-19,Technician B,2025-12-10 13:49:04
+96,TCK-HIQGFFZC,Critical,Closed,Security,Issue related to Software,Detailed ticket description TxzFfuWEaZaqCugBezAq,2023-07-28,2023-08-13,Unassigned,2025-12-10 13:49:04
+97,TCK-CCPHRM1Q,Low,In Progress,Software,Issue related to Security,Detailed ticket description YQsiKIUHoLagTjWMcqpS,2024-05-23,2024-05-26,IT Support 2,2025-12-10 13:49:04
+98,TCK-GIF4G9AF,Medium,Resolved,Access Request,Issue related to Access Request,Detailed ticket description UMwIGMbUbvadZVTynYxf,2024-02-21,2024-03-05,Unassigned,2025-12-10 13:49:04
+99,TCK-426PJ48D,Medium,On Hold,Hardware,Issue related to Other,Detailed ticket description lasiQtDfvVxACYhjFKgd,2023-08-21,2023-09-03,Technician A,2025-12-10 13:49:04
+100,TCK-L5Q9K14J,Critical,In Progress,Software,Issue related to Other,Detailed ticket description qFAVyvZihhNVgVBwldDI,2024-10-29,2024-10-30,Unassigned,2025-12-10 13:49:04
+101,TCK-ER5GCUGF,Medium,In Progress,Software,Issue related to Hardware,Detailed ticket description eibuCEgYdBLyIfnBIrXk,2023-08-23,2023-09-21,IT Support 1,2025-12-10 13:49:04
+102,TCK-3EIQ64OZ,Medium,On Hold,Network,Issue related to Security,Detailed ticket description cQCjTdpSkJltQwwPRvHR,2023-11-03,2023-11-27,Technician B,2025-12-10 13:49:04
+103,TCK-HTVJEY6M,Critical,In Progress,Other,Issue related to Hardware,Detailed ticket description dtavaITiFAPzbbeuFSzE,2023-04-30,,IT Support 2,2025-12-10 13:49:04
+104,TCK-B4ONEEVP,Medium,Closed,Hardware,Issue related to Other,Detailed ticket description VoCAHXgGuaERxWpDuQPS,2023-12-17,,Admin,2025-12-10 13:49:04
+105,TCK-PHRQWOAS,High,In Progress,Security,Issue related to Software,Detailed ticket description uUBnZCOwVtWeGycESpee,2023-12-31,2024-01-03,Technician A,2025-12-10 13:49:04
+106,TCK-3LKE9WXX,Critical,Open,Network,Issue related to Hardware,Detailed ticket description rwqxfCHuhZgTWxDMbYOv,2023-11-16,2023-12-14,Unassigned,2025-12-10 13:49:04
+107,TCK-NTVBWBSG,Medium,On Hold,Other,Issue related to Network,Detailed ticket description yZcAQKNnBgQMMYGiGNIO,2024-02-21,2024-03-21,Technician A,2025-12-10 13:49:04
+108,TCK-RJ8U65TS,Low,On Hold,Network,Issue related to Security,Detailed ticket description xldSWYwEIJIDkunCagnb,2023-11-23,2023-12-11,Technician B,2025-12-10 13:49:04
+109,TCK-K18MN9A7,High,Open,Network,Issue related to Security,Detailed ticket description gEmrMXWVQBaCEfzgeNbJ,2024-03-23,2024-04-03,Unassigned,2025-12-10 13:49:04
+110,TCK-Z2J1AY4P,Medium,Closed,Security,Issue related to Software,Detailed ticket description HvYKpfFDXEfPdTEwjOSi,2024-06-02,2024-06-24,Admin,2025-12-10 13:49:04
+111,TCK-F1ACIZYD,Medium,In Progress,Software,Issue related to Software,Detailed ticket description OYcvZtrbnBiWPolVgLII,2023-08-20,,IT Support 1,2025-12-10 13:49:04
+112,TCK-KD5PLSZ9,Critical,On Hold,Access Request,Issue related to Security,Detailed ticket description jwtiJZWvaoSuuJCXtIwR,2023-03-22,2023-03-31,Admin,2025-12-10 13:49:04
+113,TCK-M90CARDU,Critical,On Hold,Access Request,Issue related to Software,Detailed ticket description kntUZvsMaNGohVoUnalz,2023-07-17,2023-08-16,IT Support 1,2025-12-10 13:49:04
+114,TCK-5TXDUIQL,Low,Resolved,Security,Issue related to Security,Detailed ticket description fnFLkGFfcFcjuJNRDAbf,2023-08-16,2023-08-29,Technician A,2025-12-10 13:49:04
+115,TCK-2NSTXTXT,Low,On Hold,Software,Issue related to Network,Detailed ticket description tlLfGTNKTzjTXmTMiIYj,2023-10-02,2023-10-28,Technician B,2025-12-10 13:49:04
+116,TCK-2OF4XIU8,Critical,On Hold,Hardware,Issue related to Software,Detailed ticket description QEkbcUxynpLJlruwuzNJ,2024-08-31,2024-09-09,IT Support 1,2025-12-10 13:49:04
+117,TCK-2D5DG8PC,Low,Open,Other,Issue related to Hardware,Detailed ticket description aYQnWOclnoWXHweByoGA,2024-04-06,2024-04-08,IT Support 2,2025-12-10 13:49:04
+118,TCK-RM653ZZL,Low,Open,Access Request,Issue related to Network,Detailed ticket description GUNpoHgnXCACmIsNiiTC,2024-07-29,2024-08-25,Unassigned,2025-12-10 13:49:04
+119,TCK-ZLMLDVF1,Low,Open,Access Request,Issue related to Hardware,Detailed ticket description DbLOITZVdlCcLcMxGUih,2024-04-23,2024-05-20,IT Support 1,2025-12-10 13:49:04
+120,TCK-CLZCJ6W4,Medium,Open,Access Request,Issue related to Access Request,Detailed ticket description yvaPxblhFyvhMzMPshMV,2024-04-16,,IT Support 1,2025-12-10 13:49:04
+121,TCK-P0E8NNY0,Low,In Progress,Access Request,Issue related to Security,Detailed ticket description tGYvIfKfXjtIkCSiMfNs,2023-12-15,2024-01-10,Technician A,2025-12-10 13:49:04
+122,TCK-79X28PKT,Critical,Open,Network,Issue related to Software,Detailed ticket description AucUnlDGbqzfefoomHeZ,2024-04-12,,Technician A,2025-12-10 13:49:04
+123,TCK-6EL4BLUT,Medium,Open,Security,Issue related to Access Request,Detailed ticket description lqOJTdEoBPgfYuljQYYa,2024-08-06,2024-08-14,IT Support 2,2025-12-10 13:49:04
+124,TCK-RVBZDSU0,Low,In Progress,Security,Issue related to Network,Detailed ticket description rKCnmlkeYrSYxDaHNFDG,2023-06-16,2023-07-07,IT Support 1,2025-12-10 13:49:04
+125,TCK-H6F67W7V,Low,Closed,Access Request,Issue related to Access Request,Detailed ticket description ggjajpIvCcdKbTCNxXxp,2024-05-23,2024-06-18,Technician B,2025-12-10 13:49:04
+126,TCK-9GNNVZUA,High,On Hold,Security,Issue related to Network,Detailed ticket description tpXJftsQKuyNLRySvRnd,2024-03-15,2024-03-18,IT Support 2,2025-12-10 13:49:04
+127,TCK-1ZOULX1P,Medium,On Hold,Network,Issue related to Other,Detailed ticket description ZhWgaBsEADjxfzKgeGEB,2024-01-08,2024-02-04,Technician B,2025-12-10 13:49:04
+128,TCK-RJ0C9IJX,Medium,On Hold,Access Request,Issue related to Hardware,Detailed ticket description tlcmrFxYygUUEeVCyJAn,2023-06-03,2023-06-14,IT Support 2,2025-12-10 13:49:04
+129,TCK-EFD2L1KZ,Critical,Resolved,Security,Issue related to Software,Detailed ticket description VHZWkHYvUWIaxyyOqeHD,2023-01-20,2023-02-17,Unassigned,2025-12-10 13:49:04
+130,TCK-6WIU038P,Medium,In Progress,Hardware,Issue related to Other,Detailed ticket description GDMFQbWKwcfixFWkcDAo,2024-01-14,2024-01-18,IT Support 2,2025-12-10 13:49:04
+131,TCK-P3ITTIBL,High,In Progress,Other,Issue related to Software,Detailed ticket description QSZmhBDEqKHyBNSDmkeN,2024-11-05,2024-11-23,Admin,2025-12-10 13:49:04
+132,TCK-IW06K3H9,Critical,Open,Security,Issue related to Access Request,Detailed ticket description kduNysxLSyQTPxXLVAhM,2024-03-09,,Admin,2025-12-10 13:49:04
+133,TCK-60DKNOG4,Critical,On Hold,Network,Issue related to Hardware,Detailed ticket description oSQwefsNVsUTMfqkKIVy,2024-11-09,,IT Support 2,2025-12-10 13:49:04
+134,TCK-N4UOW19W,Medium,Open,Security,Issue related to Network,Detailed ticket description CuYCzreYTyAZxyVSroeQ,2023-01-12,2023-02-03,IT Support 1,2025-12-10 13:49:04
+135,TCK-UKCZG2GQ,Critical,Closed,Software,Issue related to Access Request,Detailed ticket description ssqYIyNZgpTatiiYzenG,2024-11-19,2024-12-09,Unassigned,2025-12-10 13:49:04
+136,TCK-U1VX85WX,Low,On Hold,Other,Issue related to Other,Detailed ticket description gOIVCuYYuiIFMnNYMloW,2024-11-21,2024-12-08,IT Support 2,2025-12-10 13:49:04
+137,TCK-OUVYQ4EO,Medium,Open,Access Request,Issue related to Security,Detailed ticket description LPFXjVrthrAcclWFBEqc,2024-01-17,2024-02-13,IT Support 1,2025-12-10 13:49:04
+138,TCK-H6N6MPP4,Medium,In Progress,Network,Issue related to Software,Detailed ticket description RuRwcQpQYgpptIPJMAcD,2024-11-22,2024-12-19,Admin,2025-12-10 13:49:04
+139,TCK-Y1QJ6XFO,Low,In Progress,Software,Issue related to Network,Detailed ticket description xynLuFbCGKhEsYQKWhqt,2024-07-22,,IT Support 1,2025-12-10 13:49:04
+140,TCK-Q2FAWC5V,Low,On Hold,Security,Issue related to Software,Detailed ticket description djPEWOvIFrJpiYeKhNPa,2024-07-14,2024-08-13,Unassigned,2025-12-10 13:49:04
+141,TCK-46N4M5VC,High,Closed,Access Request,Issue related to Hardware,Detailed ticket description EespnWkqyjckFEQGxsBS,2023-11-29,2023-12-23,IT Support 1,2025-12-10 13:49:04
+142,TCK-1Y221KQX,Medium,Resolved,Network,Issue related to Other,Detailed ticket description KjdPjEcDibTXBZbGLCHw,2024-09-28,2024-10-14,Unassigned,2025-12-10 13:49:04
+143,TCK-218ER9BD,High,On Hold,Network,Issue related to Network,Detailed ticket description RSeCDZbzsOuORJKslYwT,2024-02-03,,Technician B,2025-12-10 13:49:04
+144,TCK-2H3KI3AP,Medium,Open,Other,Issue related to Security,Detailed ticket description vBdcVLciLaLcznLpgFKs,2024-04-23,2024-05-13,IT Support 1,2025-12-10 13:49:04
+145,TCK-BGPMM0AN,Critical,Resolved,Network,Issue related to Other,Detailed ticket description TtaehQMagzDVZqsHcxxB,2024-01-05,2024-01-08,IT Support 1,2025-12-10 13:49:04
+146,TCK-D90MU3AF,Critical,On Hold,Software,Issue related to Security,Detailed ticket description vSbKtLlsrGIPvpaaxFnA,2024-04-27,2024-05-08,Unassigned,2025-12-10 13:49:04
+147,TCK-Y0VTCH5T,Low,Resolved,Hardware,Issue related to Security,Detailed ticket description fppuKCAmEZSXBMHCEMpJ,2023-05-06,2023-06-04,IT Support 2,2025-12-10 13:49:04
+148,TCK-1E24HIPR,Medium,Closed,Network,Issue related to Software,Detailed ticket description HImnosTeUDcUbDiPqWJc,2024-07-27,,Technician A,2025-12-10 13:49:04
+149,TCK-QJJLDMRB,Low,In Progress,Hardware,Issue related to Security,Detailed ticket description OvmeQvhJEiUiObUhQtJK,2023-04-07,2023-04-17,Admin,2025-12-10 13:49:04
+150,TCK-DV1GJGYN,Medium,Resolved,Security,Issue related to Security,Detailed ticket description BKVvBnltHHMUOrFaNWIu,2024-02-20,,Unassigned,2025-12-10 13:49:04
+151,TCK-3ME27X6V,Low,Resolved,Other,Issue related to Access Request,Detailed ticket description pdwdcDaTbWZWhNWtQcxt,2023-02-15,2023-03-11,IT Support 1,2025-12-10 13:49:04
+152,TCK-AW15R9VN,Low,Resolved,Software,Issue related to Hardware,Detailed ticket description MIVEuNAhYgNtZHuDCMbo,2023-04-07,2023-04-28,Admin,2025-12-10 13:49:04
+153,TCK-DY0B5OJ5,High,Closed,Hardware,Issue related to Hardware,Detailed ticket description gSvSjsnlsTOaAVBzyOGn,2024-10-19,2024-11-10,Admin,2025-12-10 13:49:04
+154,TCK-SDXJORPD,Medium,On Hold,Access Request,Issue related to Hardware,Detailed ticket description dNpYGkzJZOxDyodHXADG,2024-05-09,,Technician A,2025-12-10 13:49:04
+155,TCK-GRDMX1GJ,High,Open,Network,Issue related to Access Request,Detailed ticket description evAkKDQNErwLzyZNXPXk,2024-09-29,2024-10-14,IT Support 1,2025-12-10 13:49:04
+156,TCK-CSAOUOC0,High,On Hold,Hardware,Issue related to Security,Detailed ticket description suOZscTftWzVebpVTHcH,2023-03-30,2023-04-27,Unassigned,2025-12-10 13:49:04
+157,TCK-ELRXX33S,Low,In Progress,Hardware,Issue related to Security,Detailed ticket description cIHyHXXukfJhlUPMJjXi,2023-09-16,2023-10-07,IT Support 2,2025-12-10 13:49:04
+158,TCK-H14B67ZO,High,On Hold,Network,Issue related to Security,Detailed ticket description CYwiejDtTEKqNfEYfoYz,2024-06-30,,Technician A,2025-12-10 13:49:04
+159,TCK-9LQ02ZGR,High,Closed,Access Request,Issue related to Security,Detailed ticket description QUvPmXjDeFgDgyuswhlO,2023-10-12,2023-11-02,Technician A,2025-12-10 13:49:04
+160,TCK-L1YN0HFP,Critical,Closed,Access Request,Issue related to Software,Detailed ticket description qtrefhSYjTYadWhzRCxN,2024-07-07,2024-08-03,Admin,2025-12-10 13:49:04
+161,TCK-BT1RBUHY,Medium,Open,Security,Issue related to Software,Detailed ticket description QnyGQiWJaPoAnNadjncJ,2024-09-05,2024-10-05,Admin,2025-12-10 13:49:04
+162,TCK-TR0HKL2Z,Medium,Resolved,Software,Issue related to Other,Detailed ticket description qWraOwbYLXBCgPHAhmjp,2024-09-26,,Unassigned,2025-12-10 13:49:04
+163,TCK-W9CNRC2K,High,On Hold,Access Request,Issue related to Other,Detailed ticket description WFMXxuzSorMfhakNICGR,2024-11-02,,Admin,2025-12-10 13:49:04
+164,TCK-SZH9O84Y,High,Open,Other,Issue related to Other,Detailed ticket description EIntruqFXSEeGktjJUuT,2023-06-25,2023-07-23,Technician B,2025-12-10 13:49:04
+165,TCK-FJ5I7S6R,Low,Open,Access Request,Issue related to Network,Detailed ticket description pHEBOrtAPIjOqpPhnJst,2023-01-11,2023-02-07,Technician B,2025-12-10 13:49:04
+166,TCK-3TTS3LR9,Medium,On Hold,Access Request,Issue related to Access Request,Detailed ticket description JzZIhYuyCcKJrNgQtpTe,2023-09-22,2023-10-11,Technician A,2025-12-10 13:49:04
+167,TCK-78Z7D5XM,Low,Closed,Hardware,Issue related to Access Request,Detailed ticket description OnOyXKgOTcOsiDvTfXnu,2023-05-18,,Technician A,2025-12-10 13:49:04
+168,TCK-XO8RKDOX,Medium,Closed,Software,Issue related to Software,Detailed ticket description PElpxvEIlRmiCSNEVMXE,2024-05-07,2024-05-23,Admin,2025-12-10 13:49:04
+169,TCK-9T364MIS,Low,In Progress,Hardware,Issue related to Software,Detailed ticket description rGCoYXZXdrjTVMbyLuyV,2023-02-13,2023-02-25,IT Support 1,2025-12-10 13:49:04
+170,TCK-V4DHJ9FP,Medium,On Hold,Security,Issue related to Network,Detailed ticket description WhWpBOXOEaIrJgAVcZNv,2024-09-27,2024-10-13,IT Support 2,2025-12-10 13:49:04
+171,TCK-7VQ6X1I3,Low,Resolved,Network,Issue related to Security,Detailed ticket description srtAAjwasqTgAruCwLyV,2024-10-13,,Admin,2025-12-10 13:49:04
+172,TCK-Q3KC2FOQ,Low,Closed,Security,Issue related to Other,Detailed ticket description HlxPpGiHwCqOHLKLSxTY,2023-08-12,,Technician A,2025-12-10 13:49:04
+173,TCK-DYR2UZYU,Low,Resolved,Access Request,Issue related to Hardware,Detailed ticket description PQtVDwVynpLImMdsQkPd,2023-08-17,2023-09-05,Technician B,2025-12-10 13:49:04
+174,TCK-Y4FK0ZN7,Medium,Resolved,Access Request,Issue related to Security,Detailed ticket description ndfcfLTHxIEwFlOokxyh,2024-11-18,2024-12-15,Technician B,2025-12-10 13:49:04
+175,TCK-PXQKTL7A,Low,Closed,Access Request,Issue related to Other,Detailed ticket description ujvVNozfhbLhKlriXShS,2023-10-14,2023-10-29,Unassigned,2025-12-10 13:49:04
+176,TCK-NXPMW4SK,Medium,Open,Other,Issue related to Other,Detailed ticket description flwVMLbKUjCoxceoizsy,2023-10-26,2023-10-31,Technician B,2025-12-10 13:49:04
+177,TCK-27YPPY5B,Low,On Hold,Access Request,Issue related to Other,Detailed ticket description gACdjADcNLTPNwMVTdgT,2024-10-12,2024-10-16,IT Support 1,2025-12-10 13:49:04
+178,TCK-PN8VDWJ5,Critical,Closed,Network,Issue related to Software,Detailed ticket description zQpRjloGmDxqJlNCFByc,2024-09-03,2024-09-04,Technician A,2025-12-10 13:49:04
+179,TCK-M33LPQUK,Medium,In Progress,Security,Issue related to Network,Detailed ticket description nHsIIMguMNgOoDoaPsOb,2024-01-19,2024-02-01,Admin,2025-12-10 13:49:04
+180,TCK-ANIXWCT5,Medium,Resolved,Hardware,Issue related to Network,Detailed ticket description qHWhGvflVFLYcTmgzrsv,2024-08-16,2024-08-22,IT Support 2,2025-12-10 13:49:04
+181,TCK-M1NVP3LB,High,Open,Network,Issue related to Hardware,Detailed ticket description iaeTTWWrCWDcdeHMhQBD,2024-03-06,2024-03-23,Technician B,2025-12-10 13:49:04
+182,TCK-BU2HX2KK,Critical,In Progress,Access Request,Issue related to Security,Detailed ticket description fSMHXSnmORxRFnNeiHoF,2023-06-20,2023-07-09,Unassigned,2025-12-10 13:49:04
+183,TCK-C2BD5SFE,Low,In Progress,Access Request,Issue related to Security,Detailed ticket description uUcuOAMHTzDcfuQjfUMW,2023-03-12,2023-03-15,Admin,2025-12-10 13:49:04
+184,TCK-VK43UGYL,Critical,On Hold,Access Request,Issue related to Security,Detailed ticket description wAmsOYXvGfMBmcclFkVp,2023-11-02,2023-11-13,Admin,2025-12-10 13:49:04
+185,TCK-W8KHJ3EU,Low,Open,Access Request,Issue related to Network,Detailed ticket description gybrSDHGlrlIujJIvlCN,2023-12-29,,Technician B,2025-12-10 13:49:04
+186,TCK-7Q3IISA6,High,Open,Hardware,Issue related to Other,Detailed ticket description vHvGckoFGrXTQxNlbmQf,2023-04-17,2023-05-03,IT Support 1,2025-12-10 13:49:04
+187,TCK-MT7GPGQ9,Low,In Progress,Software,Issue related to Access Request,Detailed ticket description IXmARDXOxxWhJXXPQHfy,2023-06-15,,IT Support 2,2025-12-10 13:49:04
+188,TCK-EVX718ER,Critical,In Progress,Network,Issue related to Access Request,Detailed ticket description WitRfEVbDlJzdaKpaZlk,2024-07-30,2024-08-17,Technician A,2025-12-10 13:49:04
+189,TCK-PPBPBSFC,Critical,Open,Hardware,Issue related to Security,Detailed ticket description oXDMNzJndVdUvMPUybwl,2024-02-05,2024-02-13,IT Support 1,2025-12-10 13:49:04
+190,TCK-X32AUT60,Medium,In Progress,Other,Issue related to Security,Detailed ticket description kxatHOIkEPsdiPQFcmpq,2024-06-06,2024-06-11,Admin,2025-12-10 13:49:04
+191,TCK-48DADMVE,Low,On Hold,Network,Issue related to Access Request,Detailed ticket description DMOZBPjTFlvwobrHPIIi,2024-06-25,2024-07-08,IT Support 1,2025-12-10 13:49:04
+192,TCK-2X41WRSC,Low,In Progress,Security,Issue related to Hardware,Detailed ticket description EaUlWnyRNAlZmgLwpFxL,2024-03-06,2024-03-17,Unassigned,2025-12-10 13:49:04
+193,TCK-642YOMC2,Critical,Closed,Software,Issue related to Hardware,Detailed ticket description wtUKPFIMPykenOQtEyda,2023-04-25,2023-05-06,Technician B,2025-12-10 13:49:04
+194,TCK-55GG90L0,Critical,Closed,Security,Issue related to Other,Detailed ticket description dInRyulKdcNZMkTaPvlK,2024-01-01,,Unassigned,2025-12-10 13:49:04
+195,TCK-DLJPH099,Critical,In Progress,Network,Issue related to Security,Detailed ticket description smopEQbkSdChYOASyhWM,2024-08-31,,IT Support 1,2025-12-10 13:49:04
+196,TCK-7K2K6625,High,Closed,Software,Issue related to Software,Detailed ticket description IkfDJrBZLQzUmqwpmKiw,2023-07-06,2023-08-02,Admin,2025-12-10 13:49:04
+197,TCK-N6927DKM,Medium,On Hold,Access Request,Issue related to Hardware,Detailed ticket description soZkOepeQxUNxNNpJycg,2024-06-13,,Unassigned,2025-12-10 13:49:04
+198,TCK-9ZEP39IE,Critical,Closed,Access Request,Issue related to Other,Detailed ticket description HeCTUfRTuuAZTSEWVAkH,2024-11-29,2024-11-30,Admin,2025-12-10 13:49:04
+199,TCK-XWIFY93U,Low,On Hold,Other,Issue related to Software,Detailed ticket description xIyRmLVvelPtVwDqdYsR,2024-05-02,2024-05-16,Technician A,2025-12-10 13:49:04
+200,TCK-2I9J6070,Critical,On Hold,Network,Issue related to Software,Detailed ticket description gyvJHbNEdqVihwQvBJEz,2024-08-20,2024-08-21,Unassigned,2025-12-10 13:49:04
+201,TCK-HXQRLEXN,Medium,Open,Access Request,Issue related to Security,Detailed ticket description zzIJFfBbmNqLUCmFcxWX,2024-04-28,2024-05-16,Technician B,2025-12-10 13:49:04
+202,TCK-H7ZY3KT4,Critical,In Progress,Software,Issue related to Security,Detailed ticket description RUedvdVdIRIApfMintQo,2023-02-05,2023-03-04,IT Support 2,2025-12-10 13:49:04
+203,TCK-ODJJ2NI4,High,Open,Software,Issue related to Security,Detailed ticket description QLmpqSKphiTGaPRvzYQA,2024-10-24,2024-11-22,Technician B,2025-12-10 13:49:04
+204,TCK-971A8GLR,Medium,Open,Security,Issue related to Security,Detailed ticket description sOzOWKsYhxMDNNepZnwg,2024-02-16,2024-02-27,IT Support 2,2025-12-10 13:49:04
+205,TCK-DY88P2OG,Medium,Open,Software,Issue related to Software,Detailed ticket description CBuzOeqnLVYaaSqKrrYf,2024-03-17,2024-03-29,IT Support 1,2025-12-10 13:49:04
+206,TCK-6Q23AGTD,Low,On Hold,Software,Issue related to Network,Detailed ticket description VnqqJahTZoQddFIgqcxx,2023-06-23,2023-07-01,Technician A,2025-12-10 13:49:04
+207,TCK-FV4SBBT2,Low,In Progress,Network,Issue related to Security,Detailed ticket description wAKELPQnueHfvKxILMyw,2023-04-16,2023-05-07,Unassigned,2025-12-10 13:49:04
+208,TCK-ULTLWONK,Low,Resolved,Access Request,Issue related to Other,Detailed ticket description QNUvYxuujzlTuhGJZVox,2024-09-11,,IT Support 1,2025-12-10 13:49:04
+209,TCK-CB28QMUK,Medium,Closed,Access Request,Issue related to Access Request,Detailed ticket description mJLjrdkBoiUeaJIdsMUF,2024-07-30,2024-08-04,Unassigned,2025-12-10 13:49:04
+210,TCK-LYZB005Z,Critical,Resolved,Network,Issue related to Security,Detailed ticket description zVXkXiXlqLfqRbrEoePT,2024-08-12,2024-08-23,Admin,2025-12-10 13:49:04
+211,TCK-3NZEEF6W,Critical,Closed,Network,Issue related to Hardware,Detailed ticket description LESWkXqCsYinAguIXQCy,2024-09-25,,Technician A,2025-12-10 13:49:04
+212,TCK-E3S1T7KY,High,Resolved,Access Request,Issue related to Other,Detailed ticket description GJsHsohAxIjaQNKXOGVd,2023-03-12,2023-04-06,Technician A,2025-12-10 13:49:04
+213,TCK-9X5U0ET8,Critical,On Hold,Software,Issue related to Security,Detailed ticket description zHIWDuzlETGVbFzussdd,2024-04-11,,Unassigned,2025-12-10 13:49:04
+214,TCK-EJ3TMQ5P,High,In Progress,Hardware,Issue related to Security,Detailed ticket description rEvgVxCvrBtyUtBwUKTX,2024-03-22,2024-04-05,Unassigned,2025-12-10 13:49:04
+215,TCK-3NQWSN2E,High,On Hold,Security,Issue related to Software,Detailed ticket description tRJxPtCTEfQjcjuqcVUQ,2024-05-01,,IT Support 1,2025-12-10 13:49:04
+216,TCK-12HKNM29,Low,In Progress,Hardware,Issue related to Security,Detailed ticket description HpiIPIWUJbnANZqTzbau,2024-04-28,,Admin,2025-12-10 13:49:04
+217,TCK-UWARGV2R,Low,Resolved,Network,Issue related to Network,Detailed ticket description BsnircJQikzeXCWtAcrc,2023-10-22,2023-11-01,IT Support 1,2025-12-10 13:49:04
+218,TCK-6NGIKQFV,High,Open,Network,Issue related to Access Request,Detailed ticket description cfmlsfQjrwQMUDEdOYeq,2023-07-15,2023-07-20,Unassigned,2025-12-10 13:49:04
+219,TCK-A0KT4JC8,Low,On Hold,Security,Issue related to Access Request,Detailed ticket description HAedUBnOjqOCWhWbyWJw,2023-07-11,2023-07-13,Technician B,2025-12-10 13:49:04
+220,TCK-6ZHMMJZK,Medium,Closed,Network,Issue related to Network,Detailed ticket description fQuNpsPmYmwxqVaGUfqS,2024-01-26,2024-02-16,Technician A,2025-12-10 13:49:04
+221,TCK-EOXD23MS,Medium,Closed,Software,Issue related to Software,Detailed ticket description yJEuodJuKedEUnWDLqhv,2024-06-14,2024-06-27,IT Support 1,2025-12-10 13:49:04
+222,TCK-VEVN9H0E,Critical,Resolved,Security,Issue related to Network,Detailed ticket description pIxliFFJuTkPqKJQRWxv,2024-11-09,2024-12-02,Technician B,2025-12-10 13:49:04
+223,TCK-PQJK5LB9,Low,In Progress,Network,Issue related to Security,Detailed ticket description tbXpkwmaqsqCElUlHSdg,2024-04-19,2024-05-05,Technician B,2025-12-10 13:49:04
+224,TCK-NWG2BYHV,Low,Closed,Network,Issue related to Security,Detailed ticket description fVLRxvidmxouSIbdlKte,2024-07-08,2024-07-16,Technician A,2025-12-10 13:49:04
+225,TCK-1UNSFQ4K,High,On Hold,Access Request,Issue related to Software,Detailed ticket description ozeDTbgmmSborOuSCFcn,2024-01-19,2024-02-04,Admin,2025-12-10 13:49:04
+226,TCK-826E7D5T,High,On Hold,Hardware,Issue related to Access Request,Detailed ticket description WJFSRUZnhRpSuDIKtmYz,2023-10-13,2023-10-19,Technician A,2025-12-10 13:49:04
+227,TCK-M1B2LKJX,Critical,On Hold,Software,Issue related to Security,Detailed ticket description TtnZsPLyutrVVJPPneTX,2023-10-20,,Technician A,2025-12-10 13:49:04
+228,TCK-RGVA647B,Critical,Resolved,Security,Issue related to Network,Detailed ticket description JCjlXUsqMrixxqufRGOF,2024-04-02,2024-04-29,Unassigned,2025-12-10 13:49:04
+229,TCK-OMPCZV6D,Critical,On Hold,Security,Issue related to Software,Detailed ticket description LTOYWSYfovYlbaPNCKhq,2024-04-06,,Admin,2025-12-10 13:49:04
+230,TCK-PVB6APSY,Medium,In Progress,Network,Issue related to Security,Detailed ticket description VRKyYXFpXAQrFUkmLatw,2023-10-03,2023-10-05,IT Support 1,2025-12-10 13:49:04
+231,TCK-VCXVH6FT,Critical,Closed,Hardware,Issue related to Network,Detailed ticket description UOwluiFLacKSfuAQIZpB,2024-09-06,,Technician A,2025-12-10 13:49:04
+232,TCK-LRUF1BHB,Critical,On Hold,Network,Issue related to Network,Detailed ticket description ByzDWKSJGbueTLFBOQxT,2023-10-19,2023-10-30,Technician B,2025-12-10 13:49:04
+233,TCK-TQ3Q2ZF4,High,In Progress,Software,Issue related to Hardware,Detailed ticket description FcFCnvSkwJoXwbqqckLg,2024-11-07,2024-12-07,Unassigned,2025-12-10 13:49:04
+234,TCK-ZQCHUG3N,High,Resolved,Software,Issue related to Software,Detailed ticket description fBGEAxFygSQpSCYanKhs,2024-07-25,,Admin,2025-12-10 13:49:04
+235,TCK-YCV73EW5,Medium,Closed,Software,Issue related to Other,Detailed ticket description vcvTrSEBqSHseayqqJso,2023-04-05,2023-04-27,Unassigned,2025-12-10 13:49:04
+236,TCK-8BK6AHPE,Critical,Resolved,Network,Issue related to Access Request,Detailed ticket description VQAAYwwYhVxrKRBjwnnB,2024-04-10,2024-04-20,Technician A,2025-12-10 13:49:04
+237,TCK-2UA9S6MU,Low,On Hold,Access Request,Issue related to Software,Detailed ticket description LlvfmgUHpMbgNkXrfxRb,2024-05-28,2024-06-15,Technician B,2025-12-10 13:49:04
+238,TCK-0BTQXUO1,High,Closed,Software,Issue related to Other,Detailed ticket description otOswYAWIMruROfcfQuy,2023-05-31,,IT Support 1,2025-12-10 13:49:04
+239,TCK-VQV7U4WX,High,Resolved,Other,Issue related to Access Request,Detailed ticket description EzQqKahdYwMHMiUGlbjM,2023-09-09,2023-09-13,IT Support 2,2025-12-10 13:49:04
+240,TCK-HI0XNS4V,High,In Progress,Network,Issue related to Software,Detailed ticket description LBQWrTrMGcsdNpjoZchK,2024-05-22,2024-06-10,IT Support 1,2025-12-10 13:49:04
+241,TCK-NKV7LPAD,Medium,Open,Hardware,Issue related to Hardware,Detailed ticket description PsieoxKoCjmcAPZnBsJs,2024-04-05,2024-05-05,IT Support 2,2025-12-10 13:49:04
+242,TCK-NILB89RI,Critical,On Hold,Other,Issue related to Hardware,Detailed ticket description SXuQJtZhdiCWYJQWgWTl,2024-01-11,2024-02-03,IT Support 1,2025-12-10 13:49:04
+243,TCK-4YNXE4Q7,Critical,Open,Hardware,Issue related to Other,Detailed ticket description LypREerCpxJHYKbAsCdU,2024-03-15,,Admin,2025-12-10 13:49:04
+244,TCK-YN540BNK,Medium,Open,Network,Issue related to Network,Detailed ticket description sZXWruxlfhHwzdCYbjQd,2023-04-21,2023-04-24,IT Support 2,2025-12-10 13:49:04
+245,TCK-0U1703WT,Medium,Resolved,Other,Issue related to Other,Detailed ticket description uGGzCtBxIyuzlIJSktai,2023-12-17,2024-01-12,IT Support 2,2025-12-10 13:49:04
+246,TCK-V1Q1L0A8,Medium,In Progress,Other,Issue related to Other,Detailed ticket description BNbpdPEHosSwWRhAigNs,2024-06-27,2024-07-07,Technician A,2025-12-10 13:49:04
+247,TCK-9HQ69S8I,Critical,Open,Other,Issue related to Network,Detailed ticket description EvOVWqBnahfpmggNEwvv,2023-11-12,,IT Support 2,2025-12-10 13:49:04
+248,TCK-YSG2J3GR,Medium,On Hold,Access Request,Issue related to Hardware,Detailed ticket description KYnPBfowovyYgoQiUqer,2024-09-23,2024-10-08,IT Support 2,2025-12-10 13:49:04
+249,TCK-GQKOPF5G,Low,Open,Access Request,Issue related to Other,Detailed ticket description RgeHpWZbpmPrOfuSDZTZ,2023-05-28,2023-06-08,IT Support 2,2025-12-10 13:49:04
+250,TCK-LAINE9DF,Medium,Resolved,Other,Issue related to Hardware,Detailed ticket description ZrzKplDoYQdZWkkwlGlE,2023-06-01,,Technician A,2025-12-10 13:49:04
+251,TCK-CJRXT4IG,Critical,On Hold,Other,Issue related to Software,Detailed ticket description fCZgMnZcpxoknedcddKb,2024-02-27,2024-03-24,Unassigned,2025-12-10 13:49:04
+252,TCK-3Y1BIDQT,Critical,Open,Other,Issue related to Security,Detailed ticket description rjahsNwrgfoahmtBtmyh,2024-04-03,2024-05-01,Technician B,2025-12-10 13:49:04
+253,TCK-6RCLR5DV,High,Open,Network,Issue related to Hardware,Detailed ticket description exWSkPsPAobIVZeNxsUq,2024-06-14,2024-07-01,Technician A,2025-12-10 13:49:04
+254,TCK-XETYQ39M,Low,Resolved,Hardware,Issue related to Security,Detailed ticket description SLpuOBiszVkeOUqngTxg,2024-06-08,2024-07-01,Technician A,2025-12-10 13:49:04
+255,TCK-42JA9EU2,Low,In Progress,Security,Issue related to Hardware,Detailed ticket description eejFhHZEOdSNNlxkcUKw,2023-12-14,2023-12-16,Technician B,2025-12-10 13:49:04
+256,TCK-E1QK3EAD,Medium,In Progress,Software,Issue related to Other,Detailed ticket description pFjllRSYUVXxnxlydFNY,2024-05-27,2024-06-06,Technician B,2025-12-10 13:49:04
+257,TCK-TSPPFI9E,High,Open,Software,Issue related to Security,Detailed ticket description mxCYMohdNpJmfHPSKAqF,2023-09-05,2023-09-29,Admin,2025-12-10 13:49:04
+258,TCK-1YVANNIX,Critical,On Hold,Network,Issue related to Network,Detailed ticket description oOYBDxVVsBfvoPJHctjA,2023-06-20,2023-07-13,IT Support 2,2025-12-10 13:49:04
+259,TCK-0TNF9JO6,Low,Closed,Access Request,Issue related to Network,Detailed ticket description aiOjrvfcJSaRjgvAGTWH,2024-03-03,,Unassigned,2025-12-10 13:49:04
+260,TCK-RXXO8XMY,Low,Closed,Security,Issue related to Network,Detailed ticket description TSlAKfmiCfALXKsgALrx,2024-08-26,2024-09-17,IT Support 2,2025-12-10 13:49:04
+261,TCK-VBPQW3DG,Low,On Hold,Other,Issue related to Network,Detailed ticket description MWLcjCowScpaNDSGdGHl,2024-10-05,,IT Support 2,2025-12-10 13:49:04
+262,TCK-8AUZV07M,Low,Open,Network,Issue related to Other,Detailed ticket description iPcxVowhmjzDHVkFhAlF,2023-01-10,2023-02-07,Technician B,2025-12-10 13:49:04
+263,TCK-NU4KOU3N,High,In Progress,Access Request,Issue related to Network,Detailed ticket description KBNJwSZATaynGjPvmLcw,2024-07-24,2024-08-20,IT Support 1,2025-12-10 13:49:04
+264,TCK-S5JYB6VZ,High,On Hold,Software,Issue related to Software,Detailed ticket description SsPwsgVOltIOIZSqREUp,2024-08-20,2024-09-01,Admin,2025-12-10 13:49:04
+265,TCK-RAF8SEXH,Low,Open,Access Request,Issue related to Access Request,Detailed ticket description AiwSHXPOpjaExSFFuvdE,2024-02-24,2024-03-10,Technician A,2025-12-10 13:49:04
+266,TCK-XSV3FC3T,High,Closed,Hardware,Issue related to Network,Detailed ticket description jmHlAOKEBPfbyNryxcMj,2023-06-28,2023-07-08,Technician B,2025-12-10 13:49:04
+267,TCK-GOY1XWPT,High,On Hold,Access Request,Issue related to Other,Detailed ticket description bFupRDSGbrqrpImgGOVu,2024-04-27,2024-05-08,Unassigned,2025-12-10 13:49:04
+268,TCK-3CNSIGPZ,Medium,In Progress,Network,Issue related to Access Request,Detailed ticket description OjmAWJieyfGONPzJcyme,2024-03-07,,Technician A,2025-12-10 13:49:04
+269,TCK-J6KSAUMT,Medium,In Progress,Security,Issue related to Security,Detailed ticket description tYQjxLpgWyORnJFvIZtr,2024-07-30,2024-08-13,Technician A,2025-12-10 13:49:04
+270,TCK-S2PW508B,Low,On Hold,Access Request,Issue related to Security,Detailed ticket description GNpVvfKbqdsZuNdwhAWJ,2024-06-24,2024-07-10,Technician A,2025-12-10 13:49:04
+271,TCK-C714HD49,High,In Progress,Network,Issue related to Other,Detailed ticket description DkiRokNLZaSuSSrbxgDQ,2024-04-10,,IT Support 1,2025-12-10 13:49:04
+272,TCK-3REZ8KJ7,High,Open,Hardware,Issue related to Hardware,Detailed ticket description bfRCYSGnOxnqfjZCiSdw,2024-02-06,2024-02-29,Technician B,2025-12-10 13:49:04
+273,TCK-EOYHZWAQ,Critical,Resolved,Software,Issue related to Network,Detailed ticket description MpgrfYXmrVdtkJPxBoas,2024-04-23,,Technician A,2025-12-10 13:49:04
+274,TCK-YR1T2D0X,Medium,Closed,Access Request,Issue related to Software,Detailed ticket description UTBLEIUQvdeiGjELGldH,2023-05-23,2023-06-03,Technician A,2025-12-10 13:49:04
+275,TCK-Q1ZVDGJ5,Low,Closed,Access Request,Issue related to Other,Detailed ticket description IMPnyYSthSSVFEZPJONl,2024-09-19,2024-10-19,Technician B,2025-12-10 13:49:04
+276,TCK-QLAT69E6,Critical,On Hold,Other,Issue related to Software,Detailed ticket description XqueUrfBBVdMfRttoCgg,2023-01-10,2023-01-27,Admin,2025-12-10 13:49:04
+277,TCK-7POKRGSD,Medium,In Progress,Software,Issue related to Other,Detailed ticket description KeJxfCEWPKTJyfPfFLXp,2024-01-19,2024-01-28,Unassigned,2025-12-10 13:49:04
+278,TCK-HIFM7HDP,High,On Hold,Software,Issue related to Software,Detailed ticket description xRLoiOFlFgNTGkLDgxIM,2024-09-22,,Unassigned,2025-12-10 13:49:04
+279,TCK-MDMA5FNI,Medium,Open,Software,Issue related to Access Request,Detailed ticket description PSBInamqafbuUAQNvoyZ,2023-07-03,2023-07-10,Technician B,2025-12-10 13:49:04
+280,TCK-8QK6CIXQ,Critical,Closed,Other,Issue related to Access Request,Detailed ticket description qeUqJsVjQYQSWRDYmmlo,2024-08-23,2024-09-01,Unassigned,2025-12-10 13:49:04
+281,TCK-BE5J90WN,Low,In Progress,Hardware,Issue related to Other,Detailed ticket description KXPkgpZAzdBNriDjUFxG,2024-10-04,2024-11-03,IT Support 2,2025-12-10 13:49:04
+282,TCK-BM8OQT9X,High,Open,Other,Issue related to Access Request,Detailed ticket description fDPzwuJmWnheNNpIUDWc,2023-08-19,,Unassigned,2025-12-10 13:49:04
+283,TCK-R4ETLQQL,Critical,Resolved,Access Request,Issue related to Network,Detailed ticket description LfTmyuhNYWLwqAIGdgBj,2023-08-05,,Unassigned,2025-12-10 13:49:04
+284,TCK-Q5A783SU,Critical,In Progress,Software,Issue related to Security,Detailed ticket description ASmqXVWvhSyAVGnhSAMx,2023-02-21,2023-03-04,IT Support 1,2025-12-10 13:49:04
+285,TCK-X4PQXWA6,Critical,Closed,Security,Issue related to Access Request,Detailed ticket description tsOkmONndWvNlITWSWlu,2023-02-16,2023-02-24,Admin,2025-12-10 13:49:04
+286,TCK-2WS927EE,High,Open,Software,Issue related to Software,Detailed ticket description wWOwemvVOChIOwAALrsd,2024-07-24,,IT Support 1,2025-12-10 13:49:04
+287,TCK-ULVQ8FV6,Medium,In Progress,Security,Issue related to Hardware,Detailed ticket description RJRbBczCaZPtkZtxuxmP,2024-04-14,,Technician A,2025-12-10 13:49:04
+288,TCK-Q6ABQD8F,Low,Open,Software,Issue related to Software,Detailed ticket description smTkPHQPWBJJAdqVPkbu,2024-05-02,2024-05-10,Admin,2025-12-10 13:49:04
+289,TCK-HIKR535G,High,In Progress,Software,Issue related to Software,Detailed ticket description dIfMvqOoHGkPQtzJwEHz,2024-10-14,2024-11-05,Technician A,2025-12-10 13:49:04
+290,TCK-7W0HH431,Low,Closed,Software,Issue related to Hardware,Detailed ticket description IFMRZGvijtYEIEMzIRxP,2023-12-28,2023-12-31,Unassigned,2025-12-10 13:49:04
+291,TCK-OF72ZCII,Medium,In Progress,Security,Issue related to Software,Detailed ticket description zYMeqGcbtyZrhXbsbLsc,2023-10-04,2023-10-05,Unassigned,2025-12-10 13:49:04
+292,TCK-7TEBV8UO,Critical,Resolved,Network,Issue related to Security,Detailed ticket description tJhvYKmIpNlhaoQeVxeT,2024-07-20,2024-08-06,Unassigned,2025-12-10 13:49:04
+293,TCK-CVSXZNEO,Medium,Open,Other,Issue related to Hardware,Detailed ticket description WjEJOrIuVuQKypaYmTOk,2023-04-14,2023-05-08,IT Support 1,2025-12-10 13:49:04
+294,TCK-3DR6ECRJ,Critical,In Progress,Network,Issue related to Other,Detailed ticket description sfGwyiDdXUEmkaQkHAaE,2024-02-26,2024-03-19,Technician B,2025-12-10 13:49:04
+295,TCK-9VFZJ5JH,Medium,Open,Security,Issue related to Software,Detailed ticket description CqCQNelFRhfMViUhVVgW,2024-10-04,2024-10-29,Technician A,2025-12-10 13:49:04
+296,TCK-UQ94MQA9,Medium,Closed,Software,Issue related to Access Request,Detailed ticket description nhZBHQEUxarSCMAMBPQX,2024-07-12,,IT Support 1,2025-12-10 13:49:04
+297,TCK-XMZAVBH2,Medium,In Progress,Software,Issue related to Hardware,Detailed ticket description vUoYnTDDPhjKqZPjhNSN,2023-07-19,2023-08-04,Technician A,2025-12-10 13:49:04
+298,TCK-WB0WFETD,Medium,Open,Access Request,Issue related to Other,Detailed ticket description WeYYhoejjkMcqvmxCSPn,2024-03-26,,IT Support 2,2025-12-10 13:49:04
+299,TCK-JPCSH09L,Low,On Hold,Security,Issue related to Hardware,Detailed ticket description DmiyykxtDbZkcASlAPGC,2024-02-14,2024-02-19,IT Support 1,2025-12-10 13:49:04
+300,TCK-X0ZAWVDC,Medium,In Progress,Software,Issue related to Security,Detailed ticket description uEQFlpqHigAWsBCAVVkT,2024-02-23,2024-03-12,Technician B,2025-12-10 13:49:04
+301,TCK-S3NPVVRY,Medium,Open,Software,Issue related to Access Request,Detailed ticket description lhIBHTBhxHUwcvHlUNqh,2024-08-17,2024-09-05,Technician B,2025-12-10 13:49:04
+302,TCK-Z1WU1EMN,Critical,Closed,Network,Issue related to Software,Detailed ticket description mNEHLYglmaGPfiVLxXsN,2024-03-12,,Technician A,2025-12-10 13:49:04
+303,TCK-ZBQZNSK0,Critical,On Hold,Software,Issue related to Software,Detailed ticket description boGTKFJgrevjuUhJYXiC,2023-07-21,,IT Support 1,2025-12-10 13:49:04
+304,TCK-P6DD70IR,Medium,Resolved,Network,Issue related to Software,Detailed ticket description goQRcWnwgUosUUJtmRle,2024-08-27,2024-09-22,IT Support 2,2025-12-10 13:49:04
+305,TCK-1V45ZGCZ,Critical,In Progress,Hardware,Issue related to Hardware,Detailed ticket description rLCYKsqidmDVRhUtcIzx,2023-08-27,,IT Support 1,2025-12-10 13:49:04
+306,TCK-4565KS57,High,Closed,Other,Issue related to Hardware,Detailed ticket description BGChJzHcIZzMvpiRDCeF,2023-06-16,2023-06-19,IT Support 1,2025-12-10 13:49:04
+307,TCK-SVZB6BNZ,Medium,On Hold,Access Request,Issue related to Security,Detailed ticket description jWoHkZDubBTgALpFUiWt,2023-08-04,2023-08-06,Technician A,2025-12-10 13:49:04
+308,TCK-2XSDMNP1,Medium,On Hold,Access Request,Issue related to Network,Detailed ticket description uLmbVctGviNmnaDHsaur,2023-01-04,2023-01-18,IT Support 1,2025-12-10 13:49:04
+309,TCK-DH5WKBQC,Medium,In Progress,Access Request,Issue related to Network,Detailed ticket description PBwsejBUNHzKQmNxHJFJ,2023-06-22,2023-07-06,Technician B,2025-12-10 13:49:04
+310,TCK-YDQYO6IX,High,On Hold,Software,Issue related to Security,Detailed ticket description DKUNzrUYqVapCahrCqTU,2024-06-30,,Technician B,2025-12-10 13:49:04
+311,TCK-1JW1MNAO,Critical,On Hold,Access Request,Issue related to Other,Detailed ticket description ZhVaVwXkSwCOxvWcrYJq,2024-02-23,2024-02-24,IT Support 1,2025-12-10 13:49:04
+312,TCK-IHEM929Y,Medium,Closed,Security,Issue related to Hardware,Detailed ticket description VPWxTzSpmjQDjhhbtScO,2023-10-03,2023-10-27,IT Support 1,2025-12-10 13:49:04
+313,TCK-BMYPP2LQ,Critical,Resolved,Access Request,Issue related to Hardware,Detailed ticket description OmahLhXxlaVSwmEyAlHW,2024-08-10,2024-08-28,Technician A,2025-12-10 13:49:04
+314,TCK-OD844GF7,High,Closed,Software,Issue related to Hardware,Detailed ticket description OqNklLEoHFREoQuJOYCF,2024-09-17,2024-09-19,Unassigned,2025-12-10 13:49:04
+315,TCK-C7S6YV8E,High,Closed,Access Request,Issue related to Other,Detailed ticket description FkCobJTwWxvHkHPAECoJ,2024-05-06,2024-06-05,IT Support 2,2025-12-10 13:49:04
+316,TCK-FHD27L2N,Low,Open,Other,Issue related to Network,Detailed ticket description dEidjaNlJPrYQYwNccCe,2023-05-02,,Unassigned,2025-12-10 13:49:04
+317,TCK-P0IDHUPT,High,In Progress,Software,Issue related to Network,Detailed ticket description GVUXrozblySEqvxUgQoQ,2023-07-26,2023-08-24,Technician A,2025-12-10 13:49:04
+318,TCK-RVMBBU34,Medium,Open,Hardware,Issue related to Hardware,Detailed ticket description MhhIjDOGwqIeGXlpzlml,2023-10-15,,Technician B,2025-12-10 13:49:04
+319,TCK-AU7UDJ11,Critical,In Progress,Other,Issue related to Other,Detailed ticket description OfVnAhrzMeVaIkgeUULG,2023-01-01,2023-01-16,Technician B,2025-12-10 13:49:04
+320,TCK-JNBWRT2B,Critical,Resolved,Security,Issue related to Access Request,Detailed ticket description UmUQXWqxYFXVoOclHZVP,2024-01-17,2024-02-11,IT Support 2,2025-12-10 13:49:04
+321,TCK-0K4Y7DXW,Low,On Hold,Network,Issue related to Software,Detailed ticket description JQceSBIGdsbXsvkrueTL,2023-04-29,,Technician B,2025-12-10 13:49:04
+322,TCK-CI7PE56F,Critical,On Hold,Security,Issue related to Software,Detailed ticket description YeWumOcqIEsAAGLlrPqe,2023-10-20,2023-10-22,Technician A,2025-12-10 13:49:04
+323,TCK-4M8A1Y9I,High,In Progress,Security,Issue related to Hardware,Detailed ticket description YAAASQVcHXAjjXpwQBXZ,2024-03-26,2024-04-07,Technician A,2025-12-10 13:49:04
+324,TCK-8YF0BVUY,High,On Hold,Other,Issue related to Hardware,Detailed ticket description kCJESYbgfTkTtzjSBCeu,2023-04-07,2023-04-10,Technician B,2025-12-10 13:49:04
+325,TCK-7Y7JTKPO,Medium,Resolved,Access Request,Issue related to Software,Detailed ticket description HldJUNZmwLDfJFmWLSRL,2024-04-15,2024-05-08,IT Support 2,2025-12-10 13:49:04
+326,TCK-KMVVFAMC,Critical,In Progress,Network,Issue related to Other,Detailed ticket description HfsqBevyvITBCcZLDcrt,2024-07-05,2024-08-02,Technician A,2025-12-10 13:49:04
+327,TCK-0ZVTSI34,Critical,Closed,Other,Issue related to Hardware,Detailed ticket description kuGZbHoxaontsGBumksm,2024-12-01,2024-12-08,Admin,2025-12-10 13:49:04
+328,TCK-2VLSZMHX,High,In Progress,Software,Issue related to Hardware,Detailed ticket description uTDaFUOKRKRFamEdhcVf,2024-07-11,2024-07-27,IT Support 2,2025-12-10 13:49:04
+329,TCK-KY3V67Y2,Medium,Closed,Access Request,Issue related to Access Request,Detailed ticket description lhuazUJeKjdXVuamPCtl,2023-07-07,2023-08-06,IT Support 2,2025-12-10 13:49:04
+330,TCK-MWR2YG5Y,High,Closed,Network,Issue related to Other,Detailed ticket description weOXPAvHLIDrRmScfJiC,2023-08-03,2023-08-21,Admin,2025-12-10 13:49:04
+331,TCK-4ZPHKNEK,High,Closed,Access Request,Issue related to Software,Detailed ticket description xdsfqAUmZJdnwoajlEQm,2024-04-20,,Technician B,2025-12-10 13:49:04
+332,TCK-D7Y4ZOYZ,High,Resolved,Software,Issue related to Network,Detailed ticket description rIOzySssNAOgFJRFHUgp,2023-02-23,2023-03-12,Unassigned,2025-12-10 13:49:04
+333,TCK-ZX4D7JOI,High,Resolved,Access Request,Issue related to Access Request,Detailed ticket description HjsIBaMuGWZjcafAWcAJ,2024-05-20,2024-06-13,IT Support 2,2025-12-10 13:49:04
+334,TCK-HOL4VP4C,High,On Hold,Hardware,Issue related to Security,Detailed ticket description RfbJDYcYNbeGIqYUEqXP,2023-02-21,,Admin,2025-12-10 13:49:04
+335,TCK-YIO6OQEC,High,Closed,Other,Issue related to Access Request,Detailed ticket description CfjwlCwipxrmJTlGyYsA,2024-06-04,,Technician B,2025-12-10 13:49:04
+336,TCK-MZUA106Y,Low,Closed,Other,Issue related to Network,Detailed ticket description qrciaBjjuKwwEvhVSSNq,2024-08-28,2024-09-03,Technician A,2025-12-10 13:49:04
+337,TCK-VMZEZH4H,Low,Closed,Other,Issue related to Other,Detailed ticket description IaYyInRpaGvlEOSoQxcd,2024-09-15,2024-09-21,Technician A,2025-12-10 13:49:04
+338,TCK-7P99BCAE,Medium,In Progress,Hardware,Issue related to Network,Detailed ticket description sPgETcSCmOMcQCZbveJJ,2023-09-25,,Admin,2025-12-10 13:49:04
+339,TCK-7GXE611W,Low,In Progress,Hardware,Issue related to Network,Detailed ticket description rhqCqNAIsPbHWyxjzfrh,2023-02-15,,IT Support 1,2025-12-10 13:49:04
+340,TCK-UZVCCOKV,Medium,In Progress,Access Request,Issue related to Software,Detailed ticket description MJXzrEAxmjdykGFXmeem,2023-02-22,2023-03-12,IT Support 2,2025-12-10 13:49:04
+341,TCK-AGV5P5Q6,Low,Open,Software,Issue related to Hardware,Detailed ticket description hndhjqoWYpokDlVVgmCE,2023-09-07,2023-09-30,Technician B,2025-12-10 13:49:04
+342,TCK-QUJXOBV9,Medium,In Progress,Software,Issue related to Security,Detailed ticket description LfpWHnxYwOVrlcsTpqOO,2024-03-25,2024-04-20,IT Support 1,2025-12-10 13:49:04
+343,TCK-DBRUABT8,Low,Closed,Hardware,Issue related to Network,Detailed ticket description RHiuSkWGVOpOzYpCzNtM,2023-11-22,,Unassigned,2025-12-10 13:49:04
+344,TCK-TPYCA748,Low,Closed,Hardware,Issue related to Hardware,Detailed ticket description RFjNNUAUxQRVReUuOzQW,2023-02-14,2023-02-18,Technician A,2025-12-10 13:49:04
+345,TCK-SQX0MZ1W,Low,Open,Hardware,Issue related to Software,Detailed ticket description KtHUsLbVPOLIWLpGNavV,2023-11-09,,Technician B,2025-12-10 13:49:04
+346,TCK-NPSC0LNB,Low,Resolved,Security,Issue related to Hardware,Detailed ticket description tkLTyMCoWrWKRBqRhQgo,2024-01-26,2024-02-03,IT Support 1,2025-12-10 13:49:04
+347,TCK-W6KJQGIP,High,Resolved,Access Request,Issue related to Access Request,Detailed ticket description qMecvOvfRaCxdsytAWhm,2023-05-24,2023-06-03,Technician A,2025-12-10 13:49:04
+348,TCK-CQCEBRZ4,Low,Closed,Security,Issue related to Other,Detailed ticket description NaHaxlFQVPQTTMVdARbv,2024-01-30,,Technician B,2025-12-10 13:49:04
+349,TCK-COAUTDZ8,Low,On Hold,Hardware,Issue related to Hardware,Detailed ticket description BidodsbrvbINZOhHXqBC,2024-07-02,2024-07-28,IT Support 1,2025-12-10 13:49:04
+350,TCK-9M5G6BAE,Critical,In Progress,Other,Issue related to Software,Detailed ticket description EaPAhVJhdKlFNXxQYwXn,2024-04-11,2024-04-26,Technician A,2025-12-10 13:49:04
+351,TCK-69GYRUBS,Critical,Open,Access Request,Issue related to Security,Detailed ticket description xegEnFtbHQukphWEJdai,2024-04-02,,Technician B,2025-12-10 13:49:04
+352,TCK-C2Z5TAUU,Medium,On Hold,Network,Issue related to Other,Detailed ticket description MqFIoUkXGsRLevBmZzil,2023-03-19,2023-03-26,IT Support 1,2025-12-10 13:49:04
+353,TCK-UEC8CT7Q,Medium,Open,Access Request,Issue related to Network,Detailed ticket description JJFxBftbwYUrxwpvnCBU,2023-10-02,2023-10-13,Technician A,2025-12-10 13:49:04
+354,TCK-271LV0P9,Medium,Resolved,Other,Issue related to Network,Detailed ticket description yMjtpbZsxtEiwmJkHRaO,2024-10-04,,Technician A,2025-12-10 13:49:04
+355,TCK-23WI2V7S,High,Open,Hardware,Issue related to Network,Detailed ticket description FfbjSXDlHYWVmEcxdVyr,2024-01-10,2024-02-07,Unassigned,2025-12-10 13:49:04
+356,TCK-V66XISH9,Medium,Open,Security,Issue related to Other,Detailed ticket description tyGPHSJfBhZHBEkCBmWa,2023-10-25,,Admin,2025-12-10 13:49:04
+357,TCK-G0S4V64Q,Critical,In Progress,Access Request,Issue related to Access Request,Detailed ticket description uwDTEzRIVxyXXrjeZrti,2023-04-29,2023-05-09,Technician B,2025-12-10 13:49:04
+358,TCK-K7GJ5N9R,Medium,In Progress,Access Request,Issue related to Hardware,Detailed ticket description pVofZacHLpUtjhRgQymo,2023-06-19,2023-07-12,Unassigned,2025-12-10 13:49:04
+359,TCK-OOE6BKER,Critical,Resolved,Software,Issue related to Other,Detailed ticket description vDjcsoWabOyiPwlqunKk,2023-04-30,2023-05-23,Technician B,2025-12-10 13:49:04
+360,TCK-3EK37THF,Medium,In Progress,Security,Issue related to Other,Detailed ticket description aTzSURamfYPmaDuGkxfR,2024-03-16,2024-04-14,IT Support 2,2025-12-10 13:49:04
+361,TCK-XEJKOB9W,High,Closed,Access Request,Issue related to Access Request,Detailed ticket description kXDrwGufKgJYmdzFybuN,2023-12-22,2023-12-28,IT Support 2,2025-12-10 13:49:04
+362,TCK-4D1DQIOG,High,Open,Other,Issue related to Access Request,Detailed ticket description hukogfaxNoDlwtZUYzzQ,2023-06-02,2023-06-30,Unassigned,2025-12-10 13:49:04
+363,TCK-UVQA6CNW,High,Resolved,Hardware,Issue related to Other,Detailed ticket description TBbweoDCpmVKEmCvOoZm,2024-01-21,,IT Support 1,2025-12-10 13:49:04
+364,TCK-TX952ISE,Low,On Hold,Other,Issue related to Software,Detailed ticket description gsLdANvTwJqXfZFzTmIw,2023-09-16,,Admin,2025-12-10 13:49:04
+365,TCK-6NFWID5H,High,Open,Security,Issue related to Access Request,Detailed ticket description quxOmTbGKvuxhHYUghUE,2024-03-22,2024-04-17,Unassigned,2025-12-10 13:49:04
+366,TCK-FXC39SQF,Medium,In Progress,Security,Issue related to Other,Detailed ticket description KfHEwTnNmBZZhAnaRhZt,2024-05-25,,Technician B,2025-12-10 13:49:04
+367,TCK-YB1R41CQ,Critical,On Hold,Security,Issue related to Access Request,Detailed ticket description OLDwSNEUEGfPieCFEZWp,2024-03-05,2024-03-21,Admin,2025-12-10 13:49:04
+368,TCK-L90O29JM,Critical,Open,Software,Issue related to Other,Detailed ticket description GhSdjuyYtfrtbMLkBTIL,2024-09-08,2024-10-08,Unassigned,2025-12-10 13:49:04
+369,TCK-YI9EO7P9,Critical,Resolved,Other,Issue related to Software,Detailed ticket description SSTSdORSbDTaSflmzFhA,2023-08-23,2023-09-04,IT Support 2,2025-12-10 13:49:04
+370,TCK-PS5ZVWK5,Low,In Progress,Access Request,Issue related to Network,Detailed ticket description GhfLPLtvXlInwsuJCYCF,2023-12-07,2024-01-02,IT Support 1,2025-12-10 13:49:04
+371,TCK-N753CUQV,High,On Hold,Access Request,Issue related to Software,Detailed ticket description WSewxWFwTVOluhYFQiYd,2023-08-21,2023-09-05,Technician A,2025-12-10 13:49:04
+372,TCK-JS6SPDR3,Critical,Open,Security,Issue related to Software,Detailed ticket description CqkhSyNebrGKmUtLMCvy,2024-09-12,,IT Support 2,2025-12-10 13:49:04
+373,TCK-BOKTGVEO,Medium,Closed,Hardware,Issue related to Software,Detailed ticket description XaoScNYGlscHGqLBxLIo,2023-09-20,2023-10-15,IT Support 1,2025-12-10 13:49:04
+374,TCK-0UV77EIO,High,Resolved,Other,Issue related to Access Request,Detailed ticket description TUGkymNshVRLiXgKfjOu,2023-12-15,2024-01-02,Technician A,2025-12-10 13:49:04
+375,TCK-3G4OM19S,Medium,On Hold,Software,Issue related to Network,Detailed ticket description HlenGPljpgPRUuLAimok,2023-01-14,2023-02-01,Technician A,2025-12-10 13:49:04
+376,TCK-ZIHMZIIC,Critical,In Progress,Software,Issue related to Network,Detailed ticket description waMuEGUoAVXdUQVgOjYY,2023-08-11,2023-08-26,Admin,2025-12-10 13:49:04
+377,TCK-5FUUWQTW,High,Resolved,Network,Issue related to Network,Detailed ticket description BYTLEKuMZWvmoOBbHbSK,2023-12-25,2024-01-21,Technician B,2025-12-10 13:49:04
+378,TCK-76VY516V,High,Open,Network,Issue related to Other,Detailed ticket description mZMmlLQjPcrTMcSsJFzm,2024-01-26,2024-02-13,Unassigned,2025-12-10 13:49:04
+379,TCK-UNAYMARD,Critical,Open,Hardware,Issue related to Network,Detailed ticket description eIjAsecAZbFJuputlusz,2023-12-04,2023-12-10,IT Support 2,2025-12-10 13:49:04
+380,TCK-2MHJNWQN,High,In Progress,Access Request,Issue related to Other,Detailed ticket description AEarYEciTqdSAscrFgFo,2023-07-05,2023-07-31,Unassigned,2025-12-10 13:49:04
+381,TCK-GV9M485L,Critical,On Hold,Security,Issue related to Software,Detailed ticket description lmsNAvTdCPkOENmcLMuW,2023-12-29,2024-01-27,IT Support 2,2025-12-10 13:49:04
+382,TCK-NJZ8IY68,Low,Open,Security,Issue related to Network,Detailed ticket description myfvzhsDlmRseNPcyCZJ,2024-02-11,2024-02-23,Technician B,2025-12-10 13:49:04
+383,TCK-J0BCLT1G,Low,In Progress,Security,Issue related to Other,Detailed ticket description qkRkECriELtSqUQQvIki,2024-11-11,2024-12-02,IT Support 2,2025-12-10 13:49:04
+384,TCK-K8EFE1LR,High,Open,Network,Issue related to Access Request,Detailed ticket description qOcirkLzinHZOvsxeUqn,2023-07-27,,Technician B,2025-12-10 13:49:04
+385,TCK-ALP1OCNY,Critical,On Hold,Software,Issue related to Hardware,Detailed ticket description llgAIAfMqVgGGHzBhqDa,2024-07-07,2024-07-12,Unassigned,2025-12-10 13:49:04
+386,TCK-RAQWRMP5,Critical,On Hold,Security,Issue related to Other,Detailed ticket description nXBOtjYxKaWOwvOxHcAn,2023-11-20,2023-12-03,IT Support 2,2025-12-10 13:49:04
+387,TCK-0NIGUO8A,High,In Progress,Access Request,Issue related to Hardware,Detailed ticket description vvsARoRLKiZotoOIpyEa,2023-09-01,2023-09-12,Admin,2025-12-10 13:49:04
+388,TCK-VLJQWMO3,Medium,On Hold,Hardware,Issue related to Network,Detailed ticket description WAXIvxLQqMINyJJTUUDE,2023-12-03,2023-12-27,Technician A,2025-12-10 13:49:04
+389,TCK-WSIFKZG1,High,In Progress,Access Request,Issue related to Network,Detailed ticket description uPKvdbaVPpOBifgqhciU,2024-06-05,2024-06-21,Technician A,2025-12-10 13:49:04
+390,TCK-WP1WIMWW,High,Resolved,Software,Issue related to Access Request,Detailed ticket description twQuBuBUJzLpJhgQDblM,2024-05-10,,Technician B,2025-12-10 13:49:04
+391,TCK-WEF1YWHY,Low,In Progress,Other,Issue related to Network,Detailed ticket description BPXzqsnNJZJPwOjshSEE,2024-03-04,,Unassigned,2025-12-10 13:49:04
+392,TCK-5SMW1M8Q,High,In Progress,Software,Issue related to Access Request,Detailed ticket description aOZddubqNRXEsNXqSSxb,2024-10-26,2024-11-05,IT Support 1,2025-12-10 13:49:04
+393,TCK-UEMLRTI6,Medium,Open,Security,Issue related to Security,Detailed ticket description hJPlHGTuXkyTCwjUztWt,2023-11-29,,Technician B,2025-12-10 13:49:04
+394,TCK-WMBR1JOS,Low,Resolved,Security,Issue related to Access Request,Detailed ticket description NqWqkHKZbOrFFKuEcglk,2024-03-18,,Technician A,2025-12-10 13:49:04
+395,TCK-OY88C1P0,Critical,In Progress,Hardware,Issue related to Software,Detailed ticket description TZpUAixFTwCfqGsGvCcg,2024-07-04,,Admin,2025-12-10 13:49:04
+396,TCK-PTAZEXHP,Medium,Open,Network,Issue related to Security,Detailed ticket description fXvNjyRgqxjCWPDpmNfs,2024-07-12,2024-08-09,Unassigned,2025-12-10 13:49:04
+397,TCK-T4R8U3BI,Critical,Open,Other,Issue related to Security,Detailed ticket description oKhziDVcoCeoUGDpmKQs,2023-07-14,2023-08-04,Technician A,2025-12-10 13:49:04
+398,TCK-507R6CZ4,High,Closed,Security,Issue related to Network,Detailed ticket description GEMuZYcfBRruTizZeAnr,2024-11-18,2024-12-15,Admin,2025-12-10 13:49:04
+399,TCK-ZSPMVCCW,Critical,In Progress,Access Request,Issue related to Access Request,Detailed ticket description FjBoCuliVElncVDBssOU,2023-02-06,,IT Support 2,2025-12-10 13:49:04
+400,TCK-BSNSXYA2,Low,In Progress,Network,Issue related to Software,Detailed ticket description XnKpnhOIFMrYDtYMcEtV,2024-05-20,,Technician A,2025-12-10 13:49:04
+401,TCK-SVMM485Q,Medium,Closed,Software,Issue related to Other,Detailed ticket description rGMJXxNsjiJygBSkIadC,2023-10-13,2023-10-27,Admin,2025-12-10 13:49:04
+402,TCK-SSA4KLJV,Low,Closed,Access Request,Issue related to Network,Detailed ticket description vHQHVNrZCvFxvDiFSEjh,2023-04-18,2023-05-08,IT Support 1,2025-12-10 13:49:04
+403,TCK-R0ZW6O8Y,Low,Closed,Network,Issue related to Other,Detailed ticket description kyYDWARewymqEKZIiVIc,2024-02-13,,Technician A,2025-12-10 13:49:04
+404,TCK-ITEE2LI3,Low,Resolved,Other,Issue related to Other,Detailed ticket description JevRhiTgjLxUdOyhSKFV,2023-02-27,2023-03-02,Technician A,2025-12-10 13:49:04
+405,TCK-3ZE30HQL,Critical,In Progress,Security,Issue related to Software,Detailed ticket description fkxTKlLxzwwcvrQjCbjR,2023-04-10,2023-05-07,IT Support 1,2025-12-10 13:49:04
+406,TCK-SUJ5OWGT,Medium,In Progress,Network,Issue related to Hardware,Detailed ticket description AlDjjsyiHLpXKNToOhGW,2023-02-03,2023-02-05,Unassigned,2025-12-10 13:49:04
+407,TCK-8CTJAGOT,Medium,Open,Hardware,Issue related to Security,Detailed ticket description cBHaWugneWVGXoOnsdtB,2024-01-15,,Unassigned,2025-12-10 13:49:04
+408,TCK-60B12I33,Medium,Resolved,Access Request,Issue related to Software,Detailed ticket description XuaBmRCjfgiuGASffdIc,2024-01-31,,Admin,2025-12-10 13:49:04
+409,TCK-WRQF6RWD,Low,Closed,Other,Issue related to Hardware,Detailed ticket description BUngzIMweJSvjdKIPXnE,2023-04-13,2023-05-09,Technician B,2025-12-10 13:49:04
+410,TCK-LKMQGP0X,Critical,On Hold,Security,Issue related to Access Request,Detailed ticket description caNJUjnzNPkAzjFTGdBk,2023-05-06,2023-05-19,IT Support 2,2025-12-10 13:49:04
+411,TCK-H3UM85FR,Critical,On Hold,Security,Issue related to Access Request,Detailed ticket description oEKZkqyWtTndPpussbzG,2024-07-09,2024-08-04,Unassigned,2025-12-10 13:49:04
+412,TCK-ODVZUWUV,High,In Progress,Access Request,Issue related to Hardware,Detailed ticket description ByqHFxcNUTxCNVUziAZA,2024-11-08,2024-12-02,Technician A,2025-12-10 13:49:04
+413,TCK-DE7TCXBR,Low,On Hold,Network,Issue related to Hardware,Detailed ticket description iNTWreIIFnIdYqfaJGix,2024-10-27,,Admin,2025-12-10 13:49:04
+414,TCK-8FJN21CE,Critical,Resolved,Access Request,Issue related to Software,Detailed ticket description angbXrnhWtqHhYStxsiK,2024-01-25,2024-02-02,Unassigned,2025-12-10 13:49:04
+415,TCK-0VK4U4OA,High,Open,Security,Issue related to Hardware,Detailed ticket description eKGonXUoQijhhvOyaGZd,2023-11-14,2023-11-18,Admin,2025-12-10 13:49:04
+416,TCK-L4VTJXBP,Medium,In Progress,Hardware,Issue related to Security,Detailed ticket description bOXAolZniacKhmlxnnCz,2023-10-30,2023-11-23,Technician A,2025-12-10 13:49:04
+417,TCK-6VEM6NVC,Low,Resolved,Other,Issue related to Hardware,Detailed ticket description jkuEsjobFrxHMJIwUYmY,2024-05-20,2024-05-26,IT Support 2,2025-12-10 13:49:04
+418,TCK-DC03P3YL,Critical,Open,Security,Issue related to Network,Detailed ticket description zhCCBBnzpKYErCDpeIHi,2024-06-15,2024-06-24,Unassigned,2025-12-10 13:49:04
+419,TCK-7FHF7XJI,Critical,Resolved,Hardware,Issue related to Access Request,Detailed ticket description HWnDJEFQkBmGwQYrxJxE,2023-11-23,2023-12-22,Admin,2025-12-10 13:49:04
+420,TCK-M0KL1UD3,Low,On Hold,Software,Issue related to Access Request,Detailed ticket description OSSiPOVPaXrcuxZlAzww,2024-08-08,2024-08-22,Admin,2025-12-10 13:49:04
+421,TCK-P836VCVU,Medium,In Progress,Other,Issue related to Software,Detailed ticket description DlRaeDiHWyBNIErHaPMF,2023-12-16,2024-01-14,IT Support 2,2025-12-10 13:49:04
+422,TCK-CHPKFAXX,Medium,On Hold,Security,Issue related to Hardware,Detailed ticket description uOHboqQgVOlKYeQFUeZf,2023-12-08,2024-01-07,Admin,2025-12-10 13:49:04
+423,TCK-2LE8AHWT,Critical,In Progress,Network,Issue related to Access Request,Detailed ticket description tDVPmDxagjvLyKAltuZG,2024-09-18,2024-09-19,Technician A,2025-12-10 13:49:04
+424,TCK-OBR2AP2J,Critical,Resolved,Software,Issue related to Other,Detailed ticket description RDmIGNrRMTSkNKyULbBA,2023-01-21,2023-02-10,Technician B,2025-12-10 13:49:04
+425,TCK-2E88P02P,High,Open,Security,Issue related to Other,Detailed ticket description WumDzBFdiHGFRthZAqJB,2024-06-26,2024-07-11,IT Support 1,2025-12-10 13:49:04
+426,TCK-ZLQ8RFIF,Critical,On Hold,Access Request,Issue related to Security,Detailed ticket description xfZRMZOObDurPINlDOwS,2023-02-20,2023-02-26,Unassigned,2025-12-10 13:49:04
+427,TCK-757EW2O6,Medium,On Hold,Software,Issue related to Security,Detailed ticket description RWXfnTZguOTEYcAzPTMY,2023-09-19,,Admin,2025-12-10 13:49:04
+428,TCK-C1RPOZ6Q,Low,On Hold,Other,Issue related to Access Request,Detailed ticket description HFNrHyEfDbLQSlfEwdsk,2023-10-05,2023-10-09,Technician A,2025-12-10 13:49:04
+429,TCK-VSXGBWFM,Medium,In Progress,Other,Issue related to Hardware,Detailed ticket description wrysZgiUAlsvfSXEZVrz,2024-05-04,,Technician B,2025-12-10 13:49:04
+430,TCK-RS80G5A0,Medium,In Progress,Network,Issue related to Network,Detailed ticket description RHbLfAnHZuxUCXPkbghT,2024-04-07,,Technician A,2025-12-10 13:49:04
+431,TCK-1O681RWJ,Medium,On Hold,Software,Issue related to Other,Detailed ticket description zBcwBAATrOzGtovxYcRW,2023-05-02,,Admin,2025-12-10 13:49:04
+432,TCK-E1JXUAZ4,High,On Hold,Other,Issue related to Access Request,Detailed ticket description yFhUOrUjbjlrCtClwreS,2023-12-22,,Technician A,2025-12-10 13:49:04
+433,TCK-KSRU34FY,Critical,Open,Other,Issue related to Security,Detailed ticket description TODnzsNDXImEcFXsVhrP,2023-11-22,2023-12-04,IT Support 2,2025-12-10 13:49:04
+434,TCK-5G0OVM6R,Medium,Open,Other,Issue related to Hardware,Detailed ticket description FrvoCUwzXQNkruqLKPeM,2023-03-09,2023-04-03,IT Support 1,2025-12-10 13:49:04
+435,TCK-JSU4O4C0,Critical,In Progress,Software,Issue related to Access Request,Detailed ticket description GynWzNrThfJUhrHCVtAW,2024-09-26,,Technician A,2025-12-10 13:49:04
+436,TCK-VWZIFHY0,Low,In Progress,Security,Issue related to Access Request,Detailed ticket description bLdMWVHNiWjqmNehQsjK,2023-02-03,,Unassigned,2025-12-10 13:49:04
+437,TCK-VI9TPAGB,Critical,On Hold,Access Request,Issue related to Security,Detailed ticket description rLSzcjMYCWdEIGKByjvm,2024-08-21,2024-09-11,Technician A,2025-12-10 13:49:04
+438,TCK-APWQ9XEW,Critical,In Progress,Other,Issue related to Network,Detailed ticket description DlZwqEGeUcGfrCfEfPgi,2023-05-07,2023-05-29,Admin,2025-12-10 13:49:04
+439,TCK-20BBXEWZ,High,Resolved,Hardware,Issue related to Access Request,Detailed ticket description zPUjvWkNtcCBQKgaffkg,2024-01-26,2024-02-06,Unassigned,2025-12-10 13:49:04
+440,TCK-JWH676UL,Critical,Resolved,Other,Issue related to Software,Detailed ticket description RaiVocYwHlgBLjFBmzVw,2023-07-28,,IT Support 2,2025-12-10 13:49:04
+441,TCK-XSG4JIOT,Critical,In Progress,Other,Issue related to Other,Detailed ticket description jcFIbqzgmNqXgYxbZENi,2024-07-28,2024-08-08,Admin,2025-12-10 13:49:04
+442,TCK-I3XK24QZ,Critical,Resolved,Other,Issue related to Hardware,Detailed ticket description gfVdXKqbXAkCgMZOalds,2024-03-28,,Unassigned,2025-12-10 13:49:04
+443,TCK-EGCUJHQY,Medium,Closed,Network,Issue related to Security,Detailed ticket description ixPQEuoVkOhytUBjbmun,2023-09-29,2023-10-25,Unassigned,2025-12-10 13:49:04
+444,TCK-UBJ92LPX,Critical,Closed,Other,Issue related to Network,Detailed ticket description qekWzrTNebelvrryIvil,2024-06-15,2024-06-22,Technician A,2025-12-10 13:49:04
+445,TCK-CURCZHUD,High,Open,Other,Issue related to Security,Detailed ticket description YeIHPmPBdrUgbwvNIVuM,2024-03-01,2024-03-20,Technician A,2025-12-10 13:49:04
+446,TCK-VV0QH76V,High,Open,Access Request,Issue related to Network,Detailed ticket description RvRlniiKmrnwaNOhplwb,2023-09-10,2023-09-26,IT Support 1,2025-12-10 13:49:04
+447,TCK-076XMGP9,Low,Closed,Software,Issue related to Hardware,Detailed ticket description VKbSLobZCpumqkNlfhPv,2024-10-26,2024-11-10,IT Support 2,2025-12-10 13:49:04
+448,TCK-4B7725GW,Medium,Resolved,Security,Issue related to Network,Detailed ticket description AOPZdszVparZQkaPpVJZ,2024-11-26,2024-11-29,IT Support 2,2025-12-10 13:49:04
+449,TCK-XZ7OQS05,Low,Open,Access Request,Issue related to Network,Detailed ticket description xgGiOFegQJLciWbURBYZ,2023-05-12,2023-05-17,IT Support 1,2025-12-10 13:49:04
+450,TCK-OVWVMYMX,High,In Progress,Other,Issue related to Access Request,Detailed ticket description EbSyRCKdZPJQgOviSXLb,2024-05-20,2024-06-03,IT Support 2,2025-12-10 13:49:04
+451,TCK-FL9AVX3S,Low,Resolved,Software,Issue related to Access Request,Detailed ticket description jpDXNMQUyKXUgWVUFNDZ,2024-09-14,2024-09-30,Technician A,2025-12-10 13:49:04
+452,TCK-II0W23FI,Critical,Open,Other,Issue related to Access Request,Detailed ticket description iMuGrbXyKDqqHoAVjKBx,2023-10-24,2023-10-29,Unassigned,2025-12-10 13:49:04
+453,TCK-T7TERZKO,Medium,In Progress,Software,Issue related to Hardware,Detailed ticket description yzLlXHumvSEEZULAuZdJ,2024-01-19,,Admin,2025-12-10 13:49:04
+454,TCK-PL5OZCQ4,Medium,Open,Other,Issue related to Security,Detailed ticket description NTnkfDOioIGhYnYiktKV,2023-03-05,2023-03-26,Technician B,2025-12-10 13:49:04
+455,TCK-73SO5F1A,High,Resolved,Access Request,Issue related to Other,Detailed ticket description MXrcIsHGPfDHUkSrALWb,2024-08-04,2024-08-09,Technician B,2025-12-10 13:49:04
+456,TCK-3JE989ZK,Low,Closed,Security,Issue related to Hardware,Detailed ticket description pjzMzvnznShmPQGCQyid,2024-03-22,2024-04-12,Admin,2025-12-10 13:49:04
+457,TCK-GN6SUZ5U,Low,Open,Access Request,Issue related to Network,Detailed ticket description SKCcwkuasDQlJSPosNdg,2024-08-28,2024-09-27,Technician A,2025-12-10 13:49:04
+458,TCK-UEYMG1DJ,High,Closed,Access Request,Issue related to Software,Detailed ticket description BZlXUsUkVtvRukWypAUa,2023-08-27,2023-09-24,Technician B,2025-12-10 13:49:04
+459,TCK-1JLZO5E5,Medium,Open,Hardware,Issue related to Security,Detailed ticket description MhaUuOoNTZeQmNeSPCsX,2023-06-17,,Admin,2025-12-10 13:49:04
+460,TCK-UWB1IZU4,Critical,On Hold,Other,Issue related to Other,Detailed ticket description tmqTToZrDvfkbbyLPsNZ,2024-04-25,2024-05-25,IT Support 2,2025-12-10 13:49:04
+461,TCK-1JNRAHDX,Critical,In Progress,Network,Issue related to Other,Detailed ticket description YOlxBTmcBVoVVEODbVSA,2023-03-28,2023-04-08,IT Support 1,2025-12-10 13:49:04
+462,TCK-1048VTKD,Critical,Open,Security,Issue related to Access Request,Detailed ticket description aRxDswyeSaGHIcJBACdb,2023-01-21,2023-02-06,Admin,2025-12-10 13:49:04
+463,TCK-8EJQFCED,Medium,In Progress,Security,Issue related to Network,Detailed ticket description YzhbbWubDxXzKRfTdDCu,2024-10-11,2024-11-03,Unassigned,2025-12-10 13:49:04
+464,TCK-T18ILONT,Critical,Closed,Network,Issue related to Security,Detailed ticket description tUemvPhBVkwpjOtbawzx,2023-07-14,2023-08-02,IT Support 2,2025-12-10 13:49:04
+465,TCK-9LVDUCP7,Critical,In Progress,Network,Issue related to Security,Detailed ticket description gcnVyfRXkgnEbBtVYtAK,2023-08-02,2023-08-06,IT Support 1,2025-12-10 13:49:04
+466,TCK-OLXC9597,Critical,On Hold,Access Request,Issue related to Network,Detailed ticket description koaozaSWYKiklMlwDceI,2024-01-19,2024-01-30,Unassigned,2025-12-10 13:49:04
+467,TCK-JB3CH8ZH,Critical,In Progress,Access Request,Issue related to Hardware,Detailed ticket description BqRujXlopYuyYZAvHpXJ,2024-10-28,2024-11-22,Technician A,2025-12-10 13:49:04
+468,TCK-R142PBIK,High,On Hold,Hardware,Issue related to Other,Detailed ticket description msVfVJcGeeoduZcsvEeH,2023-11-29,2023-12-19,Technician A,2025-12-10 13:49:04
+469,TCK-FJODSBYH,Critical,In Progress,Hardware,Issue related to Other,Detailed ticket description dtmJTPVfEaYHAwdqZsVv,2024-10-22,,Unassigned,2025-12-10 13:49:04
+470,TCK-14WCKU97,Low,In Progress,Network,Issue related to Security,Detailed ticket description lMKZCibZVbcDDOakFUcM,2023-04-08,,IT Support 1,2025-12-10 13:49:04
+471,TCK-R62VRTKX,Low,In Progress,Network,Issue related to Hardware,Detailed ticket description oEdlxcEjqbCibfUTrOZE,2023-06-05,,Admin,2025-12-10 13:49:04
+472,TCK-H1I9C3X8,Medium,Resolved,Other,Issue related to Software,Detailed ticket description bubDVtsIqyesMifLUDvE,2023-05-13,,IT Support 1,2025-12-10 13:49:04
+473,TCK-A6UVVCWD,Critical,On Hold,Other,Issue related to Hardware,Detailed ticket description fbPcvNLdHpaqTrkDPInZ,2024-07-06,2024-07-11,Technician A,2025-12-10 13:49:04
+474,TCK-OEOYMGIG,Low,On Hold,Access Request,Issue related to Software,Detailed ticket description urRCfJojOHyzjJuWFhDa,2023-01-16,2023-02-10,IT Support 1,2025-12-10 13:49:04
+475,TCK-4KZ8TIHI,Low,Closed,Access Request,Issue related to Security,Detailed ticket description pGyVfoIRzFtStvgKAYvK,2023-08-16,2023-09-11,IT Support 2,2025-12-10 13:49:04
+476,TCK-VGQN2O1Y,Low,Open,Other,Issue related to Hardware,Detailed ticket description GPfiEBLhwvixqpSStgkE,2023-10-11,2023-10-28,Unassigned,2025-12-10 13:49:04
+477,TCK-568QCO4I,Critical,Resolved,Network,Issue related to Hardware,Detailed ticket description cLyAtbWRrASBCSepCzbS,2023-07-29,2023-07-30,Admin,2025-12-10 13:49:04
+478,TCK-4TZVYZA4,Low,Open,Hardware,Issue related to Software,Detailed ticket description vzuadfSXmPMwrdVZgZaL,2024-05-29,,IT Support 1,2025-12-10 13:49:04
+479,TCK-QXZ18X6M,Medium,In Progress,Access Request,Issue related to Security,Detailed ticket description TQKrAovZiBwrFVULoMtU,2023-05-17,2023-05-26,Unassigned,2025-12-10 13:49:04
+480,TCK-T8VPVVV0,Medium,Resolved,Network,Issue related to Access Request,Detailed ticket description eREaMYNVbSrhjhbtZkJF,2024-03-24,,Technician A,2025-12-10 13:49:04
+481,TCK-VEVWJW1P,Medium,Open,Hardware,Issue related to Hardware,Detailed ticket description RGZisLNPgDVQOmCRDNMa,2023-03-26,2023-03-31,IT Support 1,2025-12-10 13:49:04
+482,TCK-NZEHN2JB,Critical,Closed,Hardware,Issue related to Network,Detailed ticket description CKNlxmuyFPubJWwYaPUu,2024-05-01,2024-05-12,IT Support 1,2025-12-10 13:49:04
+483,TCK-2V2S9KQN,Critical,In Progress,Network,Issue related to Software,Detailed ticket description tIsupbAFYyYgkPHTkMyY,2023-06-08,2023-06-11,Technician B,2025-12-10 13:49:04
+484,TCK-AJ7P53H1,Low,In Progress,Hardware,Issue related to Software,Detailed ticket description RHKJCYyhDvVgrFBBiZkQ,2024-08-28,,Technician A,2025-12-10 13:49:04
+485,TCK-C8O9XKG6,Medium,Open,Hardware,Issue related to Hardware,Detailed ticket description RGbdTmnYbPOIaEbDPzmf,2024-03-18,2024-04-16,Technician A,2025-12-10 13:49:04
+486,TCK-WRZ3G48E,High,Resolved,Access Request,Issue related to Hardware,Detailed ticket description VOISkwuZbSmIIklglTrK,2023-09-14,2023-09-18,Technician B,2025-12-10 13:49:04
+487,TCK-Z62CMGFX,Medium,Closed,Access Request,Issue related to Hardware,Detailed ticket description rEiUecmVtQoSqcKtUEHR,2023-09-04,2023-09-22,Technician A,2025-12-10 13:49:04
+488,TCK-FUHPASP6,Critical,On Hold,Security,Issue related to Security,Detailed ticket description aTcUFofIBRNJQcEHkUpN,2024-11-13,2024-12-02,Unassigned,2025-12-10 13:49:04
+489,TCK-AOQZV2H6,Medium,Resolved,Other,Issue related to Software,Detailed ticket description YNdClgKkarsGORZiYcGM,2023-09-26,2023-10-23,Admin,2025-12-10 13:49:04
+490,TCK-9UE9S26T,Low,Closed,Hardware,Issue related to Access Request,Detailed ticket description dxWtvYVTLLcchkmiefcq,2023-04-04,,Technician B,2025-12-10 13:49:04
+491,TCK-K5GLF60N,Critical,In Progress,Software,Issue related to Software,Detailed ticket description AEkDvWqWqqryEaZdOAYL,2023-03-12,2023-03-20,IT Support 1,2025-12-10 13:49:04
+492,TCK-I8T14FZZ,Critical,In Progress,Hardware,Issue related to Access Request,Detailed ticket description YOzKaSRHFekxDrqoWwPS,2024-06-28,2024-07-21,Admin,2025-12-10 13:49:04
+493,TCK-76TW6C5G,Low,Resolved,Hardware,Issue related to Security,Detailed ticket description EGZIxsodVfAZCDvupBuQ,2024-02-02,,Unassigned,2025-12-10 13:49:04
+494,TCK-1K994459,High,In Progress,Security,Issue related to Software,Detailed ticket description KOdbzSAYzMueVtahuimG,2024-03-25,,IT Support 1,2025-12-10 13:49:04
+495,TCK-TM5ETMJC,Critical,Closed,Security,Issue related to Software,Detailed ticket description kdzaPAnurFsIAfeJJKWi,2023-08-23,2023-09-13,IT Support 1,2025-12-10 13:49:04
+496,TCK-JKWYDQBT,High,On Hold,Software,Issue related to Network,Detailed ticket description FdDEKHPjQHeYvaUqrPTp,2024-11-19,,Unassigned,2025-12-10 13:49:04
+497,TCK-GWCHMBVZ,Medium,Resolved,Hardware,Issue related to Hardware,Detailed ticket description sVDWfvjarnziGhMswolX,2023-03-25,2023-04-19,Technician A,2025-12-10 13:49:04
+498,TCK-HBNBKU3K,High,Open,Software,Issue related to Hardware,Detailed ticket description POScXiSNDqDqLkpHDymC,2023-08-22,2023-09-08,Technician B,2025-12-10 13:49:04
+499,TCK-UC5W78KI,High,Closed,Other,Issue related to Security,Detailed ticket description FTJcvhTladZBSrRrxViK,2024-03-13,2024-04-10,Technician B,2025-12-10 13:49:04
+500,TCK-VDBYDMMT,Critical,On Hold,Other,Issue related to Hardware,Detailed ticket description JLIXjqOPUYztGjfzswMX,2023-04-04,,Technician B,2025-12-10 13:49:04
+501,TCK-GV8NY6YH,High,Closed,Other,Issue related to Security,Detailed ticket description DzIfpkLKxdBTvbZssxiy,2023-02-04,2023-02-27,Unassigned,2025-12-10 13:49:04
+502,TCK-WHS8STEZ,Critical,In Progress,Access Request,Issue related to Other,Detailed ticket description otDVqyotHhQnwQuATzlG,2023-06-16,2023-07-12,IT Support 2,2025-12-10 13:49:04
+503,TCK-6ZL1KXZU,Critical,In Progress,Other,Issue related to Access Request,Detailed ticket description MQtOebnACzxkrJSlGFYx,2023-07-26,,IT Support 1,2025-12-10 13:49:04
+504,TCK-A934GEDD,Medium,Closed,Other,Issue related to Security,Detailed ticket description OqoQMXlcbtPXvcNqnLhT,2023-09-21,,Technician A,2025-12-10 13:49:04
+505,TCK-JQ72HTJ0,Medium,On Hold,Other,Issue related to Security,Detailed ticket description PrEXVWcLLwytHSfOfQVj,2023-02-25,2023-03-14,Admin,2025-12-10 13:49:04
+506,TCK-Y5DHF23W,Low,Closed,Network,Issue related to Access Request,Detailed ticket description bFWFrbxiwtCxbrikKVMZ,2024-07-17,2024-07-21,IT Support 1,2025-12-10 13:49:04
+507,TCK-XSC40GMQ,Medium,Resolved,Network,Issue related to Software,Detailed ticket description mLFATgGknxehqyvSiTZN,2023-03-06,2023-03-29,Admin,2025-12-10 13:49:04
+508,TCK-IS68H901,Critical,Resolved,Access Request,Issue related to Network,Detailed ticket description XMrnmStdreiqYSUrfaPL,2023-12-13,2024-01-12,IT Support 1,2025-12-10 13:49:04
+509,TCK-S3JLINX4,Medium,Closed,Security,Issue related to Other,Detailed ticket description rtUDPnulpnXwVpwNyetf,2023-08-23,2023-09-03,IT Support 2,2025-12-10 13:49:04
+510,TCK-PFUMK6Q0,Medium,In Progress,Security,Issue related to Access Request,Detailed ticket description JRyMQTNfPXtDwXGIvwev,2023-01-26,2023-02-20,IT Support 2,2025-12-10 13:49:04
+511,TCK-84FXFRY1,Low,On Hold,Network,Issue related to Software,Detailed ticket description QqURxXQawTFhQfkAhVNo,2023-09-19,,Unassigned,2025-12-10 13:49:04
+512,TCK-50RKWKQ6,High,Closed,Network,Issue related to Access Request,Detailed ticket description EjBYzrPgfJOXaAgHPSZZ,2023-12-30,,IT Support 1,2025-12-10 13:49:04
+513,TCK-3M7Z8WZJ,Medium,In Progress,Other,Issue related to Network,Detailed ticket description JcIOLVBiMQtsjlfPIOTf,2023-07-04,2023-07-22,IT Support 2,2025-12-10 13:49:04
+514,TCK-DG0IHHMO,Low,In Progress,Software,Issue related to Other,Detailed ticket description IxgTXBbvJUYaMiZpfERU,2024-03-10,2024-03-21,IT Support 1,2025-12-10 13:49:04
+515,TCK-02TX4336,High,Open,Hardware,Issue related to Hardware,Detailed ticket description oBOgjJEMafSHrgrotsQY,2023-11-15,,IT Support 1,2025-12-10 13:49:04
+516,TCK-4OJC00EC,High,Resolved,Software,Issue related to Network,Detailed ticket description HAbkgRWFpPwEKswfCgmD,2024-01-29,2024-02-03,Unassigned,2025-12-10 13:49:04
+517,TCK-UP8UIS1Y,Critical,Closed,Access Request,Issue related to Other,Detailed ticket description kCNXjtIFjcUTfwhzusDs,2023-06-06,,Admin,2025-12-10 13:49:04
+518,TCK-BJSUD3PC,High,Closed,Hardware,Issue related to Other,Detailed ticket description iIDDlIjYsSRvtNjbABsl,2024-01-04,,Admin,2025-12-10 13:49:04
+519,TCK-MFUCT6RT,Medium,Open,Other,Issue related to Hardware,Detailed ticket description eiKDFyvSQoCHbdlZaYXY,2023-01-22,2023-02-14,IT Support 1,2025-12-10 13:49:04
+520,TCK-E3NCFLJC,Critical,Resolved,Software,Issue related to Access Request,Detailed ticket description XjfyavFldPGSOBaagmrL,2024-02-16,,IT Support 2,2025-12-10 13:49:04
+521,TCK-AIH1NXIJ,Critical,Resolved,Software,Issue related to Access Request,Detailed ticket description NTdkSUrtLiYrLdEgcaDP,2024-06-23,,IT Support 1,2025-12-10 13:49:04
+522,TCK-XFH8WT3V,High,Resolved,Software,Issue related to Network,Detailed ticket description zrXUhrRPvapKaNpZqZUH,2023-01-26,2023-02-15,Technician B,2025-12-10 13:49:04
+523,TCK-9W01QOWM,Medium,Resolved,Software,Issue related to Software,Detailed ticket description eaoCSUaGuaxjPuehuDpv,2024-04-16,2024-04-21,Technician B,2025-12-10 13:49:04
+524,TCK-KDXTC04H,High,In Progress,Security,Issue related to Network,Detailed ticket description ItChzfJsZitaVuKCrtKk,2023-02-19,2023-03-07,Unassigned,2025-12-10 13:49:04
+525,TCK-LA9BWVRB,Critical,Open,Access Request,Issue related to Software,Detailed ticket description dSGRzBolUFNQKPXpsUsN,2024-02-20,2024-03-07,IT Support 1,2025-12-10 13:49:04
+526,TCK-AYPYAC49,Medium,Open,Security,Issue related to Security,Detailed ticket description yqWHhNBKOmyRxLpqQHjm,2023-05-22,,Admin,2025-12-10 13:49:04
+527,TCK-3RVC8WVL,Critical,Resolved,Network,Issue related to Other,Detailed ticket description xZGDlJtEqfSffDggWqfQ,2024-05-23,2024-05-24,IT Support 1,2025-12-10 13:49:04
+528,TCK-CJJBWJ49,Low,Closed,Security,Issue related to Software,Detailed ticket description VbfQsfbKZlJlWvrupykq,2023-08-10,2023-08-12,Technician B,2025-12-10 13:49:04
+529,TCK-FCUITTH8,Medium,In Progress,Network,Issue related to Access Request,Detailed ticket description yGIjfDANFzQuwkbIHqHa,2023-01-31,,Unassigned,2025-12-10 13:49:04
+530,TCK-MYF2P4NR,Low,Closed,Access Request,Issue related to Access Request,Detailed ticket description rvlUALugchhcCBFIuiDX,2023-12-12,2023-12-30,Admin,2025-12-10 13:49:04
+531,TCK-DSVDA97C,Low,On Hold,Security,Issue related to Network,Detailed ticket description jLsOzKICIXOgBWexJXqc,2024-09-17,,IT Support 1,2025-12-10 13:49:04
+532,TCK-0KP8BJS5,High,Closed,Other,Issue related to Software,Detailed ticket description twRjBdVXareLwOSEhgnO,2023-08-21,,Technician A,2025-12-10 13:49:04
+533,TCK-YJWNGIQ9,Medium,Resolved,Access Request,Issue related to Access Request,Detailed ticket description XWCEhrSZvUEarlzklEnY,2024-06-14,,IT Support 1,2025-12-10 13:49:04
+534,TCK-AGEJLUY3,Low,Closed,Other,Issue related to Other,Detailed ticket description LDNKPPuezdIdUVthNLqV,2024-03-16,2024-04-03,IT Support 2,2025-12-10 13:49:04
+535,TCK-SV74SVUT,Medium,Closed,Security,Issue related to Network,Detailed ticket description cwSLMKMsIeOwBquPjWLx,2024-10-14,2024-10-27,IT Support 1,2025-12-10 13:49:04
+536,TCK-VG2CUY53,Low,Resolved,Security,Issue related to Hardware,Detailed ticket description zqlzoUOobKyRKnJHGgsH,2023-10-12,2023-10-18,IT Support 1,2025-12-10 13:49:04
+537,TCK-4NV75MIP,Low,On Hold,Security,Issue related to Access Request,Detailed ticket description phaEAeoGzYGfmgVqJVif,2024-04-06,2024-04-13,Technician B,2025-12-10 13:49:04
+538,TCK-78EDWDUH,High,Resolved,Security,Issue related to Other,Detailed ticket description WqRrCHzULBEGCFscmPbu,2023-02-27,2023-03-04,Technician B,2025-12-10 13:49:04
+539,TCK-3CIZF6P4,High,In Progress,Security,Issue related to Software,Detailed ticket description PixqbDnBIhIAaZFxrshi,2023-07-29,2023-08-17,Technician B,2025-12-10 13:49:04
+540,TCK-9XRPMUFL,Critical,In Progress,Security,Issue related to Access Request,Detailed ticket description jBztXlGUSHjjOKkLqume,2024-08-05,2024-09-02,IT Support 2,2025-12-10 13:49:04
+541,TCK-07B4NY2D,Critical,Resolved,Hardware,Issue related to Hardware,Detailed ticket description SJYtUgixjEdMuLZRVVfC,2023-10-02,2023-10-14,Technician A,2025-12-10 13:49:04
+542,TCK-3QAEZFGH,Medium,Resolved,Other,Issue related to Access Request,Detailed ticket description iXZuBZGkpuOztMtlFhFd,2023-01-09,2023-02-07,Technician A,2025-12-10 13:49:04
+543,TCK-A240SL6I,Low,Resolved,Network,Issue related to Network,Detailed ticket description AoeHxAWoYbsKwtAandtg,2023-04-22,2023-05-16,IT Support 2,2025-12-10 13:49:04
+544,TCK-VAYFRVYS,Critical,Open,Hardware,Issue related to Software,Detailed ticket description MAsKoomClcMjBnINcuFN,2024-08-25,,IT Support 2,2025-12-10 13:49:04
+545,TCK-GJ3MJU8V,High,Resolved,Software,Issue related to Hardware,Detailed ticket description CEIRQDdUzFzvqrNywgHC,2023-01-24,,Technician B,2025-12-10 13:49:04
+546,TCK-KRA27JRP,Low,In Progress,Network,Issue related to Other,Detailed ticket description imZgsgJIKgTGGfZYKeso,2024-04-11,,Technician B,2025-12-10 13:49:04
+547,TCK-LMR9FOJI,Critical,On Hold,Access Request,Issue related to Software,Detailed ticket description YnlRNktGqftoUrjeQnRw,2024-04-18,2024-04-22,Technician B,2025-12-10 13:49:04
+548,TCK-G897DXAH,High,On Hold,Hardware,Issue related to Access Request,Detailed ticket description cpdadowzoLclobvseSBO,2024-09-10,2024-09-14,Technician A,2025-12-10 13:49:04
+549,TCK-1V81KZV3,Medium,Open,Other,Issue related to Network,Detailed ticket description LLhSeBFmBMzRRFSnbGEv,2024-08-19,2024-09-15,Technician A,2025-12-10 13:49:04
+550,TCK-4WLJU3AN,Critical,On Hold,Software,Issue related to Network,Detailed ticket description TkdXrzEhzBGpaAyTlZKO,2024-03-18,2024-03-24,Technician B,2025-12-10 13:49:04
+551,TCK-BHYZFC5P,Low,Resolved,Network,Issue related to Network,Detailed ticket description nAaJAATufNsVWiYFkote,2024-05-23,,Technician B,2025-12-10 13:49:04
+552,TCK-0QEU6LX3,Critical,In Progress,Hardware,Issue related to Network,Detailed ticket description qIXHGCEbYviEdqmxmOft,2023-03-20,2023-04-15,Technician B,2025-12-10 13:49:04
+553,TCK-Z3X4NLFO,Medium,Resolved,Software,Issue related to Other,Detailed ticket description LuHSCRktcvKdTFIogWpF,2024-03-16,2024-03-26,IT Support 1,2025-12-10 13:49:04
+554,TCK-ENBNQXL0,Medium,In Progress,Hardware,Issue related to Software,Detailed ticket description gpgFxrudhnywiRlOmwBQ,2024-02-25,2024-03-03,IT Support 1,2025-12-10 13:49:04
+555,TCK-BM83HMNR,High,In Progress,Hardware,Issue related to Hardware,Detailed ticket description WPyIVtEYbUGmOcRmeysi,2024-02-16,2024-03-09,IT Support 1,2025-12-10 13:49:04
+556,TCK-87Z2Y84L,High,Closed,Software,Issue related to Other,Detailed ticket description tDkcIidwcaZzVYWGWied,2024-07-02,2024-07-03,Admin,2025-12-10 13:49:04
+557,TCK-HS8D8P0U,Low,In Progress,Hardware,Issue related to Other,Detailed ticket description htUmYRtwlfaTrplzUjVP,2024-09-19,,IT Support 2,2025-12-10 13:49:04
+558,TCK-83PON0JQ,Low,Resolved,Security,Issue related to Software,Detailed ticket description HlSwenrwfgPclXZjzXsi,2023-09-08,2023-09-23,IT Support 1,2025-12-10 13:49:04
+559,TCK-CD6TGH66,High,On Hold,Access Request,Issue related to Security,Detailed ticket description qIcaBUjuUrzAbGRdbMyq,2024-08-28,2024-09-14,IT Support 1,2025-12-10 13:49:04
+560,TCK-9FA6WL8B,Critical,Resolved,Other,Issue related to Software,Detailed ticket description YSsXxcVpNgFeBcygCHeE,2024-08-25,2024-08-29,IT Support 2,2025-12-10 13:49:04
+561,TCK-0ZJAOS7Q,Medium,Open,Hardware,Issue related to Hardware,Detailed ticket description aKZFDBENUqGJMavvHtwr,2024-07-09,2024-07-22,Admin,2025-12-10 13:49:04
+562,TCK-TTZK4WFI,High,Resolved,Security,Issue related to Security,Detailed ticket description rgEmZYnYgRGwImgPgeYF,2024-06-19,2024-07-14,Unassigned,2025-12-10 13:49:04
+563,TCK-SGXWCPKQ,Critical,On Hold,Access Request,Issue related to Security,Detailed ticket description yfzrYaSyLTnptnEIgcPl,2023-02-19,2023-03-18,Admin,2025-12-10 13:49:04
+564,TCK-65F30RDY,Low,On Hold,Network,Issue related to Security,Detailed ticket description fsyJSRlsWiildOfFNOSz,2024-11-20,2024-11-28,Admin,2025-12-10 13:49:04
+565,TCK-21KJ4OOQ,Low,Closed,Access Request,Issue related to Other,Detailed ticket description svZvIGSqrztNHIrCyxwP,2023-12-07,,Technician B,2025-12-10 13:49:04
+566,TCK-J7UBT9R9,Critical,On Hold,Hardware,Issue related to Network,Detailed ticket description WgdHqVirwFWxlXiAwmaE,2023-05-13,,Technician A,2025-12-10 13:49:04
+567,TCK-RKERT05U,Critical,Open,Hardware,Issue related to Network,Detailed ticket description vNjjnrmWKTUCTzdjWpNt,2024-10-26,2024-11-13,IT Support 2,2025-12-10 13:49:04
+568,TCK-0JLTY7EH,Medium,Open,Software,Issue related to Network,Detailed ticket description twCGlhBFfMVSPVoYBOLG,2024-10-28,,Admin,2025-12-10 13:49:04
+569,TCK-R7XGF37T,Medium,Closed,Software,Issue related to Security,Detailed ticket description veVHcsSzOoAKqdtZJpAi,2024-03-22,2024-04-20,Unassigned,2025-12-10 13:49:04
+570,TCK-GXQV9C4V,High,On Hold,Hardware,Issue related to Access Request,Detailed ticket description tOijIPHvOIoWDcAaHfBq,2023-01-31,2023-02-28,Technician A,2025-12-10 13:49:04
+571,TCK-LGVHW07Q,Medium,Open,Access Request,Issue related to Hardware,Detailed ticket description RvyTsdkfmQONFCrIYooh,2024-03-29,2024-04-05,Unassigned,2025-12-10 13:49:04
+572,TCK-NSTXU0LA,Critical,Open,Security,Issue related to Network,Detailed ticket description AHNopAyBqsuPuvpHhNEe,2024-02-11,,IT Support 1,2025-12-10 13:49:04
+573,TCK-JB834B4W,High,Resolved,Hardware,Issue related to Security,Detailed ticket description BXfBfpsjyHeAUYymCLER,2023-06-30,2023-07-02,IT Support 1,2025-12-10 13:49:04
+574,TCK-6QUP4SYF,Medium,Open,Hardware,Issue related to Access Request,Detailed ticket description fhnqWsvJdTalZBADUJGN,2024-02-20,2024-03-15,Admin,2025-12-10 13:49:04
+575,TCK-XWZN71P1,Critical,Closed,Other,Issue related to Network,Detailed ticket description XVHpZgQnRmtYbxKWSKHc,2024-02-17,,IT Support 1,2025-12-10 13:49:04
+576,TCK-S9B4939Q,High,In Progress,Hardware,Issue related to Network,Detailed ticket description DcqPItqpLPPIjXgdGEpc,2023-12-24,,IT Support 2,2025-12-10 13:49:04
+577,TCK-U71TBSF5,High,In Progress,Access Request,Issue related to Other,Detailed ticket description wfkNGakhuglzoroswrOM,2024-08-31,2024-09-05,Admin,2025-12-10 13:49:04
+578,TCK-SDV3YWYK,Low,On Hold,Other,Issue related to Hardware,Detailed ticket description DHFFhRnrqoFmfNvMYnPF,2023-10-25,,Technician A,2025-12-10 13:49:04
+579,TCK-2NPF47W3,Medium,In Progress,Other,Issue related to Security,Detailed ticket description ZYevXDyftqYkESMevyQO,2023-06-17,2023-07-11,Technician B,2025-12-10 13:49:04
+580,TCK-28J83EB2,Critical,Closed,Hardware,Issue related to Network,Detailed ticket description HLqlYTyVEXJAwKTVrXdU,2024-09-03,2024-10-03,IT Support 1,2025-12-10 13:49:04
+581,TCK-ZZE9RL5L,Critical,On Hold,Software,Issue related to Hardware,Detailed ticket description IeAtdDcBsbyNeWbFGIZG,2024-04-09,,Unassigned,2025-12-10 13:49:04
+582,TCK-VGG6L9TR,Medium,In Progress,Security,Issue related to Access Request,Detailed ticket description wBNwDvqBUMDizLmFKrvm,2023-04-03,,Admin,2025-12-10 13:49:04
+583,TCK-9J76IJTJ,Low,Closed,Software,Issue related to Access Request,Detailed ticket description YROQGOIIzrxhxGENtiPQ,2024-09-21,2024-10-13,Technician B,2025-12-10 13:49:04
+584,TCK-8PL61PGX,Critical,Open,Access Request,Issue related to Other,Detailed ticket description NsFmFrSaYUIVKGRnnriG,2024-05-04,2024-05-07,IT Support 2,2025-12-10 13:49:04
+585,TCK-LQW5RAYG,Critical,On Hold,Access Request,Issue related to Hardware,Detailed ticket description qRlPmhglySvQLgIBBadh,2023-12-10,2023-12-18,Technician A,2025-12-10 13:49:04
+586,TCK-XRPMIG20,High,Closed,Software,Issue related to Security,Detailed ticket description BpQjDeJdoBnZSsWSywgU,2023-04-20,,Unassigned,2025-12-10 13:49:04
+587,TCK-0AIINISV,Low,Open,Security,Issue related to Other,Detailed ticket description VsqOLmEXzoaXNapODvJC,2023-05-14,2023-06-05,Technician A,2025-12-10 13:49:04
+588,TCK-0OGNIU5C,Critical,Open,Security,Issue related to Access Request,Detailed ticket description eTMvfVKKMxAYKGLRLdWE,2023-08-03,2023-08-23,Technician B,2025-12-10 13:49:04
+589,TCK-87AYEF4A,Low,On Hold,Access Request,Issue related to Other,Detailed ticket description NPRYrPPkoQVoyLbfvOSi,2024-02-06,2024-02-07,IT Support 1,2025-12-10 13:49:04
+590,TCK-LU6YSR3N,Critical,Resolved,Access Request,Issue related to Network,Detailed ticket description ghCpQNSlsUshMgBKxxVA,2023-12-15,2023-12-25,Technician A,2025-12-10 13:49:04
+591,TCK-7MQM850W,Low,Resolved,Other,Issue related to Other,Detailed ticket description lUjZwiOlKbwDSzCcfOiR,2024-10-12,2024-10-24,IT Support 1,2025-12-10 13:49:04
+592,TCK-N8BD8F69,Medium,Resolved,Other,Issue related to Access Request,Detailed ticket description AMigaCpfGcsAbFclxYrh,2024-01-28,2024-02-21,IT Support 2,2025-12-10 13:49:04
+593,TCK-NR2FUNAW,Low,Resolved,Network,Issue related to Other,Detailed ticket description NbRaKQtrzMfzILJpgrqO,2023-04-05,2023-05-03,Technician B,2025-12-10 13:49:04
+594,TCK-B5FG80VZ,Critical,Resolved,Network,Issue related to Software,Detailed ticket description lHwgXbtwTdoYlhlhkvVD,2024-08-02,2024-08-20,Admin,2025-12-10 13:49:04
+595,TCK-MWGCI7ST,Critical,Closed,Security,Issue related to Access Request,Detailed ticket description XliZqbzxDaanPXGHmlSK,2023-07-09,2023-07-24,Technician B,2025-12-10 13:49:04
+596,TCK-9JY8RE30,High,In Progress,Access Request,Issue related to Access Request,Detailed ticket description OMhAmGOulWcomfcoJJVA,2024-03-15,2024-04-01,IT Support 1,2025-12-10 13:49:04
+597,TCK-PPUG0S04,Critical,Closed,Software,Issue related to Access Request,Detailed ticket description tJVodjPvKlDHLQngyGfr,2023-02-06,2023-02-23,Technician B,2025-12-10 13:49:04
+598,TCK-7W8JZOW1,High,In Progress,Hardware,Issue related to Access Request,Detailed ticket description sFlwLVJudpEciYLdEZDW,2023-09-18,,IT Support 2,2025-12-10 13:49:04
+599,TCK-L1FBDXYJ,Medium,Closed,Other,Issue related to Software,Detailed ticket description jtqsAWuMTgRGWIdvyRKN,2024-02-07,2024-02-14,Admin,2025-12-10 13:49:04
+600,TCK-5JVNM4BU,Low,Open,Access Request,Issue related to Access Request,Detailed ticket description LaTgeIQZddSYUfHDvQqr,2023-12-29,2024-01-09,IT Support 1,2025-12-10 13:49:04
+601,TCK-JAJ8NK0Z,High,Open,Network,Issue related to Security,Detailed ticket description etFpzANABuGlmiRORTBM,2024-09-15,2024-10-06,Unassigned,2025-12-10 13:49:04
+602,TCK-C9P03GVU,Medium,Closed,Access Request,Issue related to Software,Detailed ticket description WWMZDKKcibdwihXSMAYS,2023-03-22,2023-04-15,Unassigned,2025-12-10 13:49:04
+603,TCK-SOAJ8BWE,High,Open,Access Request,Issue related to Other,Detailed ticket description iHhLdVwOGJBKorvIqZku,2024-07-30,2024-08-19,Admin,2025-12-10 13:49:04
+604,TCK-DQ8CRKGO,High,On Hold,Hardware,Issue related to Network,Detailed ticket description jMKuIDZfASuMmrNLXGHn,2023-01-28,2023-02-10,IT Support 1,2025-12-10 13:49:04
+605,TCK-NY8VIUR4,Medium,Resolved,Other,Issue related to Access Request,Detailed ticket description JAskYDgciaucCNlePocN,2023-11-04,2023-11-20,Technician A,2025-12-10 13:49:04
+606,TCK-70NAVF16,High,Resolved,Access Request,Issue related to Security,Detailed ticket description AFvjFUWhLtJCvtYSQBoc,2023-05-14,2023-06-11,IT Support 2,2025-12-10 13:49:04
+607,TCK-0B6RVSYW,Critical,Closed,Other,Issue related to Network,Detailed ticket description LkiiKjwHLvvAEQzGaOFB,2023-11-08,2023-11-23,Technician B,2025-12-10 13:49:04
+608,TCK-RQQ3BG8V,Critical,In Progress,Security,Issue related to Access Request,Detailed ticket description GwbkKDzTCqEdVXbFDRjH,2023-07-18,2023-07-30,Technician B,2025-12-10 13:49:04
+609,TCK-NJ88US6U,Critical,Open,Other,Issue related to Security,Detailed ticket description OsSvPjWzsqIbClOdmfGI,2024-08-26,2024-09-02,Unassigned,2025-12-10 13:49:04
+610,TCK-8RYH2HL2,Critical,Open,Hardware,Issue related to Software,Detailed ticket description WSqHSzbwLwgONeBDvDYV,2023-12-02,2023-12-03,IT Support 2,2025-12-10 13:49:04
+611,TCK-ANOJYP0L,Medium,On Hold,Security,Issue related to Access Request,Detailed ticket description lNPkCvXDYaNXppOIppAN,2023-08-17,2023-08-25,IT Support 2,2025-12-10 13:49:04
+612,TCK-34ZQJ7QF,Medium,Closed,Network,Issue related to Software,Detailed ticket description XBTLqPSdscHYxzPydwrW,2024-06-10,2024-07-01,Technician B,2025-12-10 13:49:04
+613,TCK-Z0OL093U,Critical,On Hold,Software,Issue related to Software,Detailed ticket description UbbAOvCJVQVVHLHlABln,2023-09-02,,IT Support 1,2025-12-10 13:49:04
+614,TCK-Y6UMCZH9,Medium,In Progress,Hardware,Issue related to Network,Detailed ticket description QnazMSEktTBdUymvFzFG,2023-11-23,2023-12-21,Admin,2025-12-10 13:49:04
+615,TCK-6EDZ548V,Low,Open,Network,Issue related to Security,Detailed ticket description EHNhqLoBfEEmELtJZhhY,2024-11-17,2024-11-24,IT Support 1,2025-12-10 13:49:04
+616,TCK-V0UQ8RMC,High,On Hold,Hardware,Issue related to Software,Detailed ticket description UauOvaTcRrzFKbyhgSsR,2023-03-04,,Admin,2025-12-10 13:49:04
+617,TCK-S4X4LQWN,Critical,Open,Access Request,Issue related to Software,Detailed ticket description xrNjdbFDmSKJdoNzVmBv,2024-04-22,2024-05-02,IT Support 2,2025-12-10 13:49:04
+618,TCK-L1MS712G,High,On Hold,Network,Issue related to Hardware,Detailed ticket description hzXQUjdzkUvcnwBfQyLs,2023-01-18,2023-01-21,Unassigned,2025-12-10 13:49:04
+619,TCK-GTB6HHO3,Low,Closed,Security,Issue related to Hardware,Detailed ticket description DRZdhEisszgkisIWuyQB,2023-06-16,,Admin,2025-12-10 13:49:04
+620,TCK-YDJTEE7Q,Low,Closed,Other,Issue related to Software,Detailed ticket description agSduubLpZqcPDPCuTPC,2024-08-18,,IT Support 1,2025-12-10 13:49:04
+621,TCK-RV3CC8OS,Critical,Resolved,Other,Issue related to Other,Detailed ticket description VrDlGcdWDqxxXzKYzuVR,2023-02-02,2023-03-04,IT Support 1,2025-12-10 13:49:04
+622,TCK-TAILJQLH,Medium,Closed,Security,Issue related to Software,Detailed ticket description RhMCQpXINwIEYlqXJfBL,2023-12-22,2023-12-27,Admin,2025-12-10 13:49:04
+623,TCK-RFWMF7F6,Critical,On Hold,Security,Issue related to Security,Detailed ticket description HoChkDLPtwpaScCocKHY,2024-03-01,2024-03-05,Admin,2025-12-10 13:49:04
+624,TCK-0UA3APM0,Critical,In Progress,Hardware,Issue related to Security,Detailed ticket description ZweCRTkCxttLbSCQsIQA,2023-04-13,2023-04-26,Technician B,2025-12-10 13:49:04
+625,TCK-ARDEUVNL,Low,On Hold,Software,Issue related to Other,Detailed ticket description bZkwWEJWisivdjpMpOWx,2023-12-13,2023-12-20,Technician A,2025-12-10 13:49:04
+626,TCK-6H6U2HKW,Medium,Closed,Security,Issue related to Security,Detailed ticket description bomLCyfdtYXTvwQizcCr,2024-03-25,,Technician B,2025-12-10 13:49:04
+627,TCK-EUIO3AQU,Critical,On Hold,Hardware,Issue related to Other,Detailed ticket description AMtmtovuMkLyvtHxjKNF,2023-01-17,2023-02-06,Technician B,2025-12-10 13:49:04
+628,TCK-ZC74OURT,Medium,Open,Access Request,Issue related to Other,Detailed ticket description QLGaUuaHBfIaNLKydWFz,2023-11-22,,Technician B,2025-12-10 13:49:04
+629,TCK-6RO0IABV,Low,Open,Network,Issue related to Security,Detailed ticket description meUrmpJbKsRwPalmexvP,2023-02-01,2023-02-28,IT Support 1,2025-12-10 13:49:04
+630,TCK-8ZTGQ18V,Critical,Closed,Access Request,Issue related to Hardware,Detailed ticket description BsddpjVXSiAgQEcMbeTi,2023-01-07,,Unassigned,2025-12-10 13:49:04
+631,TCK-391F9W82,High,Resolved,Access Request,Issue related to Other,Detailed ticket description WaYHmWCneHQyhHWQjHny,2024-04-16,2024-05-07,Technician B,2025-12-10 13:49:04
+632,TCK-09X250NN,High,Closed,Other,Issue related to Access Request,Detailed ticket description yamYkqxbrCmqGhpbGzHx,2024-01-27,,Admin,2025-12-10 13:49:04
+633,TCK-6GA8S8VB,Low,Closed,Other,Issue related to Hardware,Detailed ticket description RyAelyRRZxZqhNbJAeEi,2024-04-20,,Technician B,2025-12-10 13:49:04
+634,TCK-5411XC7X,Critical,In Progress,Network,Issue related to Access Request,Detailed ticket description ClFaXAPKGHfigULJGZXJ,2024-02-28,2024-03-27,Admin,2025-12-10 13:49:04
+635,TCK-BA5PTBUI,Critical,Open,Hardware,Issue related to Software,Detailed ticket description ycwoJVELDDKKJdPAOASr,2023-01-20,,Technician B,2025-12-10 13:49:04
+636,TCK-C01PRYMK,Low,Open,Other,Issue related to Network,Detailed ticket description jzGXjRANMAobiopgJjBK,2023-06-25,2023-06-29,Admin,2025-12-10 13:49:04
+637,TCK-HGVMOROX,Low,Resolved,Network,Issue related to Network,Detailed ticket description uGgaDfXUlNeMeLutFhfU,2023-02-09,2023-03-09,Unassigned,2025-12-10 13:49:04
+638,TCK-6CM7A202,Low,Closed,Access Request,Issue related to Security,Detailed ticket description hZoNopnfMjaIbOOKJAeu,2024-10-14,2024-10-21,IT Support 1,2025-12-10 13:49:04
+639,TCK-RTZP8I92,Critical,Resolved,Access Request,Issue related to Access Request,Detailed ticket description pAjCtwhABCcgtzMJShqp,2023-07-05,2023-08-03,Admin,2025-12-10 13:49:04
+640,TCK-LPW15KLU,High,Closed,Network,Issue related to Network,Detailed ticket description begVSYZZcMGZtiOvQjlK,2024-04-24,2024-05-11,Admin,2025-12-10 13:49:04
+641,TCK-07RI9UMU,Low,Closed,Software,Issue related to Security,Detailed ticket description LhInyIjtFuBhEnsvDYGM,2023-06-25,2023-07-12,Unassigned,2025-12-10 13:49:04
+642,TCK-VGRBKR25,High,Resolved,Software,Issue related to Hardware,Detailed ticket description UChVJvbJRfvTDhbAfQEe,2023-04-17,2023-05-17,IT Support 2,2025-12-10 13:49:04
+643,TCK-JGF7SJ4J,Critical,In Progress,Network,Issue related to Software,Detailed ticket description qyLxRnxgLryWGQsKLCNR,2024-01-02,,Technician A,2025-12-10 13:49:04
+644,TCK-91O3RUZU,Medium,Open,Other,Issue related to Other,Detailed ticket description njVnxjtVRdUNhNMJbadQ,2024-08-10,2024-08-17,IT Support 2,2025-12-10 13:49:04
+645,TCK-Q6OVJU0M,Medium,On Hold,Network,Issue related to Software,Detailed ticket description PTinnqJGmAbfEeOxMsdB,2024-07-18,2024-07-22,Technician B,2025-12-10 13:49:04
+646,TCK-MLZQLFAP,High,Open,Software,Issue related to Security,Detailed ticket description SELWFPIHVwkhOVnEyXRM,2023-07-27,2023-08-05,IT Support 1,2025-12-10 13:49:04
+647,TCK-UVRHSQJA,High,Resolved,Security,Issue related to Network,Detailed ticket description DPbvmfQkVEOXIZqlfwCV,2024-03-07,2024-03-25,Admin,2025-12-10 13:49:04
+648,TCK-741BZLMD,High,Closed,Software,Issue related to Security,Detailed ticket description GkXMprWEDxLVsfuUlEqS,2023-02-08,2023-02-26,Technician B,2025-12-10 13:49:04
+649,TCK-7VWV0VMO,Medium,Open,Other,Issue related to Network,Detailed ticket description NcLiKPWXYvGxquHGtGrt,2023-07-31,2023-08-01,Technician A,2025-12-10 13:49:04
+650,TCK-H5XA3BLM,Low,Closed,Network,Issue related to Security,Detailed ticket description tGAgxsElWEHmEdaeXzPK,2023-05-20,2023-06-05,Technician B,2025-12-10 13:49:04
+651,TCK-JJALOBF4,Critical,Resolved,Hardware,Issue related to Hardware,Detailed ticket description SLtGVXIlmIkwyVLPvhgW,2024-02-04,2024-02-22,Admin,2025-12-10 13:49:04
+652,TCK-XWMRWR32,Medium,On Hold,Hardware,Issue related to Hardware,Detailed ticket description cTEXsvudThFllGNPhPHl,2023-11-12,2023-11-15,IT Support 2,2025-12-10 13:49:04
+653,TCK-Z2FFDUFO,Medium,Resolved,Network,Issue related to Security,Detailed ticket description BlLqCnESwMtqthyStKjL,2023-01-02,2023-01-05,IT Support 2,2025-12-10 13:49:04
+654,TCK-K3S4LELS,High,In Progress,Other,Issue related to Other,Detailed ticket description SZVnsDdskBgTxMpHEdlG,2024-08-23,,Technician B,2025-12-10 13:49:04
+655,TCK-U9LIDVB2,Low,Open,Access Request,Issue related to Other,Detailed ticket description nXRZXSgDNcrtMYhQcLdp,2024-09-11,2024-09-26,Technician A,2025-12-10 13:49:04
+656,TCK-UA4XKXC4,Low,Resolved,Software,Issue related to Access Request,Detailed ticket description aEShxQKkVQVKKrLETmom,2023-07-28,2023-08-04,Admin,2025-12-10 13:49:04
+657,TCK-N11VS2MK,Medium,In Progress,Security,Issue related to Other,Detailed ticket description PeKwwrcZWWdxlWIyzNkG,2024-11-03,2024-11-10,IT Support 2,2025-12-10 13:49:04
+658,TCK-6CLE0DOD,Low,In Progress,Hardware,Issue related to Hardware,Detailed ticket description ObjsjTWaPKMtcrNmzBWl,2024-09-10,2024-09-20,IT Support 2,2025-12-10 13:49:04
+659,TCK-LG07ELNE,Medium,On Hold,Other,Issue related to Software,Detailed ticket description HpHNXbtTjPCymcrQItxU,2023-10-18,2023-10-21,Technician B,2025-12-10 13:49:04
+660,TCK-0GXRNBAM,Medium,Closed,Other,Issue related to Network,Detailed ticket description PfxRwwyzHPyKMUHRTTrd,2023-04-20,,Unassigned,2025-12-10 13:49:04
+661,TCK-UFP8IXIK,Critical,In Progress,Access Request,Issue related to Other,Detailed ticket description sqyuBUrkEkVjHyDQMrHo,2024-03-15,2024-03-28,Technician B,2025-12-10 13:49:04
+662,TCK-MUZSA6LP,Low,Closed,Network,Issue related to Hardware,Detailed ticket description bHtucCWzuacueptmAxNZ,2024-08-22,2024-09-16,Unassigned,2025-12-10 13:49:04
+663,TCK-37REVOOY,Critical,On Hold,Network,Issue related to Other,Detailed ticket description muJmkyYCcdVvmGyssMkA,2024-05-30,,IT Support 1,2025-12-10 13:49:04
+664,TCK-XYAJE7CX,Medium,Resolved,Other,Issue related to Access Request,Detailed ticket description miTpUhwdbLEtuaDTzIgS,2024-02-29,2024-03-07,Admin,2025-12-10 13:49:04
+665,TCK-L44NGS81,Low,Resolved,Hardware,Issue related to Network,Detailed ticket description jcFYuJmZQXKMfQWbDUDj,2024-03-04,2024-03-13,Technician B,2025-12-10 13:49:04
+666,TCK-KBLCRZR3,Medium,On Hold,Other,Issue related to Access Request,Detailed ticket description ftbaUsLPjjfYfpMNVYkx,2023-05-01,2023-05-13,Unassigned,2025-12-10 13:49:04
+667,TCK-T8I913FR,Medium,In Progress,Other,Issue related to Software,Detailed ticket description ilHlkcqUeHkYZbAogzPb,2024-10-04,2024-10-12,IT Support 1,2025-12-10 13:49:04
+668,TCK-MXD0L0W6,Critical,Resolved,Software,Issue related to Access Request,Detailed ticket description YoxJXOBJbtvyyShSeJiM,2023-09-28,2023-10-22,Technician B,2025-12-10 13:49:04
+669,TCK-NV9TNIDP,Low,On Hold,Access Request,Issue related to Other,Detailed ticket description mxKcIPkTaPQtWFdYqljQ,2024-06-30,2024-07-12,Technician A,2025-12-10 13:49:04
+670,TCK-44EMZTD5,Low,Open,Access Request,Issue related to Access Request,Detailed ticket description sOiRzydToiykGQnyXByu,2023-07-08,,Technician B,2025-12-10 13:49:04
+671,TCK-V2PATT82,High,Open,Other,Issue related to Network,Detailed ticket description mgxlWNLWKPBZTzUyeQMY,2023-02-02,2023-02-17,IT Support 2,2025-12-10 13:49:04
+672,TCK-KJA9ZOZT,High,Resolved,Software,Issue related to Security,Detailed ticket description KNoKANadNQAkjNXiRtLK,2024-07-23,,Technician A,2025-12-10 13:49:04
+673,TCK-0GAQ6DWR,High,In Progress,Network,Issue related to Security,Detailed ticket description TLaXwlwraAmbzSKyjVWM,2024-08-17,2024-08-27,IT Support 2,2025-12-10 13:49:04
+674,TCK-ZZMAEJ30,Low,On Hold,Security,Issue related to Hardware,Detailed ticket description taozRmJInQgkgSmqAJDZ,2024-05-05,2024-05-25,IT Support 2,2025-12-10 13:49:04
+675,TCK-YH2XJPLC,Low,Resolved,Access Request,Issue related to Network,Detailed ticket description mMBrfYWAAiMMbWmZnzUe,2024-08-25,2024-09-22,Technician A,2025-12-10 13:49:04
+676,TCK-CX3JXQ24,High,On Hold,Security,Issue related to Software,Detailed ticket description xQamPyTcsyjstzLKpheI,2024-07-23,2024-08-22,IT Support 1,2025-12-10 13:49:04
+677,TCK-N35MIVB1,Critical,Resolved,Software,Issue related to Access Request,Detailed ticket description FUcjPwvycQfKnZGuTrdg,2024-10-27,2024-11-01,IT Support 2,2025-12-10 13:49:04
+678,TCK-Z7WDRAD9,High,On Hold,Hardware,Issue related to Security,Detailed ticket description yENAlEXplYyudfFaudtK,2023-01-27,2023-02-26,Unassigned,2025-12-10 13:49:04
+679,TCK-W8MO5ZPX,Critical,On Hold,Access Request,Issue related to Security,Detailed ticket description lrAGmtoSIWVaqTCowHRl,2024-01-23,,Admin,2025-12-10 13:49:04
+680,TCK-RZ56IKT3,Low,In Progress,Security,Issue related to Security,Detailed ticket description RWgXfqwXqNVbDacmWjIy,2023-05-11,,Technician B,2025-12-10 13:49:04
+681,TCK-YNBEE19Q,Critical,Open,Network,Issue related to Access Request,Detailed ticket description iLbsaXuiOCaTNzrJfVva,2023-05-20,2023-05-29,Technician B,2025-12-10 13:49:04
+682,TCK-CKEEZ86C,Low,In Progress,Hardware,Issue related to Other,Detailed ticket description LeIAJtLjyEYVkrRFnWRY,2024-08-04,2024-08-22,Admin,2025-12-10 13:49:04
+683,TCK-OMJW04T7,Medium,Closed,Software,Issue related to Security,Detailed ticket description RrneMNlnVrrLhmgORQvy,2023-09-18,,Unassigned,2025-12-10 13:49:04
+684,TCK-DEG3ZA6K,Medium,Resolved,Network,Issue related to Other,Detailed ticket description hqlqVBLcNqyUcMMrnjmr,2023-04-25,2023-05-19,Admin,2025-12-10 13:49:04
+685,TCK-FPYWBEIX,High,Closed,Software,Issue related to Network,Detailed ticket description nVkaNQXrLfMlsgEHAcZn,2024-09-27,2024-10-11,Technician B,2025-12-10 13:49:04
+686,TCK-3MAIPFC4,Low,Resolved,Network,Issue related to Other,Detailed ticket description SebNGwTkdaXmYqFzTEgm,2023-02-10,,Technician A,2025-12-10 13:49:04
+687,TCK-TJJOCXEO,Critical,Closed,Network,Issue related to Hardware,Detailed ticket description mhKMKAugLNHhfgAfkVGq,2024-03-09,2024-03-28,Admin,2025-12-10 13:49:04
+688,TCK-94B8S4WH,High,In Progress,Other,Issue related to Access Request,Detailed ticket description pLPzYOPQYKfMnDeBtKEc,2023-12-18,2023-12-29,Unassigned,2025-12-10 13:49:04
+689,TCK-2IM622T6,Low,Closed,Security,Issue related to Software,Detailed ticket description wGAqNqXjqNkuMEnuLyFw,2024-07-07,,Admin,2025-12-10 13:49:04
+690,TCK-45Q1ZWKE,Critical,Open,Software,Issue related to Hardware,Detailed ticket description qzdaIAwKnFhonFgrrSpf,2024-03-08,2024-03-19,Technician A,2025-12-10 13:49:04
+691,TCK-0KUDI4TY,Low,Open,Network,Issue related to Other,Detailed ticket description sDWhiqnqSlXxJGREWkSp,2023-07-18,2023-07-21,Unassigned,2025-12-10 13:49:04
+692,TCK-8UAPLTUY,Low,Resolved,Access Request,Issue related to Other,Detailed ticket description paXxpYDVDlFusRcaUFwR,2024-04-07,2024-04-29,IT Support 2,2025-12-10 13:49:04
+693,TCK-XZUG83A1,Medium,In Progress,Other,Issue related to Hardware,Detailed ticket description mBuPOoryeYEddBGpKcCN,2023-02-04,2023-02-22,Technician B,2025-12-10 13:49:04
+694,TCK-SIJIY0DG,High,Resolved,Hardware,Issue related to Network,Detailed ticket description GgiHefjXtkUhUfaQhZUj,2024-07-24,2024-07-30,Technician A,2025-12-10 13:49:04
+695,TCK-ZTQOVRNY,Medium,Resolved,Network,Issue related to Security,Detailed ticket description JaAsfuwfQYOkrbkoagVJ,2024-09-25,,IT Support 1,2025-12-10 13:49:04
+696,TCK-YDXBTYAG,Medium,In Progress,Software,Issue related to Other,Detailed ticket description xUKpuBajGuLBqMGQlGtX,2024-07-06,2024-07-24,Technician B,2025-12-10 13:49:04
+697,TCK-MUK3C26V,Critical,In Progress,Network,Issue related to Other,Detailed ticket description cAMaYHdlBNIGfUoWZKlg,2024-02-24,2024-03-22,Technician A,2025-12-10 13:49:04
+698,TCK-UAJXDD2V,High,In Progress,Access Request,Issue related to Other,Detailed ticket description KZsgrfCdzJcbkspQQNzJ,2024-05-18,2024-05-21,Technician B,2025-12-10 13:49:04
+699,TCK-I8R1WSEK,Critical,In Progress,Other,Issue related to Network,Detailed ticket description WqBuGrvRHQiVvMsezMml,2023-08-28,2023-09-04,IT Support 2,2025-12-10 13:49:04
+700,TCK-TF601UH8,Low,Resolved,Hardware,Issue related to Hardware,Detailed ticket description QUtpGYMUACMZFEzFJTFN,2024-04-10,2024-05-03,Admin,2025-12-10 13:49:04
+701,TCK-NCZF1FCG,Low,Resolved,Security,Issue related to Security,Detailed ticket description pgKWAATcHdhIurxahGEt,2024-07-09,2024-07-15,Technician A,2025-12-10 13:49:04
+702,TCK-IM9RRDD5,Low,Open,Hardware,Issue related to Other,Detailed ticket description JpuTNxvkWAHMqCAeCaQC,2024-09-28,2024-09-29,Technician B,2025-12-10 13:49:04
+703,TCK-BGL9UA7C,Critical,In Progress,Access Request,Issue related to Access Request,Detailed ticket description VwuNdgTQrJZMMlhJzBWu,2023-02-24,2023-02-25,Unassigned,2025-12-10 13:49:04
+704,TCK-XZG71M6F,High,Closed,Access Request,Issue related to Other,Detailed ticket description KzdpTSWgNmoLCLQrXZAF,2024-07-17,2024-08-06,Technician A,2025-12-10 13:49:04
+705,TCK-8TAUYZUK,High,In Progress,Network,Issue related to Software,Detailed ticket description aEotHqriVLmzoLaHmcdQ,2023-06-14,2023-07-11,IT Support 1,2025-12-10 13:49:04
+706,TCK-PS0L6PDK,High,Resolved,Software,Issue related to Hardware,Detailed ticket description FaYIQQEgUqmLrinFJaMO,2024-01-17,2024-02-10,Technician B,2025-12-10 13:49:04
+707,TCK-3REVYUL1,Medium,In Progress,Access Request,Issue related to Security,Detailed ticket description xijftRVlsKcvRJtYuZlE,2024-04-24,2024-05-24,Technician A,2025-12-10 13:49:04
+708,TCK-0IDD5310,Medium,Closed,Security,Issue related to Network,Detailed ticket description dPDbmOshHEozQIlVJVZJ,2023-10-14,2023-10-23,IT Support 1,2025-12-10 13:49:04
+709,TCK-E0FQNQIY,Medium,In Progress,Security,Issue related to Access Request,Detailed ticket description HUvQeCbZFdfrYIzOmclA,2023-11-18,,IT Support 1,2025-12-10 13:49:04
+710,TCK-IN7DCVTQ,Low,On Hold,Hardware,Issue related to Security,Detailed ticket description MYXmPiPzgBnIIDRJoPbh,2024-04-03,2024-04-05,Technician A,2025-12-10 13:49:04
+711,TCK-01O0D14X,Critical,Resolved,Security,Issue related to Hardware,Detailed ticket description HXwAvmLswbWOmhgaNwve,2024-10-04,2024-10-19,Unassigned,2025-12-10 13:49:04
+712,TCK-VUBYH4QL,Critical,Resolved,Network,Issue related to Access Request,Detailed ticket description zJswkeYcgOVlPXkqeOoC,2024-01-17,2024-01-27,IT Support 2,2025-12-10 13:49:04
+713,TCK-IG7JDAFP,High,Resolved,Access Request,Issue related to Hardware,Detailed ticket description aOuszhwxmBsFYJxHHODc,2024-06-20,2024-06-27,Unassigned,2025-12-10 13:49:04
+714,TCK-UBVLPEUK,Medium,Closed,Software,Issue related to Access Request,Detailed ticket description ZkkJwHdqELxZSgiUfewh,2024-09-24,2024-09-27,IT Support 2,2025-12-10 13:49:04
+715,TCK-UN1M3CY8,Medium,On Hold,Other,Issue related to Security,Detailed ticket description hXqCohTsndOvMxrprgxJ,2024-11-16,,Admin,2025-12-10 13:49:04
+716,TCK-NIV799LR,High,Closed,Security,Issue related to Security,Detailed ticket description iiAEKtdWBpdRUAOuZBaE,2024-01-12,2024-01-18,IT Support 1,2025-12-10 13:49:04
+717,TCK-JQWA0V8H,Medium,On Hold,Other,Issue related to Access Request,Detailed ticket description qXJfxJBHIaKXPpkTFltR,2023-02-06,2023-02-22,IT Support 2,2025-12-10 13:49:04
+718,TCK-5VDNFRNE,Critical,Open,Other,Issue related to Other,Detailed ticket description fEfYFJDxlDQOYhmBvZYp,2023-05-18,2023-06-08,IT Support 1,2025-12-10 13:49:04
+719,TCK-I76VASKF,Critical,In Progress,Security,Issue related to Security,Detailed ticket description UmNSwgOZTSYmpdYtMEAm,2023-09-12,2023-09-30,IT Support 2,2025-12-10 13:49:04
+720,TCK-R8XT67J7,Critical,Closed,Other,Issue related to Software,Detailed ticket description RTDNsUlOfSuHaUiBkiIj,2023-12-25,,Unassigned,2025-12-10 13:49:04
+721,TCK-LVLRETJG,Medium,Closed,Network,Issue related to Hardware,Detailed ticket description FbzVHDGzgGBzEusoItdw,2024-03-30,2024-04-13,IT Support 1,2025-12-10 13:49:04
+722,TCK-R5BH8Q3C,High,In Progress,Hardware,Issue related to Hardware,Detailed ticket description wmSmUpogqaMCtYmYhkLo,2023-12-13,2023-12-26,Technician A,2025-12-10 13:49:04
+723,TCK-MY528TTH,Low,Open,Other,Issue related to Network,Detailed ticket description urngWhpkATBdWjOBeCkj,2023-04-10,2023-04-27,Technician A,2025-12-10 13:49:04
+724,TCK-8QZLWE3J,Critical,In Progress,Software,Issue related to Hardware,Detailed ticket description mTahNnOdYzvpLyoZryeS,2023-03-20,2023-04-18,Unassigned,2025-12-10 13:49:04
+725,TCK-JVGO7SX8,High,In Progress,Software,Issue related to Access Request,Detailed ticket description mlcYirThDnBjrnlEZGCp,2023-08-16,2023-08-29,IT Support 1,2025-12-10 13:49:04
+726,TCK-MGSFGOK7,High,Open,Software,Issue related to Software,Detailed ticket description ogYZWkqUJwTXxqGYegWT,2024-09-10,,Technician A,2025-12-10 13:49:04
+727,TCK-DR4LKGPE,Low,Resolved,Security,Issue related to Hardware,Detailed ticket description eRUxiiHdoHlsYwZEJbJh,2023-07-27,,Unassigned,2025-12-10 13:49:04
+728,TCK-KML0CQSZ,Low,Resolved,Software,Issue related to Hardware,Detailed ticket description nazvVvqrCQiNogxRpIrm,2023-08-29,2023-09-28,Unassigned,2025-12-10 13:49:04
+729,TCK-LQH5WASN,High,In Progress,Security,Issue related to Hardware,Detailed ticket description FtHLCfdoMNvhJorleHrs,2024-04-17,2024-05-05,Admin,2025-12-10 13:49:04
+730,TCK-TOZT9F7T,High,Open,Software,Issue related to Security,Detailed ticket description ZHQmAbOmXrIouZRzHllZ,2024-09-04,2024-09-15,Unassigned,2025-12-10 13:49:04
+731,TCK-OTEUVXVG,Medium,In Progress,Network,Issue related to Network,Detailed ticket description McSEuOUMJdiOUAROSOfb,2023-10-05,2023-10-28,Technician B,2025-12-10 13:49:04
+732,TCK-495ZBMYF,Critical,In Progress,Software,Issue related to Other,Detailed ticket description SWWhHbNzPlietCPOQvZp,2024-09-30,,Technician A,2025-12-10 13:49:04
+733,TCK-CH6K859D,High,Open,Other,Issue related to Other,Detailed ticket description IbWPcfHYmHjtdNkVXkBP,2024-01-17,2024-02-05,IT Support 2,2025-12-10 13:49:04
+734,TCK-VLKIFERK,High,On Hold,Hardware,Issue related to Hardware,Detailed ticket description nIrGikvTwYeWLkVjXSxY,2024-09-29,2024-10-29,IT Support 2,2025-12-10 13:49:04
+735,TCK-AWKSCXVD,Critical,Open,Network,Issue related to Network,Detailed ticket description uNKJuqHPaDzsHfgUWGPb,2023-02-06,,Technician B,2025-12-10 13:49:04
+736,TCK-RGFMPLA3,Medium,Resolved,Network,Issue related to Security,Detailed ticket description JxqbuOsRKShCKCKEsVGe,2023-01-04,2023-01-18,Admin,2025-12-10 13:49:04
+737,TCK-P0VCQYP9,Low,Open,Access Request,Issue related to Security,Detailed ticket description jkWHPFTvVhBvLnrNPcQP,2024-07-24,2024-07-25,IT Support 2,2025-12-10 13:49:04
+738,TCK-5WG6GUSI,Low,In Progress,Access Request,Issue related to Network,Detailed ticket description UMRKwrpaeuuYaLQMQItk,2024-06-15,2024-06-29,Technician A,2025-12-10 13:49:04
+739,TCK-DS118EWF,High,Open,Access Request,Issue related to Security,Detailed ticket description wyMDvEEosnYaZyzPxfRo,2024-01-30,2024-02-09,Technician A,2025-12-10 13:49:04
+740,TCK-WQWOHV2X,High,In Progress,Software,Issue related to Hardware,Detailed ticket description hVSJlvWVNxzlITTVQPiB,2024-06-28,2024-07-09,Technician B,2025-12-10 13:49:04
+741,TCK-QG6A3GRS,High,In Progress,Software,Issue related to Network,Detailed ticket description qmGdSoFQRLNtBbkSRFAj,2024-07-17,,Unassigned,2025-12-10 13:49:04
+742,TCK-5ACOK5MN,Medium,Closed,Access Request,Issue related to Hardware,Detailed ticket description FUfBCKYlcIhCTkhCQXpw,2024-04-21,,Unassigned,2025-12-10 13:49:04
+743,TCK-IWRUDNML,Medium,In Progress,Other,Issue related to Security,Detailed ticket description kVpkRkFryFoQykQYDFVA,2024-07-22,2024-08-05,IT Support 2,2025-12-10 13:49:04
+744,TCK-IZK50HR0,Critical,Open,Access Request,Issue related to Access Request,Detailed ticket description DfmfFfGcuocbXjoToFRr,2024-01-24,2024-02-02,Technician A,2025-12-10 13:49:04
+745,TCK-EQNCR8EA,Medium,On Hold,Network,Issue related to Other,Detailed ticket description wpkRhxapbEEkKaAtVvNu,2023-11-28,2023-12-24,Admin,2025-12-10 13:49:04
+746,TCK-XY1IHR4Q,High,Resolved,Network,Issue related to Other,Detailed ticket description YugXXInNWdjwNnQPVdEp,2023-05-27,2023-06-06,IT Support 2,2025-12-10 13:49:04
+747,TCK-MRYJ2M9Q,High,Closed,Other,Issue related to Network,Detailed ticket description PudJZFsnQxopzfrYPJFB,2023-02-08,2023-02-12,Technician A,2025-12-10 13:49:04
+748,TCK-4L101UE0,Critical,Closed,Other,Issue related to Hardware,Detailed ticket description ZyZOogPnVxcjhaXphOIN,2024-01-03,,IT Support 1,2025-12-10 13:49:04
+749,TCK-FF8MTA9W,High,Resolved,Network,Issue related to Network,Detailed ticket description jhzgnBNYAYMXyEtLZtGD,2023-11-04,,Unassigned,2025-12-10 13:49:04
+750,TCK-HFYATXX7,High,On Hold,Network,Issue related to Other,Detailed ticket description bcrClLvnoExUvhuanmSP,2024-05-13,2024-06-06,Unassigned,2025-12-10 13:49:04
+751,TCK-NELWF3DW,Critical,In Progress,Software,Issue related to Hardware,Detailed ticket description RFslNyDHtbMYncGJdwpv,2024-10-10,2024-10-21,IT Support 2,2025-12-10 13:49:04
+752,TCK-NP0M28N1,Medium,Closed,Other,Issue related to Other,Detailed ticket description ghopeMRWEzwlYZIVfnJV,2023-08-12,2023-08-14,Admin,2025-12-10 13:49:04
+753,TCK-VMN9RCI7,Medium,Resolved,Access Request,Issue related to Hardware,Detailed ticket description ryRBJhAOjcYKwHEZldcY,2024-06-26,2024-07-20,Technician B,2025-12-10 13:49:04
+754,TCK-SECV6D3A,High,Open,Hardware,Issue related to Software,Detailed ticket description rrPycrTBHWDdMhiMHAXe,2023-09-14,2023-09-24,Technician A,2025-12-10 13:49:04
+755,TCK-IF3HIWPB,High,Closed,Hardware,Issue related to Software,Detailed ticket description BabzugeEyiuhMNnewSiD,2023-03-03,2023-03-25,IT Support 1,2025-12-10 13:49:04
+756,TCK-HG3ONS94,Critical,In Progress,Other,Issue related to Hardware,Detailed ticket description vDbiypupirJUfedresKm,2023-04-27,,IT Support 2,2025-12-10 13:49:04
+757,TCK-TNL8873U,Medium,Resolved,Software,Issue related to Security,Detailed ticket description heFKfEbMLDatqUcoNKnu,2024-06-24,2024-07-04,Admin,2025-12-10 13:49:04
+758,TCK-3BYYQLFU,Critical,On Hold,Software,Issue related to Software,Detailed ticket description YTxdjfYXPjTxlRzWmMyw,2023-10-12,2023-10-17,Technician B,2025-12-10 13:49:04
+759,TCK-PCOP9AZ7,High,Resolved,Software,Issue related to Hardware,Detailed ticket description NfGOmXxLgXWbGtOqQJnm,2024-01-16,,Admin,2025-12-10 13:49:04
+760,TCK-3K43Q1PM,Critical,On Hold,Access Request,Issue related to Security,Detailed ticket description AWOefmGMazNXtoNEhkUW,2023-10-18,2023-11-16,IT Support 2,2025-12-10 13:49:04
+761,TCK-RNKP8X98,High,On Hold,Software,Issue related to Security,Detailed ticket description fvMfdsdzviHJUDlHSVXR,2023-12-17,2023-12-30,Admin,2025-12-10 13:49:04
+762,TCK-GGI7S0QW,Medium,Open,Security,Issue related to Software,Detailed ticket description dYdSKmrHTHgSDAUFzzVu,2024-11-04,2024-11-11,IT Support 2,2025-12-10 13:49:04
+763,TCK-PBKAVOK1,High,Open,Other,Issue related to Network,Detailed ticket description NMDZGAVzWABhEwcwpaTx,2024-07-01,2024-07-06,Technician B,2025-12-10 13:49:04
+764,TCK-UZHTB8SB,Medium,Closed,Access Request,Issue related to Access Request,Detailed ticket description fzKLPXcWlxUlNVyriQlF,2024-07-27,2024-08-04,Unassigned,2025-12-10 13:49:04
+765,TCK-PT3ZVDFH,Critical,On Hold,Security,Issue related to Software,Detailed ticket description mcKGuqGpmjmbRGdYblYW,2024-04-13,2024-04-28,Technician A,2025-12-10 13:49:04
+766,TCK-C3SA7K5A,Critical,Open,Other,Issue related to Security,Detailed ticket description fmREVMkAbCwoDYRwFKhl,2023-06-15,,IT Support 1,2025-12-10 13:49:04
+767,TCK-KZEKLY4I,Medium,Open,Access Request,Issue related to Access Request,Detailed ticket description zGQQrbZgWUouImqvmFUd,2023-02-04,,Admin,2025-12-10 13:49:04
+768,TCK-K6PHLSOK,Low,In Progress,Software,Issue related to Hardware,Detailed ticket description nGApDsUoqjhJdiAADAsH,2024-01-06,2024-01-08,Unassigned,2025-12-10 13:49:04
+769,TCK-D8XUJPX6,Critical,Closed,Network,Issue related to Other,Detailed ticket description jSicFzYwFCehZNbKhcOv,2023-12-24,2023-12-25,Technician A,2025-12-10 13:49:04
+770,TCK-4N7L26VW,Critical,Resolved,Other,Issue related to Security,Detailed ticket description aNaNpaYEUhpBGOgQKsxt,2024-05-26,,Technician B,2025-12-10 13:49:04
+771,TCK-DHM2EELW,Critical,On Hold,Hardware,Issue related to Access Request,Detailed ticket description oSNWfhQZGfMrGTjbZphA,2023-02-11,,Technician B,2025-12-10 13:49:04
+772,TCK-W9SRKRKX,Critical,Closed,Hardware,Issue related to Access Request,Detailed ticket description rPyEqxvsuQXfZXIaQWqi,2023-04-27,,Technician B,2025-12-10 13:49:04
+773,TCK-6PAVBSEA,Medium,Resolved,Other,Issue related to Hardware,Detailed ticket description DiWuZZiVhXofJvzAppoJ,2023-12-04,2023-12-21,Technician B,2025-12-10 13:49:04
+774,TCK-NEQT9PQ3,High,Open,Access Request,Issue related to Security,Detailed ticket description DWDFBsMCjGnQAachxBdv,2024-09-03,2024-09-12,Admin,2025-12-10 13:49:04
+775,TCK-B0PZ4J03,Critical,Closed,Network,Issue related to Other,Detailed ticket description oftijUoyMZYBebAGJLsf,2023-03-04,2023-03-26,Technician A,2025-12-10 13:49:04
+776,TCK-YM6OJOJK,Critical,Closed,Other,Issue related to Security,Detailed ticket description XmiFNoKdthWqhVlNlEwU,2024-10-05,2024-10-26,IT Support 2,2025-12-10 13:49:04
+777,TCK-JDOJLYGE,High,On Hold,Other,Issue related to Security,Detailed ticket description poeTRYjlCegfyeNKxoJt,2024-01-08,2024-01-19,Unassigned,2025-12-10 13:49:04
+778,TCK-XBLL3V5E,High,Resolved,Hardware,Issue related to Other,Detailed ticket description WvlXkxKtQpruQqYZRJYw,2024-10-09,2024-10-30,IT Support 1,2025-12-10 13:49:04
+779,TCK-GF1WN5PD,High,Resolved,Security,Issue related to Software,Detailed ticket description xiueVURtEVKELWuQHekK,2024-11-05,,Technician A,2025-12-10 13:49:04
+780,TCK-1VXAS20X,Low,Closed,Other,Issue related to Security,Detailed ticket description hjoJnoEEVcICUmXJwXbT,2023-03-21,,Unassigned,2025-12-10 13:49:04
+781,TCK-XFD36RKN,Critical,Closed,Security,Issue related to Software,Detailed ticket description LFbmgaImjPcOBuTYcdQg,2024-04-21,,IT Support 2,2025-12-10 13:49:04
+782,TCK-BUXXI2Y9,Critical,Resolved,Security,Issue related to Hardware,Detailed ticket description zVEndGOQhDWOybKMYBlR,2024-01-03,,Admin,2025-12-10 13:49:04
+783,TCK-XA1N192H,Critical,Closed,Network,Issue related to Security,Detailed ticket description oWQpsBJPmIQHNrNxcpVB,2023-08-11,2023-08-16,Admin,2025-12-10 13:49:04
+784,TCK-ON602HW1,Critical,Resolved,Access Request,Issue related to Security,Detailed ticket description mshUjZnbCElwaaVJwQWe,2023-01-13,2023-01-29,Technician A,2025-12-10 13:49:04
+785,TCK-ZKWHIQ41,Low,Open,Hardware,Issue related to Other,Detailed ticket description CKgmYpmYYCCtSozKQTmo,2023-03-30,2023-04-15,Technician A,2025-12-10 13:49:04
+786,TCK-Y266M8I0,Critical,In Progress,Hardware,Issue related to Hardware,Detailed ticket description MTJafVyZSKvAjdQbcrop,2024-09-30,2024-10-26,Unassigned,2025-12-10 13:49:04
+787,TCK-1H6Z2S9K,Critical,Closed,Other,Issue related to Network,Detailed ticket description QjQDFSzAHENKbjLgxJuZ,2023-06-07,2023-06-28,Technician A,2025-12-10 13:49:04
+788,TCK-P9EWV4RZ,Low,On Hold,Network,Issue related to Network,Detailed ticket description xuMMvobYvrrmGJZffHqo,2023-08-20,2023-09-06,IT Support 1,2025-12-10 13:49:04
+789,TCK-39UKZLN7,Critical,Resolved,Hardware,Issue related to Other,Detailed ticket description aDWhTaFomSXczQrgvpnN,2023-09-07,,IT Support 1,2025-12-10 13:49:04
+790,TCK-ELHDANCI,Low,Resolved,Access Request,Issue related to Network,Detailed ticket description IGQCGbnFspwSqYeLvTIH,2024-06-20,,Technician A,2025-12-10 13:49:04
+791,TCK-YAKJ8M3S,High,In Progress,Network,Issue related to Software,Detailed ticket description AvARgAOvZlZckCUPtgyl,2023-05-18,,Technician A,2025-12-10 13:49:04
+792,TCK-VXB7SLM7,Critical,Closed,Other,Issue related to Security,Detailed ticket description oSDdijRqMiJJuCEbaVbM,2024-02-08,,Unassigned,2025-12-10 13:49:04
+793,TCK-KE11HYPW,Critical,Closed,Hardware,Issue related to Software,Detailed ticket description vSCCfvSTYAjPndDiUDla,2024-06-27,,Technician B,2025-12-10 13:49:04
+794,TCK-0VY0VUQ1,Critical,Closed,Access Request,Issue related to Hardware,Detailed ticket description WXbPycNbqBNjqpliVoRy,2024-10-09,2024-11-05,IT Support 1,2025-12-10 13:49:04
+795,TCK-AZJ1FETM,High,On Hold,Hardware,Issue related to Network,Detailed ticket description SKduQeklnlnHsXrfeSwr,2023-12-23,2023-12-30,IT Support 1,2025-12-10 13:49:04
+796,TCK-U4AO8U2W,High,Resolved,Security,Issue related to Hardware,Detailed ticket description GoVFwzedfEIPitbzNhEI,2023-07-30,2023-08-25,IT Support 2,2025-12-10 13:49:04
+797,TCK-LZUKOJ9O,High,In Progress,Hardware,Issue related to Access Request,Detailed ticket description CZyUtQuLgXZVXgSwaFLK,2024-10-11,2024-11-08,Unassigned,2025-12-10 13:49:04
+798,TCK-VD657AWE,Critical,Closed,Access Request,Issue related to Network,Detailed ticket description wRBLhwUTnNyDaAGvYLDy,2024-07-24,2024-07-30,Technician A,2025-12-10 13:49:04
+799,TCK-4SQ3Z9ZQ,Medium,On Hold,Security,Issue related to Access Request,Detailed ticket description eJkipXrRXitqDVIbEGlT,2024-11-03,2024-11-19,Technician B,2025-12-10 13:49:04
+800,TCK-MPADZEBP,Low,Resolved,Hardware,Issue related to Security,Detailed ticket description vpredUhDsHJfzUhAOayq,2024-05-24,,Technician B,2025-12-10 13:49:04
+801,TCK-IBGSOILI,Critical,On Hold,Software,Issue related to Security,Detailed ticket description NIPHGwQvLgEHxLuYSVLR,2024-01-29,2024-02-06,Unassigned,2025-12-10 13:49:04
+802,TCK-XQJNIOPP,Medium,Open,Security,Issue related to Other,Detailed ticket description RMqSbTJShmflKOHmJNCU,2023-10-15,,Admin,2025-12-10 13:49:04
+803,TCK-9Z1I0CFQ,Low,In Progress,Software,Issue related to Hardware,Detailed ticket description KqYPUDQDhnTWxLbIQZDJ,2023-05-17,2023-06-04,Unassigned,2025-12-10 13:49:04
+804,TCK-0PTIXTO5,Medium,In Progress,Software,Issue related to Hardware,Detailed ticket description SweEJcWDjzRsaYTCcOZt,2023-04-10,2023-04-29,Admin,2025-12-10 13:49:04
+805,TCK-3BRTC955,Medium,On Hold,Network,Issue related to Software,Detailed ticket description zSbRqMreuPfaNkFfsbKW,2023-02-14,2023-03-02,Unassigned,2025-12-10 13:49:04
+806,TCK-5642T8J4,Medium,In Progress,Network,Issue related to Network,Detailed ticket description LQmAREBGUGupGmBrmrdA,2024-05-01,2024-05-16,Technician B,2025-12-10 13:49:04
+807,TCK-I28YEOAJ,High,Closed,Hardware,Issue related to Other,Detailed ticket description BgrrbWGzlwdOkpNVIgHO,2024-09-21,2024-09-27,IT Support 1,2025-12-10 13:49:04
+808,TCK-I0ADXLOS,Low,On Hold,Access Request,Issue related to Access Request,Detailed ticket description zBBESiJfIQzMnDjXjpUN,2024-04-25,2024-05-05,Admin,2025-12-10 13:49:04
+809,TCK-OW7TM05K,Medium,In Progress,Other,Issue related to Other,Detailed ticket description zncBdPilipUyWSmEkedi,2023-12-20,2024-01-08,IT Support 2,2025-12-10 13:49:04
+810,TCK-Y71WKY97,High,Open,Network,Issue related to Network,Detailed ticket description LVNDCTkgzpmdyTDyAUSf,2024-11-04,2024-11-18,IT Support 1,2025-12-10 13:49:04
+811,TCK-WMP6MP8K,Medium,Closed,Other,Issue related to Software,Detailed ticket description ocvElLxSxwVoWSuumzpC,2024-04-07,2024-04-20,Unassigned,2025-12-10 13:49:04
+812,TCK-NDHEHX4Q,Low,Closed,Network,Issue related to Software,Detailed ticket description VEwjlGLcfBpXtDGVOvmJ,2023-09-18,2023-09-24,Unassigned,2025-12-10 13:49:04
+813,TCK-7LKGX1U3,High,In Progress,Software,Issue related to Software,Detailed ticket description vWnarTWddARPlkobIVTF,2023-05-08,2023-05-14,Admin,2025-12-10 13:49:04
+814,TCK-4PZHGM78,Low,Open,Software,Issue related to Other,Detailed ticket description rNgdAIskCADOjpJlfuQK,2024-10-22,,Technician B,2025-12-10 13:49:04
+815,TCK-FT55Y0Z4,Medium,In Progress,Other,Issue related to Access Request,Detailed ticket description fxLsgDHpPdDlqFehisVJ,2023-07-16,2023-08-12,Technician B,2025-12-10 13:49:04
+816,TCK-2PBQR42D,High,On Hold,Network,Issue related to Security,Detailed ticket description RUjoxWfASxtItVjbVZRW,2024-09-25,,Admin,2025-12-10 13:49:04
+817,TCK-FGS4XNOS,Low,Closed,Hardware,Issue related to Hardware,Detailed ticket description pNFoYMFpfciXdYJXrHVm,2024-02-03,2024-02-13,Technician A,2025-12-10 13:49:04
+818,TCK-XU32NTLY,Medium,Open,Software,Issue related to Other,Detailed ticket description EZIDUbjWwPSOnMiTJQoV,2023-05-26,2023-06-13,Admin,2025-12-10 13:49:04
+819,TCK-VGVB74C2,Low,On Hold,Access Request,Issue related to Other,Detailed ticket description BvURWTDoDtccsxvMSyns,2023-02-22,,Admin,2025-12-10 13:49:04
+820,TCK-WPYCEQZY,Low,In Progress,Hardware,Issue related to Network,Detailed ticket description BOZUcVWojhquQFvQpBHa,2023-08-10,2023-08-22,Technician A,2025-12-10 13:49:04
+821,TCK-I5CEMUJS,High,In Progress,Other,Issue related to Other,Detailed ticket description xvNtqWkfOTgNHxKwrOWx,2023-03-12,2023-03-18,IT Support 2,2025-12-10 13:49:04
+822,TCK-R85UDV94,High,Resolved,Hardware,Issue related to Other,Detailed ticket description CdmrlRRUunEalpnhAAcm,2024-08-01,2024-08-08,Unassigned,2025-12-10 13:49:04
+823,TCK-HSTPS8H8,High,On Hold,Security,Issue related to Network,Detailed ticket description obUUAlZpaUxdHRbfbiRl,2024-09-06,2024-09-16,Technician A,2025-12-10 13:49:04
+824,TCK-05PQZ6FV,Medium,On Hold,Access Request,Issue related to Security,Detailed ticket description ddnKromDnVqpRwpvHoHk,2024-04-11,2024-05-10,IT Support 1,2025-12-10 13:49:04
+825,TCK-6481LX8I,Medium,Closed,Access Request,Issue related to Other,Detailed ticket description aLtMcfSlRQyaIIPKzSJp,2023-12-04,2023-12-25,Technician B,2025-12-10 13:49:04
+826,TCK-AV7D1Q2N,Low,Resolved,Network,Issue related to Software,Detailed ticket description RvptCRJtFejMnLmENKUr,2024-02-03,,IT Support 1,2025-12-10 13:49:04
+827,TCK-JNQWHZUK,Low,On Hold,Access Request,Issue related to Security,Detailed ticket description eiVtspdbfAigUPdZMzeH,2024-03-09,2024-03-11,Technician A,2025-12-10 13:49:04
+828,TCK-B57RG1MK,Low,Closed,Access Request,Issue related to Access Request,Detailed ticket description xbttMPjwHHGTlsSVFVNl,2024-01-14,2024-01-26,IT Support 2,2025-12-10 13:49:04
+829,TCK-S19HME4Y,Critical,Open,Software,Issue related to Access Request,Detailed ticket description qeGhoaqcuEQlmHbLNHgr,2023-10-24,2023-11-13,Admin,2025-12-10 13:49:04
+830,TCK-9YBNB18T,Critical,Closed,Security,Issue related to Access Request,Detailed ticket description txRfzpTnNqqWMTWaQHJf,2023-06-19,2023-06-30,IT Support 2,2025-12-10 13:49:04
+831,TCK-DC12P7OE,Low,Resolved,Network,Issue related to Security,Detailed ticket description EIyIyVRagPsdipzGeojc,2024-07-05,,IT Support 1,2025-12-10 13:49:04
+832,TCK-0FFTQBKB,Medium,In Progress,Hardware,Issue related to Other,Detailed ticket description wOZoyAkEmpreFuejINzf,2024-03-05,,IT Support 1,2025-12-10 13:49:04
+833,TCK-5V08YWJM,Medium,In Progress,Other,Issue related to Access Request,Detailed ticket description gLXNHdOlYuwZTsuMwQcW,2024-09-25,2024-10-20,IT Support 2,2025-12-10 13:49:04
+834,TCK-ZO0ATBD5,Low,Resolved,Security,Issue related to Other,Detailed ticket description uqVxSFwZjTKtImTbSxGA,2023-03-22,,IT Support 1,2025-12-10 13:49:04
+835,TCK-211V0T1D,Critical,Open,Security,Issue related to Hardware,Detailed ticket description TuKbYEXTjoTogEFqLxaW,2024-02-01,,Technician A,2025-12-10 13:49:04
+836,TCK-SPS671T4,High,In Progress,Hardware,Issue related to Software,Detailed ticket description gzEYcDKUdVXTFoJLkqIv,2023-07-05,2023-07-19,IT Support 1,2025-12-10 13:49:04
+837,TCK-7S2HAMRR,High,Closed,Access Request,Issue related to Network,Detailed ticket description PQFlAMAgyLvsgXbWljEi,2024-08-30,,Technician B,2025-12-10 13:49:04
+838,TCK-T4K6EOP9,High,Open,Hardware,Issue related to Hardware,Detailed ticket description NfIojkXBsqENpcKUFtwB,2023-12-12,2023-12-31,IT Support 1,2025-12-10 13:49:04
+839,TCK-18SC41ZT,Low,On Hold,Security,Issue related to Network,Detailed ticket description lXMkxjaAOCjVacioYKKC,2024-09-06,,Admin,2025-12-10 13:49:04
+840,TCK-YNC3BW7Y,Medium,Closed,Network,Issue related to Access Request,Detailed ticket description uaBFYtlsDhaxojRqxVUq,2023-12-16,2024-01-04,Unassigned,2025-12-10 13:49:04
+841,TCK-VDM1I5Q0,Low,On Hold,Security,Issue related to Hardware,Detailed ticket description LwDDmDexqDQZdFLotAqD,2023-02-01,2023-03-02,Technician A,2025-12-10 13:49:04
+842,TCK-HQZL3NS0,Critical,Closed,Hardware,Issue related to Software,Detailed ticket description aHerxuVkPTaTiripggYC,2023-12-30,,Technician B,2025-12-10 13:49:04
+843,TCK-QB08Q8ZG,Medium,In Progress,Software,Issue related to Security,Detailed ticket description IZqMLwpeKwrqhuLvGKEz,2023-04-19,2023-05-08,IT Support 2,2025-12-10 13:49:04
+844,TCK-FV6OUJT7,High,Resolved,Access Request,Issue related to Hardware,Detailed ticket description MkrFzhryqrYPxMzJvidH,2024-07-13,2024-07-16,Technician A,2025-12-10 13:49:04
+845,TCK-KVE9A373,Medium,Closed,Access Request,Issue related to Software,Detailed ticket description UZGNEPRqZfvcRcMCuAoT,2023-01-10,2023-01-26,IT Support 2,2025-12-10 13:49:04
+846,TCK-BWRBVJEN,Low,Open,Network,Issue related to Security,Detailed ticket description kdSGOdVwKhqfDiebnqXi,2023-08-11,,Technician A,2025-12-10 13:49:04
+847,TCK-KDB5IGD5,Low,Closed,Hardware,Issue related to Access Request,Detailed ticket description ZhyRRRLEIRMMqtuKniqR,2023-02-17,2023-02-28,IT Support 2,2025-12-10 13:49:04
+848,TCK-F047A5T6,Low,Open,Software,Issue related to Access Request,Detailed ticket description fIIAQPrHWTEzmEgCjufK,2023-11-03,,IT Support 2,2025-12-10 13:49:04
+849,TCK-60CA2UHJ,Critical,On Hold,Security,Issue related to Hardware,Detailed ticket description zMSvnxUnWvedimhCFFem,2024-02-23,2024-03-05,Admin,2025-12-10 13:49:04
+850,TCK-EDWA44EX,Medium,Resolved,Software,Issue related to Hardware,Detailed ticket description cNgXgxhUnLqrJgCjSLpS,2023-10-31,,Technician B,2025-12-10 13:49:04
+851,TCK-XEUNTVZN,Low,Open,Other,Issue related to Network,Detailed ticket description ipTjKUDZxDrbkzRhqLNn,2024-05-07,2024-05-09,Technician A,2025-12-10 13:49:04
+852,TCK-0YKULWKB,Medium,On Hold,Other,Issue related to Security,Detailed ticket description XXaspIcNZQvisqjzsJHX,2023-08-24,2023-09-08,Technician B,2025-12-10 13:49:04
+853,TCK-XT5JQ6FH,High,In Progress,Other,Issue related to Access Request,Detailed ticket description KcxEDJBtrPWkCoSZLOOF,2024-02-26,2024-03-05,Admin,2025-12-10 13:49:04
+854,TCK-BBFUQWAP,Medium,Resolved,Network,Issue related to Hardware,Detailed ticket description mVAkofVoaVmbpONrJKvc,2024-11-09,,Technician A,2025-12-10 13:49:04
+855,TCK-OXVWUCPR,Medium,Resolved,Other,Issue related to Network,Detailed ticket description JNVQCiCUYrdYiXZIKBCj,2024-08-20,2024-08-26,IT Support 2,2025-12-10 13:49:04
+856,TCK-JRXYD69K,Medium,On Hold,Other,Issue related to Security,Detailed ticket description fdGQLTJTNwtFuEShGdhN,2023-05-15,2023-05-23,Unassigned,2025-12-10 13:49:04
+857,TCK-CTZAN2W4,High,On Hold,Software,Issue related to Software,Detailed ticket description ZLnLBEAqpWNmdhLsVkRt,2024-01-16,2024-02-13,IT Support 2,2025-12-10 13:49:04
+858,TCK-OW0KXDYY,High,On Hold,Other,Issue related to Hardware,Detailed ticket description AiaeabEGScwUeRqzhtIN,2023-09-08,2023-10-08,IT Support 2,2025-12-10 13:49:04
+859,TCK-QR8T03B1,Low,Open,Other,Issue related to Access Request,Detailed ticket description RbYdmfCeTawQpRiyywpB,2024-08-07,2024-08-29,Admin,2025-12-10 13:49:04
+860,TCK-E65OA6J5,Critical,Resolved,Other,Issue related to Hardware,Detailed ticket description WiMgZwrWMTNrWHLSFSCN,2023-08-11,2023-08-31,IT Support 2,2025-12-10 13:49:04
+861,TCK-B3PT0PEO,High,Resolved,Access Request,Issue related to Network,Detailed ticket description WjUtDCWksBsxtzunMSNS,2024-08-14,2024-08-15,Technician B,2025-12-10 13:49:04
+862,TCK-TS2F0V5H,Low,Resolved,Network,Issue related to Software,Detailed ticket description KBEZTokGRkVuAROFpnxk,2023-09-15,2023-09-26,Technician B,2025-12-10 13:49:04
+863,TCK-4KBEKCNJ,Low,On Hold,Security,Issue related to Hardware,Detailed ticket description STCZJVjODjAOkITAJkHt,2024-03-30,2024-04-29,Technician A,2025-12-10 13:49:04
+864,TCK-OVTI2BXH,Medium,On Hold,Access Request,Issue related to Security,Detailed ticket description NmEiDuKwCnbjIrIHWyHL,2023-07-02,2023-08-01,Technician A,2025-12-10 13:49:04
+865,TCK-HJ61SRGW,Medium,In Progress,Software,Issue related to Security,Detailed ticket description pzVtEEXIdYnmimERMtUH,2023-07-19,2023-08-18,Unassigned,2025-12-10 13:49:04
+866,TCK-4WIJX1IO,High,Resolved,Access Request,Issue related to Other,Detailed ticket description gbvneXRmZIMdmbQuqxFV,2023-05-13,2023-06-04,Unassigned,2025-12-10 13:49:04
+867,TCK-91NP0V5W,Critical,Resolved,Access Request,Issue related to Software,Detailed ticket description qjzuBBkIkDYGtDYPnGNY,2024-11-18,2024-12-18,Unassigned,2025-12-10 13:49:04
+868,TCK-5UNYTOOY,Critical,On Hold,Other,Issue related to Other,Detailed ticket description AccKynTADVprBuBJuobt,2023-03-18,2023-04-03,Admin,2025-12-10 13:49:04
+869,TCK-84Y2FRH5,Low,Closed,Access Request,Issue related to Software,Detailed ticket description yseFhuSbQTtqQYpeIbXF,2023-02-02,2023-02-12,Unassigned,2025-12-10 13:49:04
+870,TCK-MUNWE4CX,Critical,On Hold,Software,Issue related to Software,Detailed ticket description HFCxnFwIfDSTPMehmtAx,2023-11-23,2023-12-04,IT Support 1,2025-12-10 13:49:04
+871,TCK-V4R3DNA4,Medium,Open,Network,Issue related to Hardware,Detailed ticket description YEdTnLSJfamqIcZwoNgh,2023-09-12,2023-10-12,Technician B,2025-12-10 13:49:04
+872,TCK-QWF2AR18,Critical,On Hold,Other,Issue related to Hardware,Detailed ticket description vONeNksSalCTwsbhKAzY,2024-06-21,,Technician B,2025-12-10 13:49:04
+873,TCK-VF4I1PIL,Critical,Resolved,Other,Issue related to Other,Detailed ticket description WYeUhxZjHrsrJbcxXtMp,2024-09-21,,Technician A,2025-12-10 13:49:04
+874,TCK-HHEXHB1T,Critical,Closed,Security,Issue related to Access Request,Detailed ticket description FCMHFttEpZnfoHniGKkc,2023-02-12,2023-03-10,IT Support 1,2025-12-10 13:49:04
+875,TCK-ESQJNZDK,High,Open,Hardware,Issue related to Access Request,Detailed ticket description JblRkxaGKMkLSrYlTXlH,2023-04-11,2023-04-15,Technician B,2025-12-10 13:49:04
+876,TCK-LIOE0N8E,Low,Open,Security,Issue related to Security,Detailed ticket description AraWKGxXpuJorOJsTvFh,2024-03-22,2024-04-09,Admin,2025-12-10 13:49:04
+877,TCK-BD7H2MNK,Low,Closed,Software,Issue related to Other,Detailed ticket description mdHxiSWZIqzHSaEIVJMj,2023-06-13,,Technician A,2025-12-10 13:49:04
+878,TCK-0S9NLLXU,Medium,Open,Other,Issue related to Access Request,Detailed ticket description TzdIaSVTRqcchicwwwdE,2023-07-17,2023-08-13,Technician A,2025-12-10 13:49:04
+879,TCK-KE4XA6PP,High,On Hold,Hardware,Issue related to Access Request,Detailed ticket description oBxbuRXINcbJRYPkEmcK,2024-11-23,2024-12-13,Admin,2025-12-10 13:49:04
+880,TCK-BAOGKSYL,Critical,Closed,Access Request,Issue related to Network,Detailed ticket description OJZKLzACPJzzQJenOxkP,2024-01-11,2024-01-28,IT Support 2,2025-12-10 13:49:04
+881,TCK-QHXDBEYT,Low,Open,Other,Issue related to Other,Detailed ticket description rvwHNMtpYUpaNZSDQqtx,2024-09-26,2024-10-05,Unassigned,2025-12-10 13:49:04
+882,TCK-Y3VEWVA1,Low,Closed,Other,Issue related to Network,Detailed ticket description kkCcncoGwGdVeHFehRNK,2024-08-08,2024-08-09,Admin,2025-12-10 13:49:04
+883,TCK-JS12M7YD,Medium,In Progress,Network,Issue related to Other,Detailed ticket description SCFRRihUppxMuogRsDZD,2024-01-09,2024-01-24,Technician A,2025-12-10 13:49:04
+884,TCK-61VPZRMK,High,Open,Software,Issue related to Hardware,Detailed ticket description WMxOwwsKlQZQgoTjoCgF,2024-08-30,,IT Support 2,2025-12-10 13:49:04
+885,TCK-VECVWO6C,Medium,On Hold,Hardware,Issue related to Network,Detailed ticket description pFzjiPhlAMVnTvPLpfLO,2024-06-28,2024-07-06,IT Support 1,2025-12-10 13:49:04
+886,TCK-PEL6O7DL,Low,Open,Hardware,Issue related to Other,Detailed ticket description DXvTjFgtktOwYRgUCPqm,2024-04-16,,Technician B,2025-12-10 13:49:04
+887,TCK-RRFVHAIP,Low,On Hold,Software,Issue related to Software,Detailed ticket description TOzIwwQfXbiJQsQTTGLF,2023-08-04,2023-08-10,Unassigned,2025-12-10 13:49:04
+888,TCK-U7BPJCVE,Medium,Closed,Software,Issue related to Other,Detailed ticket description WGWByhcuqInpSAqZIfyv,2024-01-06,2024-01-31,Technician A,2025-12-10 13:49:04
+889,TCK-ZTVG2UEA,Critical,Closed,Access Request,Issue related to Network,Detailed ticket description zmkqaiuikOYrPjtGDROp,2024-01-01,,Technician B,2025-12-10 13:49:04
+890,TCK-NZ37HW5T,High,In Progress,Hardware,Issue related to Access Request,Detailed ticket description AALglMPcmRjpnyAvFGet,2023-07-03,,IT Support 1,2025-12-10 13:49:04
+891,TCK-IS6NVCLD,High,Closed,Security,Issue related to Hardware,Detailed ticket description rgLbfSOvpgmGKYOwNClY,2024-04-11,2024-04-21,Unassigned,2025-12-10 13:49:04
+892,TCK-K8D0D5S2,Critical,On Hold,Access Request,Issue related to Hardware,Detailed ticket description qrgrAvMlcEDSUhTUrRxd,2023-11-27,2023-12-23,Unassigned,2025-12-10 13:49:04
+893,TCK-PMNY83VG,Critical,Closed,Access Request,Issue related to Hardware,Detailed ticket description aCtaLqCUDrvSXLBTbAqz,2024-03-21,2024-03-24,Technician B,2025-12-10 13:49:04
+894,TCK-EGUEWFHD,High,On Hold,Access Request,Issue related to Software,Detailed ticket description GMoYvOdGYODILhcpAHSW,2024-08-11,2024-08-25,Technician A,2025-12-10 13:49:04
+895,TCK-0CZA9APN,Critical,In Progress,Other,Issue related to Other,Detailed ticket description IPoglksQEuwpxTwsLXbv,2024-05-20,2024-06-16,Admin,2025-12-10 13:49:04
+896,TCK-9LVJR4GN,Critical,Closed,Other,Issue related to Security,Detailed ticket description nSGIwjuFnjDIrhdPbwLz,2024-01-23,2024-01-26,Admin,2025-12-10 13:49:04
+897,TCK-W7ORMTTD,High,Resolved,Security,Issue related to Software,Detailed ticket description qvxMzAthBYJuYYkayxuq,2023-10-29,,Technician A,2025-12-10 13:49:04
+898,TCK-62L71TRT,Medium,On Hold,Security,Issue related to Hardware,Detailed ticket description WgEHVOHGymGhRLoViueD,2023-09-07,,Technician A,2025-12-10 13:49:04
+899,TCK-GKNG36JK,High,On Hold,Other,Issue related to Software,Detailed ticket description ZBsaclqCkbVLGhICCDeN,2023-11-28,2023-12-14,Technician A,2025-12-10 13:49:04
+900,TCK-Z0ZNPHWC,High,Closed,Network,Issue related to Other,Detailed ticket description GhHjIjQhqQKlCdtfnfjL,2023-07-11,2023-07-20,Technician B,2025-12-10 13:49:04
+901,TCK-JZXPN9SC,Critical,On Hold,Other,Issue related to Security,Detailed ticket description cZEZHRrTRROUkREtpmau,2023-03-08,,IT Support 1,2025-12-10 13:49:04
+902,TCK-KNHSU3G0,Low,In Progress,Software,Issue related to Hardware,Detailed ticket description pNBIwHpmVxHaUszeatSQ,2024-04-13,2024-04-20,IT Support 2,2025-12-10 13:49:04
+903,TCK-FB9ITHW8,Critical,On Hold,Security,Issue related to Hardware,Detailed ticket description xkxZjCaAujkZOCuJzcFt,2023-03-31,,Unassigned,2025-12-10 13:49:04
+904,TCK-029PXKHW,Low,Open,Hardware,Issue related to Access Request,Detailed ticket description MhacwNgQjxsLYaWcQPTh,2023-08-24,2023-09-18,Unassigned,2025-12-10 13:49:04
+905,TCK-SVNH8WSA,High,In Progress,Security,Issue related to Software,Detailed ticket description XlWkDaSeLNqMaKrilZIz,2023-12-24,2024-01-05,Admin,2025-12-10 13:49:04
+906,TCK-Y77L0TDD,Medium,Closed,Software,Issue related to Security,Detailed ticket description ypmAulyYPfDWJINkBxsM,2024-08-11,2024-09-02,IT Support 2,2025-12-10 13:49:04
+907,TCK-S5C4NIV3,High,In Progress,Other,Issue related to Hardware,Detailed ticket description hRyWeFZpUyrkedaPTACA,2023-10-28,2023-11-27,Unassigned,2025-12-10 13:49:04
+908,TCK-BZBXCXKH,Low,Resolved,Software,Issue related to Other,Detailed ticket description XNqvvwytSnEVtEsAClxR,2024-08-25,2024-09-07,IT Support 2,2025-12-10 13:49:04
+909,TCK-E7KOC3HK,Low,Open,Hardware,Issue related to Network,Detailed ticket description kdLokIqAdcrBApeKgreS,2024-06-12,2024-06-25,IT Support 2,2025-12-10 13:49:04
+910,TCK-T2FXC6TG,High,In Progress,Other,Issue related to Security,Detailed ticket description WsBvBVbaOcFXTnKLhRDT,2023-06-12,2023-07-12,IT Support 2,2025-12-10 13:49:04
+911,TCK-DL60CLH3,Low,Open,Software,Issue related to Software,Detailed ticket description sihhZzWCChNvLJJTTrXN,2024-03-10,2024-03-23,IT Support 2,2025-12-10 13:49:04
+912,TCK-RWCX3S9J,Low,Closed,Security,Issue related to Network,Detailed ticket description KarwiYYsUQMAwlJyXsMh,2024-11-17,2024-12-01,Technician B,2025-12-10 13:49:04
+913,TCK-DP1MF877,Critical,In Progress,Security,Issue related to Software,Detailed ticket description CwUtMeFkYBopeerMNatX,2023-11-21,2023-12-16,Technician A,2025-12-10 13:49:04
+914,TCK-JG9PPMV8,Low,Closed,Software,Issue related to Access Request,Detailed ticket description gAeXnExwxCmwsPJSIERh,2024-03-10,2024-03-25,Unassigned,2025-12-10 13:49:04
+915,TCK-2BGJ7HKB,Critical,In Progress,Software,Issue related to Hardware,Detailed ticket description fGLrodWdDEnydqQzjexc,2023-06-10,,IT Support 1,2025-12-10 13:49:04
+916,TCK-JUROYHSJ,Medium,In Progress,Network,Issue related to Network,Detailed ticket description HBmNIbIyqoMlYnbSMKNI,2023-03-03,2023-03-04,Technician A,2025-12-10 13:49:04
+917,TCK-TAZTI8HN,Low,In Progress,Security,Issue related to Software,Detailed ticket description bstVpElhsxuvdcrzKKZu,2023-08-14,2023-08-30,IT Support 2,2025-12-10 13:49:04
+918,TCK-Y4O62UEF,Critical,Resolved,Network,Issue related to Security,Detailed ticket description oKGXGGbNFKHnHPGfBDBU,2023-07-11,2023-07-28,Unassigned,2025-12-10 13:49:04
+919,TCK-XK23XU1X,Medium,In Progress,Software,Issue related to Software,Detailed ticket description AkjbFKcMbmkwMUQDgduN,2024-06-19,,Unassigned,2025-12-10 13:49:04
+920,TCK-FM0UMHCJ,High,Resolved,Network,Issue related to Access Request,Detailed ticket description YSIDDmBGjJBRyjPeIbYv,2023-08-16,2023-09-13,Technician B,2025-12-10 13:49:04
+921,TCK-88WUEXQG,Critical,Open,Hardware,Issue related to Hardware,Detailed ticket description niGvOfljAHOHLCLvipHF,2024-09-21,2024-09-22,Technician B,2025-12-10 13:49:04
+922,TCK-K1QRXU4H,Medium,In Progress,Network,Issue related to Hardware,Detailed ticket description xYUpAoNMdmXnCSVRjTQi,2023-09-23,2023-10-03,Admin,2025-12-10 13:49:04
+923,TCK-8U3JI5VU,Low,Resolved,Hardware,Issue related to Access Request,Detailed ticket description dDqDzPDymLfqWXMfzEPu,2023-06-25,2023-07-23,IT Support 1,2025-12-10 13:49:04
+924,TCK-S01UTCB0,High,Resolved,Security,Issue related to Software,Detailed ticket description dlrxKWDivcDuncKjSmTp,2024-03-14,2024-04-05,Unassigned,2025-12-10 13:49:04
+925,TCK-7Z9WGZM9,Medium,On Hold,Other,Issue related to Software,Detailed ticket description HZwJKipULhvZoJdkMJcD,2024-05-04,2024-05-13,Unassigned,2025-12-10 13:49:04
+926,TCK-H8PXRTTW,Medium,In Progress,Security,Issue related to Hardware,Detailed ticket description ZiXHifGKZVlzWOjWlurd,2023-02-25,2023-03-05,IT Support 2,2025-12-10 13:49:04
+927,TCK-V5QHMH9S,Low,On Hold,Network,Issue related to Access Request,Detailed ticket description OMtLNOBppKYPrjlrPekd,2024-02-04,,Technician B,2025-12-10 13:49:04
+928,TCK-P20MAJV0,High,In Progress,Access Request,Issue related to Security,Detailed ticket description ThtWIvGmBnSxqqCSZXze,2024-10-12,,IT Support 2,2025-12-10 13:49:04
+929,TCK-KG6C81I6,Medium,Closed,Hardware,Issue related to Other,Detailed ticket description TjlseWWWWCBeylfmzCtQ,2023-07-16,2023-07-28,IT Support 1,2025-12-10 13:49:04
+930,TCK-BYR1RQ2S,Medium,Resolved,Software,Issue related to Other,Detailed ticket description mKjmEmIvZfKEIdjJuHtE,2024-04-28,,Admin,2025-12-10 13:49:04
+931,TCK-MY7DR66V,Low,On Hold,Network,Issue related to Security,Detailed ticket description dwspBPuxAzZwXPXVDyTz,2024-11-01,2024-11-23,Unassigned,2025-12-10 13:49:04
+932,TCK-A8U3D30T,High,Resolved,Access Request,Issue related to Other,Detailed ticket description zerRpmLyolUPMTVRaZeR,2024-01-17,2024-02-05,Unassigned,2025-12-10 13:49:04
+933,TCK-SFU7GMC8,High,On Hold,Hardware,Issue related to Network,Detailed ticket description lDVegKkCGmOnTtzvhNPB,2023-12-13,2023-12-29,IT Support 2,2025-12-10 13:49:04
+934,TCK-3EU49DHV,Low,Resolved,Security,Issue related to Software,Detailed ticket description RImmksSJkbqLuEkjJsGZ,2024-08-22,2024-09-05,IT Support 1,2025-12-10 13:49:04
+935,TCK-T929WTWR,Low,Closed,Other,Issue related to Network,Detailed ticket description uQQSuARtsYFaASaCRqLX,2024-01-26,,Unassigned,2025-12-10 13:49:04
+936,TCK-QTDN6O84,Low,Open,Other,Issue related to Security,Detailed ticket description aaRYJuStfDGpxUyuZccH,2023-07-23,2023-07-31,IT Support 2,2025-12-10 13:49:04
+937,TCK-4BU7S35J,Medium,Closed,Network,Issue related to Network,Detailed ticket description ueAlWAXZmZhlhtClxvIw,2023-08-19,2023-09-08,IT Support 1,2025-12-10 13:49:04
+938,TCK-LACDL494,High,Open,Hardware,Issue related to Access Request,Detailed ticket description LkDblXIIicgCdHVKkpmz,2023-05-01,2023-05-09,Technician A,2025-12-10 13:49:04
+939,TCK-P9OIBWDN,High,Resolved,Security,Issue related to Network,Detailed ticket description hSZflKtCUGHaYLOwzDAR,2023-06-24,2023-07-16,Admin,2025-12-10 13:49:04
+940,TCK-RKU1LIRF,Critical,In Progress,Hardware,Issue related to Software,Detailed ticket description icBWioUKTRazesdWcTKv,2024-10-21,2024-11-12,Technician A,2025-12-10 13:49:04
+941,TCK-EOJ10T5T,High,Open,Access Request,Issue related to Network,Detailed ticket description AcXarKEpAWUDCcltXUsZ,2024-10-18,2024-11-15,Admin,2025-12-10 13:49:04
+942,TCK-BEA1ICT1,High,In Progress,Software,Issue related to Security,Detailed ticket description tZZbaqgzKJffXgGGEsrZ,2024-03-08,,Technician A,2025-12-10 13:49:04
+943,TCK-ZXVHVWJE,Critical,On Hold,Access Request,Issue related to Network,Detailed ticket description ADaDpMQgPXoaNEBHRaLo,2023-11-17,2023-12-09,IT Support 2,2025-12-10 13:49:04
+944,TCK-VA5LO9NO,Low,Closed,Security,Issue related to Access Request,Detailed ticket description WnANtbXHtYKGOahJuqBx,2023-04-03,2023-04-15,Unassigned,2025-12-10 13:49:04
+945,TCK-E1QOMWK4,Low,Open,Network,Issue related to Other,Detailed ticket description gwkkCIJnVZShXQcILCDK,2023-04-25,,IT Support 2,2025-12-10 13:49:04
+946,TCK-R0NDE9A5,High,On Hold,Hardware,Issue related to Access Request,Detailed ticket description oNYWeMqBpTJllhVIiqHu,2023-06-19,2023-06-30,IT Support 1,2025-12-10 13:49:04
+947,TCK-15GBHUZD,High,In Progress,Network,Issue related to Hardware,Detailed ticket description xyMpDxzECzCZnfhpFMkc,2023-03-09,2023-04-08,Technician B,2025-12-10 13:49:04
+948,TCK-8KE05241,Critical,On Hold,Software,Issue related to Network,Detailed ticket description zuINcuvstumoHToBEKvy,2024-11-27,2024-12-23,IT Support 1,2025-12-10 13:49:04
+949,TCK-2RECWM4O,Low,Open,Hardware,Issue related to Software,Detailed ticket description pHuLGLJsfzGUUzqCxOZT,2023-01-01,,Technician A,2025-12-10 13:49:04
+950,TCK-73PS0HGA,High,Resolved,Software,Issue related to Other,Detailed ticket description JhCefEzwVkmlvUuzqPfc,2024-07-05,2024-07-11,Unassigned,2025-12-10 13:49:04
+951,TCK-LQ4B8R9H,High,Open,Network,Issue related to Software,Detailed ticket description GdxJvZoBEOFQVWvnWJVa,2023-05-25,2023-05-31,Unassigned,2025-12-10 13:49:04
+952,TCK-MVFVUMB4,Low,Closed,Access Request,Issue related to Network,Detailed ticket description lfnuGdGLBWALCpArRnGy,2024-01-12,2024-01-22,Unassigned,2025-12-10 13:49:04
+953,TCK-WP7HXDL9,High,Open,Network,Issue related to Other,Detailed ticket description xvRMsxrKlbcNwmXHryxL,2023-02-07,2023-03-01,Unassigned,2025-12-10 13:49:04
+954,TCK-4GPWDTKU,Medium,In Progress,Other,Issue related to Network,Detailed ticket description BfPuFpEUUFTWUvfoohpP,2024-01-09,2024-01-22,Technician B,2025-12-10 13:49:04
+955,TCK-MCQ0QT0V,Critical,Closed,Hardware,Issue related to Other,Detailed ticket description XGDFZSjPErqBzsRDuWNO,2023-02-10,,Technician B,2025-12-10 13:49:04
+956,TCK-2BZJFK23,Critical,In Progress,Software,Issue related to Security,Detailed ticket description AisZEAdrRdZuUlQRkIgd,2024-06-25,2024-07-24,Technician A,2025-12-10 13:49:04
+957,TCK-MKSB1SNZ,Low,Closed,Hardware,Issue related to Hardware,Detailed ticket description vnZMVZMufrCrkjNoNeoO,2023-11-18,,IT Support 2,2025-12-10 13:49:04
+958,TCK-5G63Z07W,Low,Resolved,Network,Issue related to Access Request,Detailed ticket description ovigcgSLBItszusyPAmd,2023-04-17,2023-04-26,Technician A,2025-12-10 13:49:04
+959,TCK-1NIV4AFS,Low,Closed,Network,Issue related to Hardware,Detailed ticket description JqSZclxuGMVKwBSkHFsz,2024-10-25,,IT Support 2,2025-12-10 13:49:04
+960,TCK-FEFBZ14Z,Medium,Resolved,Security,Issue related to Security,Detailed ticket description KAfCyoFylupeTSRfjwYN,2023-06-09,2023-06-24,IT Support 1,2025-12-10 13:49:04
+961,TCK-54C3YBA7,Medium,Closed,Hardware,Issue related to Access Request,Detailed ticket description SKYbwhGFQMgpcJUynTbk,2024-02-29,2024-03-13,Admin,2025-12-10 13:49:04
+962,TCK-PDVR29GN,High,Closed,Network,Issue related to Access Request,Detailed ticket description AspvsnfWGjXxnSCrIwBy,2023-08-18,,Technician A,2025-12-10 13:49:04
+963,TCK-54Q9APVL,Critical,In Progress,Software,Issue related to Hardware,Detailed ticket description jrrhBsBnbpzrCLKoWGgw,2024-11-03,,Technician A,2025-12-10 13:49:04
+964,TCK-NDCOZARX,High,In Progress,Other,Issue related to Access Request,Detailed ticket description oCgSKnEzpjuCnAZUBEWY,2024-10-26,2024-11-25,IT Support 2,2025-12-10 13:49:04
+965,TCK-0FIKDYMV,Critical,Resolved,Access Request,Issue related to Security,Detailed ticket description PUtHljMxgfKQSozASkbi,2024-07-04,2024-07-15,IT Support 1,2025-12-10 13:49:04
+966,TCK-RN1MB04W,High,Closed,Security,Issue related to Access Request,Detailed ticket description WgBRrYQMIkMuvlIfWqoe,2023-02-14,2023-03-13,Admin,2025-12-10 13:49:04
+967,TCK-QXBJM5NR,High,On Hold,Security,Issue related to Security,Detailed ticket description YeKyQxYgkbWOdeklaBce,2023-02-03,2023-02-18,IT Support 2,2025-12-10 13:49:04
+968,TCK-U0NP2058,Medium,Resolved,Network,Issue related to Other,Detailed ticket description OzHxDPyOMYtGLvHawLcd,2024-01-25,2024-02-02,Technician B,2025-12-10 13:49:04
+969,TCK-BLWSZ5T7,High,Closed,Network,Issue related to Access Request,Detailed ticket description HVIXzelMZaIqUPcAwUyy,2024-05-06,2024-05-15,Technician B,2025-12-10 13:49:04
+970,TCK-DG30UFBA,High,On Hold,Other,Issue related to Security,Detailed ticket description eqOxBuQGKDpfwJoTqgtf,2024-05-11,2024-05-16,Technician A,2025-12-10 13:49:04
+971,TCK-WBAWIDQ9,High,Open,Security,Issue related to Security,Detailed ticket description bNICrhNlyLOcWfIcUweb,2024-02-18,2024-02-24,Admin,2025-12-10 13:49:04
+972,TCK-Q8DFJ0IA,Medium,In Progress,Hardware,Issue related to Hardware,Detailed ticket description MTUQInxFZbHrgmvxeGav,2023-01-09,2023-01-18,IT Support 2,2025-12-10 13:49:04
+973,TCK-ZCP0RLHG,Low,Closed,Other,Issue related to Network,Detailed ticket description gXFLOAwtVPwWMSKMSRwt,2023-08-06,2023-09-02,IT Support 2,2025-12-10 13:49:04
+974,TCK-K44CGKJO,High,On Hold,Software,Issue related to Other,Detailed ticket description OcwErClliodNriAbzxBp,2023-01-18,2023-01-20,Admin,2025-12-10 13:49:04
+975,TCK-UFIRJ4OX,Low,In Progress,Security,Issue related to Security,Detailed ticket description VDRzZkbkDCHkFHoBaMfm,2023-11-20,2023-11-25,IT Support 2,2025-12-10 13:49:04
+976,TCK-9HQAKNJK,Critical,Resolved,Access Request,Issue related to Network,Detailed ticket description xlQjPiAkzywIjSeuwPKu,2023-12-05,2023-12-29,Technician B,2025-12-10 13:49:04
+977,TCK-HTS0R7HH,Medium,Resolved,Hardware,Issue related to Security,Detailed ticket description kFvGOXdQGYhZhkOtmfEu,2024-01-22,2024-02-17,IT Support 2,2025-12-10 13:49:04
+978,TCK-UC3AROUJ,Medium,In Progress,Security,Issue related to Hardware,Detailed ticket description QIsFcZBHvBqRHZrOahFz,2024-05-10,,Unassigned,2025-12-10 13:49:04
+979,TCK-KZ2NUFT5,High,In Progress,Access Request,Issue related to Security,Detailed ticket description bIlPbPBZpBDvJgKEImBQ,2023-04-29,2023-05-07,IT Support 1,2025-12-10 13:49:04
+980,TCK-FGORZ7XZ,High,Resolved,Software,Issue related to Hardware,Detailed ticket description qeIhuCqZmCVyRaDfHbNS,2023-08-05,2023-08-23,Admin,2025-12-10 13:49:04
+981,TCK-0IBDCEW8,Critical,On Hold,Software,Issue related to Software,Detailed ticket description vsFzeMbwbEpQKwaLlYJm,2024-03-30,,Technician A,2025-12-10 13:49:04
+982,TCK-QXD5NT15,High,Open,Software,Issue related to Access Request,Detailed ticket description niyPaDDRmClaFlZkMVLP,2024-03-29,2024-04-16,Technician A,2025-12-10 13:49:04
+983,TCK-F5TUYX29,Medium,On Hold,Network,Issue related to Hardware,Detailed ticket description ILCgGrCJvtJePHIBNDKQ,2023-05-13,,IT Support 2,2025-12-10 13:49:04
+984,TCK-7XTEGHF1,Medium,On Hold,Network,Issue related to Access Request,Detailed ticket description JvWDmFuDQAZNTADqpYVE,2024-08-10,,Technician A,2025-12-10 13:49:04
+985,TCK-YALIEMQM,Low,In Progress,Access Request,Issue related to Network,Detailed ticket description MwHdsUSfuGFoAtEjmcPd,2023-08-09,,Technician A,2025-12-10 13:49:04
+986,TCK-QH7KGB13,High,Resolved,Software,Issue related to Other,Detailed ticket description qfKUgGvxFhUTlGQhfmHC,2024-08-28,2024-08-31,Unassigned,2025-12-10 13:49:04
+987,TCK-UNQJN8WU,Low,Resolved,Access Request,Issue related to Other,Detailed ticket description xfCDmAANMyifCBfUnBCP,2023-05-16,,Unassigned,2025-12-10 13:49:04
+988,TCK-UB40XNY3,Critical,On Hold,Security,Issue related to Network,Detailed ticket description NRctwcuZbJoZLUiZQqOS,2023-02-08,2023-02-21,Admin,2025-12-10 13:49:04
+989,TCK-07S9KNH4,Medium,Closed,Other,Issue related to Other,Detailed ticket description htiNbnTspVlJEDwqdBKR,2024-02-24,2024-03-17,Unassigned,2025-12-10 13:49:04
+990,TCK-YKBSC8KM,Critical,In Progress,Other,Issue related to Software,Detailed ticket description SBJePLXekFmRSzTpdlDI,2023-08-16,2023-09-03,IT Support 1,2025-12-10 13:49:04
+991,TCK-0L3YKOCU,Medium,On Hold,Software,Issue related to Network,Detailed ticket description CKMIPOTfUQilSuvtWKOh,2023-01-17,,Admin,2025-12-10 13:49:04
+992,TCK-JTP9C2RS,Low,In Progress,Software,Issue related to Other,Detailed ticket description IZnsiQQtcunOzbEnyBZz,2024-11-09,2024-11-27,Technician A,2025-12-10 13:49:04
+993,TCK-PP8N5TXI,Low,In Progress,Access Request,Issue related to Software,Detailed ticket description iuUXxaBfTbbBOihXhirW,2023-10-14,,Unassigned,2025-12-10 13:49:04
+994,TCK-6UBPHP4Q,Low,Resolved,Other,Issue related to Security,Detailed ticket description PwRvmQCACKWuppxFfjqW,2023-12-27,,Admin,2025-12-10 13:49:04
+995,TCK-EWHQX8D9,High,Resolved,Access Request,Issue related to Security,Detailed ticket description unlXlcWMoRymVjifejNz,2024-08-25,,IT Support 1,2025-12-10 13:49:04
+996,TCK-G1E9RTZH,Low,Closed,Network,Issue related to Hardware,Detailed ticket description oPzJFOWdbYDfIVYahEKR,2024-05-26,2024-06-21,IT Support 2,2025-12-10 13:49:04
+997,TCK-BYOR6KIT,Low,In Progress,Network,Issue related to Access Request,Detailed ticket description EskfeUfMOCbDisKhCQOK,2023-11-30,2023-12-27,IT Support 1,2025-12-10 13:49:04
+998,TCK-1GE7AM4E,Medium,Open,Software,Issue related to Network,Detailed ticket description IYtLbIUMpCdfedpBPRwJ,2023-02-27,2023-03-26,Admin,2025-12-10 13:49:04
+999,TCK-PKLSUUWU,Low,In Progress,Software,Issue related to Access Request,Detailed ticket description GGEfcXtdbtKCHTTukXFt,2024-10-02,2024-10-20,Technician A,2025-12-10 13:49:04
+1000,TCK-T4FXEG3H,High,Open,Access Request,Issue related to Access Request,Detailed ticket description ZWpJqqNFOMKuMlojFTHw,2023-10-31,2023-11-01,Technician A,2025-12-10 13:49:04
